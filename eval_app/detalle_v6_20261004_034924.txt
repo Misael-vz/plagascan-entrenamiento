@@ -1,0 +1,53 @@
+# Detalle del modelo v6 (float32) con el flujo de la app -- 2026-10-04 03:49
+actual: /home/misael/AndroidStudioProjects/proyecto/app/src/main/assets/plagascan_mobilenetv2.tflite
+v6:     /home/misael/plagascan/model_v6/plagascan_mobilenetv2_float32.tflite
+
+grupo                                        esperado  modelo   sin_hoja no_frijol   sano(V)   sano(A)  plaga(A)  plaga(R)   correcto
+val/sano                                     sano      actual          0         0        40         0         0         0    40/40 
+                                                       v6              0         0        40         0         0         0    40/40 
+val/plaga                                    plaga     actual          0         3         0         0         2        33    35/38 
+                                                       v6              0         3         0         0         2        33    35/38 
+val/no_frijol                                no_frijol actual          4        58         2         1         1         0    62/66 
+                                                       v6              4        57         0         3         1         1    61/66 
+campo/evidencia_campo_frijol/prueba_honesta  sano      actual          0         0         4         0         0         0     4/4  
+                                                       v6              0         0         4         0         0         0     4/4  
+campo/evidencia_campo_v2/prueba_honesta      sano      actual          0         1         7         0         0         0     7/8  
+                                                       v6              0         0         8         0         0         0     8/8  
+campo/otros_no_frijol                        no_frijol actual          0        12         0         0         1         0    12/13 
+                                                       v6              0        13         0         0         0         0    13/13 
+prueba_oct/frijol                            sano      actual          0        11         1         0         0         0     1/12 
+                                                       v6              0         0        12         0         0         0    12/12 
+prueba_oct/otros                             no_frijol actual          7         4         0         0         0         0    11/11 
+                                                       v6              7         4         0         0         0         0    11/11 
+campo_nuevo/frijol                           sano      actual          2         5        13         5         0         0    18/25 
+                                                       v6              2         2        19         2         0         0    21/25 
+campo_nuevo/otros                            no_frijol actual          3        13         1         0         2         0    16/19 
+                                                       v6              3        12         1         0         2         1    15/19 
+
+## Resumen: validación + campo juntos (cada foto contada una sola vez)
+  actual:
+    frijol sano reconocido:        70/89   (falsa plaga: 0, de ellas en rojo: 0)
+    no-frijol bien rechazado:      101/109   (dijo sano: 4; dijo plaga: 4, en rojo: 0)
+    plaga detectada (validación):  35/38   (en rojo: 33; dijo sano: 0)
+  v6:
+    frijol sano reconocido:        85/89   (falsa plaga: 0, de ellas en rojo: 0)
+    no-frijol bien rechazado:      100/109   (dijo sano: 4; dijo plaga: 5, en rojo: 2)
+    plaga detectada (validación):  35/38   (en rojo: 33; dijo sano: 0)
+
+## Errores del v6, foto por foto (16)
+  val/plaga | plaga_lelephid_0013.jpg | esperado=plaga | v6 dice no_frijol 0.68
+  val/plaga | plaga_inaturalist_expanded_0017.jpg | esperado=plaga | v6 dice no_frijol 0.56
+  val/plaga | plaga_inaturalist_0032.jpg | esperado=plaga | v6 dice no_frijol 0.96
+  val/no_frijol | no_frijol_plantdoc_0021.jpg | esperado=no_frijol | v6 dice sano(A) 0.76
+  val/no_frijol | no_frijol_plantdoc_0039.jpg | esperado=no_frijol | v6 dice plaga(A) 0.61
+  val/no_frijol | no_frijol_plantdoc_0046.jpg | esperado=no_frijol | v6 dice plaga(R) 0.90
+  val/no_frijol | no_frijol_plantdoc_0049.jpg | esperado=no_frijol | v6 dice sano(A) 0.79
+  val/no_frijol | no_frijol_plantdoc_0059.jpg | esperado=no_frijol | v6 dice sano(A) 0.75
+  campo_nuevo/frijol | gt_1788923704922.jpg | esperado=sano | v6 dice no_frijol 0.86
+  campo_nuevo/frijol | gt_1788923782003.jpg | esperado=sano | v6 dice sin_hoja 0.00
+  campo_nuevo/frijol | gt_1790119758512.jpg | esperado=sano | v6 dice sin_hoja 0.00
+  campo_nuevo/frijol | gt_1790119806735.jpg | esperado=sano | v6 dice no_frijol 0.92
+  campo_nuevo/otros | gt_1788297580211.jpg | esperado=no_frijol | v6 dice plaga(R) 0.88
+  campo_nuevo/otros | gt_1788297591434.jpg | esperado=no_frijol | v6 dice plaga(A) 0.62
+  campo_nuevo/otros | gt_1788297598318.jpg | esperado=no_frijol | v6 dice plaga(A) 0.69
+  campo_nuevo/otros | gt_1788552866394.jpg | esperado=no_frijol | v6 dice sano(V) 1.00

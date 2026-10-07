@@ -1,0 +1,49 @@
+# Calibración del semáforo -- 2026-10-05 12:19
+Fotos con hoja detectada: 615 (plaga 223, frijol sano 87, no frijol 305); sin hoja: 16
+
+## ROJO: 'Pulgón amarillo detectado' cuando plaga >= umbral
+ umbral | rojos correctos  (limón) (amarillo real) | rojos FALSOS (en frijol sano) (en no frijol) | plaga que queda en amarillo
+   0.50 |             150      146               4 |           15                1             14 |                           0
+   0.60 |             142      138               4 |           14                1             13 |                           8
+   0.70 |             136      132               4 |           10                1              9 |                          14
+   0.80 |             124      120               4 |            6                1              5 |                          26
+   0.85 |             121      117               4 |            5                1              4 |                          29
+   0.90 |             105      102               3 |            3                1              2 |                          45
+   0.95 |              88       86               2 |            1                0              1 |                          62
+   0.97 |              76       75               1 |            1                0              1 |                          74
+   0.99 |              57       57               0 |            0                0              0 |                          93
+
+## VERDE: 'Planta sana' cuando sano >= umbral
+ umbral | verdes correctos (frijol propio) | verdes FALSOS (era plaga) (no era frijol) | sano que queda en amarillo
+   0.50 |               83              43 |             4           0               4 |                          0
+   0.60 |               83              43 |             4           0               4 |                          0
+   0.70 |               83              43 |             4           0               4 |                          0
+   0.80 |               82              42 |             3           0               3 |                          1
+   0.85 |               81              41 |             3           0               3 |                          2
+   0.90 |               81              41 |             2           0               2 |                          2
+   0.95 |               79              41 |             2           0               2 |                          4
+   0.97 |               79              41 |             1           0               1 |                          4
+   0.99 |               77              39 |             1           0               1 |                          6
+
+## Todas las predicciones 'plaga' equivocadas (de mayor a menor confianza)
+  0.988 | limón sano | healthy.212.jpg
+  0.948 | frijol propio | gt_1788923767683.jpg
+  0.933 | limón sano | healthy.67.jpg
+  0.899 | limón sano | healthy.310.jpg
+  0.857 | limón sano | healthy.317.jpg
+  0.827 | otros | Corn_leaf_blight_662.jpg
+  0.798 | limón sano | healthy.263.jpg
+  0.752 | otros | Squash_Powdery_mildew_leaf_1343.jpg
+  0.740 | limón sano | healthy.66.jpg
+  0.725 | limón sano | healthy.318.jpg
+  0.698 | limón sano | healthy.173.jpg
+  0.668 | limón sano | healthy.226.jpg
+  0.639 | limón sano | healthy.65.jpg
+  0.627 | otros | Corn_leaf_blight_651.jpg
+  0.534 | limón sano | healthy.139.jpg
+
+## Todas las predicciones 'sano' equivocadas (de mayor a menor confianza)
+  1.000 | otros (era no_frijol) | gt_1788552866394.jpg
+  0.966 | otros (era no_frijol) | Soyabean_leaf_1312.jpg
+  0.881 | limón sano (era no_frijol) | healthy.35.jpg
+  0.793 | otros (era no_frijol) | Soyabean_leaf_1324.jpg

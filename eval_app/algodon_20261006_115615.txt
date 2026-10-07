@@ -1,0 +1,534 @@
+# Cotton Aphid Images con el flujo y el modelo de la app -- 2026-10-06 11:56
+Zip: /home/misael/plagascan/fuentes_nuevas/cotton_aphid/Cotton Aphid Images/cotto_ Aphid_Data_Model_Bkp.zip
+Modelo de la app: /home/misael/AndroidStudioProjects/proyecto/app/src/main/assets/plagascan_mobilenetv2.tflite (8691 KB)
+Fotos en el zip: 514 (ilegibles: 0). Distintas (sin repetidas, aprox.): 363
+Tamaños más comunes (fotos distintas): {'1536x1536': 209, '1536x2048': 148, '980x1308': 3, '2048x1536': 3}
+Área de hoja detectada (mediana, fotos distintas): 0.37
+
+carpeta                                             n |     plaga ROJO plaga AMARILLO     sano VERDE  sano AMARILLO      no_frijol       sin_hoja
+cotton Aphid                                      157 |              0              1              2              2            143              9
+cotton Aphid/training images/Set 1                 50 |              0              0              0              0             47              3
+cotton Aphid/training images/Set 2                 50 |              0              0              0              0             47              3
+cotton Aphid/training images/Set 3                 50 |              0              0              0              0             49              1
+cotton Aphid/training images/Set 4                 17 |              0              0              0              0             17              0
+cotton Aphid/training images/Testing               85 |              0              1              2              0             81              1
+cotton Aphid/training images/Testing/saved        105 |              0              0              0              0             99              6
+TOTAL SIN REPETIDAS                               363 |              0              1              2              2            341             17
+
+Resumen (fotos distintas): plaga 1/363 (0 en rojo); no_frijol 341; sano 4; sin hoja 17
+
+## Foto por foto
+cotton Aphid/Aphid (1).JPEG | sano AMARILLO 0.63 | area 0.85 | unica
+cotton Aphid/Aphid (10).JPEG | no_frijol 1.00 | area 0.98 | unica
+cotton Aphid/Aphid (100).JPEG | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/Aphid (101).JPEG | no_frijol 1.00 | area 0.26 | unica
+cotton Aphid/Aphid (102).JPEG | no_frijol 1.00 | area 0.38 | unica
+cotton Aphid/Aphid (103).JPEG | no_frijol 1.00 | area 0.37 | repetida
+cotton Aphid/Aphid (104).JPEG | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/Aphid (105).JPEG | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/Aphid (106).JPEG | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/Aphid (107).JPEG | no_frijol 1.00 | area 0.46 | unica
+cotton Aphid/Aphid (108).JPEG | no_frijol 1.00 | area 0.32 | unica
+cotton Aphid/Aphid (109).JPEG | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/Aphid (11).JPEG | no_frijol 1.00 | area 0.85 | unica
+cotton Aphid/Aphid (110).JPEG | no_frijol 1.00 | area 0.35 | unica
+cotton Aphid/Aphid (111).JPEG | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/Aphid (112).JPEG | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/Aphid (113).JPEG | no_frijol 0.97 | area 0.19 | unica
+cotton Aphid/Aphid (114).JPEG | no_frijol 0.97 | area 0.19 | repetida
+cotton Aphid/Aphid (115).JPEG | no_frijol 0.99 | area 0.34 | unica
+cotton Aphid/Aphid (116).JPEG | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/Aphid (117).JPEG | no_frijol 1.00 | area 0.18 | unica
+cotton Aphid/Aphid (118).JPEG | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/Aphid (119).JPEG | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/Aphid (12).JPEG | no_frijol 0.94 | area 0.81 | unica
+cotton Aphid/Aphid (120).JPEG | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/Aphid (121).JPEG | no_frijol 1.00 | area 0.21 | unica
+cotton Aphid/Aphid (122).JPEG | no_frijol 1.00 | area 0.17 | unica
+cotton Aphid/Aphid (123).JPEG | no_frijol 1.00 | area 0.20 | unica
+cotton Aphid/Aphid (124).JPEG | no_frijol 0.99 | area 0.23 | unica
+cotton Aphid/Aphid (125).JPEG | sin_hoja 0.00 | area 0.13 | unica
+cotton Aphid/Aphid (126).JPEG | no_frijol 1.00 | area 0.21 | unica
+cotton Aphid/Aphid (127).JPEG | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/Aphid (128).JPEG | no_frijol 1.00 | area 0.31 | unica
+cotton Aphid/Aphid (129).JPEG | no_frijol 1.00 | area 0.16 | unica
+cotton Aphid/Aphid (13).JPEG | no_frijol 0.85 | area 0.75 | unica
+cotton Aphid/Aphid (130).JPEG | no_frijol 0.99 | area 0.33 | unica
+cotton Aphid/Aphid (131).JPEG | no_frijol 0.99 | area 0.19 | unica
+cotton Aphid/Aphid (132).JPEG | no_frijol 0.99 | area 0.26 | unica
+cotton Aphid/Aphid (133).JPEG | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/Aphid (134).JPEG | no_frijol 0.98 | area 0.35 | unica
+cotton Aphid/Aphid (135).JPEG | no_frijol 1.00 | area 0.34 | unica
+cotton Aphid/Aphid (136).JPEG | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/Aphid (137).JPEG | no_frijol 0.98 | area 0.28 | unica
+cotton Aphid/Aphid (138).JPEG | no_frijol 1.00 | area 0.31 | unica
+cotton Aphid/Aphid (139).JPEG | no_frijol 1.00 | area 0.32 | unica
+cotton Aphid/Aphid (14).JPEG | sano VERDE 0.95 | area 0.92 | unica
+cotton Aphid/Aphid (140).JPEG | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/Aphid (141).JPEG | no_frijol 1.00 | area 0.19 | unica
+cotton Aphid/Aphid (142).JPEG | no_frijol 1.00 | area 0.24 | unica
+cotton Aphid/Aphid (143).JPEG | no_frijol 1.00 | area 0.21 | unica
+cotton Aphid/Aphid (144).JPEG | no_frijol 0.99 | area 0.22 | unica
+cotton Aphid/Aphid (145).JPEG | no_frijol 0.97 | area 0.21 | unica
+cotton Aphid/Aphid (146).JPEG | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/Aphid (147).JPEG | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/Aphid (148).JPEG | no_frijol 1.00 | area 0.46 | unica
+cotton Aphid/Aphid (149).JPEG | no_frijol 1.00 | area 0.45 | unica
+cotton Aphid/Aphid (15).JPEG | sano VERDE 0.98 | area 0.92 | unica
+cotton Aphid/Aphid (150).JPEG | no_frijol 1.00 | area 0.26 | unica
+cotton Aphid/Aphid (151).JPEG | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/Aphid (152).JPEG | no_frijol 1.00 | area 0.34 | unica
+cotton Aphid/Aphid (153).JPEG | no_frijol 0.95 | area 0.36 | unica
+cotton Aphid/Aphid (154).JPEG | no_frijol 0.98 | area 0.36 | unica
+cotton Aphid/Aphid (155).JPEG | no_frijol 0.95 | area 0.37 | unica
+cotton Aphid/Aphid (156).JPEG | no_frijol 0.98 | area 0.31 | unica
+cotton Aphid/Aphid (157).JPEG | no_frijol 1.00 | area 0.35 | unica
+cotton Aphid/Aphid (16).JPEG | no_frijol 0.84 | area 0.84 | unica
+cotton Aphid/Aphid (17).JPEG | no_frijol 0.95 | area 0.88 | unica
+cotton Aphid/Aphid (18).JPEG | no_frijol 0.89 | area 0.83 | unica
+cotton Aphid/Aphid (19).JPEG | sano AMARILLO 0.71 | area 0.89 | unica
+cotton Aphid/Aphid (2).JPEG | no_frijol 0.81 | area 0.98 | unica
+cotton Aphid/Aphid (20).JPEG | no_frijol 0.59 | area 0.89 | unica
+cotton Aphid/Aphid (21).JPEG | no_frijol 0.56 | area 0.90 | unica
+cotton Aphid/Aphid (22).JPEG | no_frijol 0.52 | area 0.90 | unica
+cotton Aphid/Aphid (23).JPEG | no_frijol 0.99 | area 0.89 | unica
+cotton Aphid/Aphid (24).JPEG | no_frijol 1.00 | area 0.90 | unica
+cotton Aphid/Aphid (25).JPEG | no_frijol 0.98 | area 0.86 | unica
+cotton Aphid/Aphid (26).JPEG | no_frijol 0.96 | area 0.91 | unica
+cotton Aphid/Aphid (27).JPEG | no_frijol 1.00 | area 0.54 | unica
+cotton Aphid/Aphid (28).JPEG | no_frijol 0.97 | area 0.55 | unica
+cotton Aphid/Aphid (29).JPEG | no_frijol 0.99 | area 0.61 | unica
+cotton Aphid/Aphid (3).JPEG | no_frijol 0.78 | area 0.81 | unica
+cotton Aphid/Aphid (30).JPEG | no_frijol 0.72 | area 0.62 | unica
+cotton Aphid/Aphid (31).JPEG | no_frijol 0.85 | area 0.83 | unica
+cotton Aphid/Aphid (32).JPEG | no_frijol 0.66 | area 0.67 | unica
+cotton Aphid/Aphid (33).JPEG | no_frijol 0.84 | area 0.65 | unica
+cotton Aphid/Aphid (34).JPEG | no_frijol 0.83 | area 0.60 | unica
+cotton Aphid/Aphid (35).JPEG | no_frijol 0.91 | area 0.56 | unica
+cotton Aphid/Aphid (36).JPEG | no_frijol 0.99 | area 0.61 | unica
+cotton Aphid/Aphid (37).JPEG | plaga AMARILLO 0.53 | area 0.81 | unica
+cotton Aphid/Aphid (38).JPEG | no_frijol 1.00 | area 0.64 | unica
+cotton Aphid/Aphid (39).JPEG | no_frijol 1.00 | area 0.58 | unica
+cotton Aphid/Aphid (4).JPEG | no_frijol 0.98 | area 0.80 | unica
+cotton Aphid/Aphid (40).JPEG | no_frijol 0.97 | area 0.63 | unica
+cotton Aphid/Aphid (41).JPEG | no_frijol 0.99 | area 0.65 | unica
+cotton Aphid/Aphid (42).JPEG | no_frijol 1.00 | area 0.71 | unica
+cotton Aphid/Aphid (43).JPEG | no_frijol 0.77 | area 0.90 | unica
+cotton Aphid/Aphid (44).JPEG | no_frijol 0.98 | area 0.80 | unica
+cotton Aphid/Aphid (45).JPEG | no_frijol 1.00 | area 0.31 | unica
+cotton Aphid/Aphid (46).JPEG | no_frijol 1.00 | area 0.38 | unica
+cotton Aphid/Aphid (47).JPEG | no_frijol 1.00 | area 0.38 | unica
+cotton Aphid/Aphid (48).JPEG | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/Aphid (49).JPEG | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/Aphid (5).JPEG | no_frijol 1.00 | area 0.63 | unica
+cotton Aphid/Aphid (50).JPEG | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/Aphid (51).JPEG | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/Aphid (52).JPEG | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/Aphid (53).JPEG | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/Aphid (54).JPEG | no_frijol 0.95 | area 0.22 | unica
+cotton Aphid/Aphid (55).JPEG | no_frijol 0.98 | area 0.24 | unica
+cotton Aphid/Aphid (56).JPEG | no_frijol 1.00 | area 0.19 | unica
+cotton Aphid/Aphid (57).JPEG | no_frijol 1.00 | area 0.28 | unica
+cotton Aphid/Aphid (58).JPEG | no_frijol 1.00 | area 0.25 | unica
+cotton Aphid/Aphid (59).JPEG | no_frijol 1.00 | area 0.26 | unica
+cotton Aphid/Aphid (6).JPEG | no_frijol 0.89 | area 0.69 | unica
+cotton Aphid/Aphid (60).JPEG | sin_hoja 0.00 | area 0.08 | unica
+cotton Aphid/Aphid (61).JPEG | sin_hoja 0.00 | area 0.13 | unica
+cotton Aphid/Aphid (62).JPEG | sin_hoja 0.00 | area 0.09 | unica
+cotton Aphid/Aphid (63).JPEG | sin_hoja 0.00 | area 0.09 | unica
+cotton Aphid/Aphid (64).JPEG | sin_hoja 0.00 | area 0.09 | unica
+cotton Aphid/Aphid (65).JPEG | sin_hoja 0.00 | area 0.15 | unica
+cotton Aphid/Aphid (66).JPEG | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/Aphid (67).JPEG | no_frijol 1.00 | area 0.23 | unica
+cotton Aphid/Aphid (68).JPEG | no_frijol 1.00 | area 0.19 | unica
+cotton Aphid/Aphid (69).JPEG | no_frijol 1.00 | area 0.23 | unica
+cotton Aphid/Aphid (7).JPEG | no_frijol 0.98 | area 0.62 | unica
+cotton Aphid/Aphid (70).JPEG | no_frijol 1.00 | area 0.22 | unica
+cotton Aphid/Aphid (71).JPEG | no_frijol 0.99 | area 0.48 | unica
+cotton Aphid/Aphid (72).JPEG | no_frijol 0.99 | area 0.27 | unica
+cotton Aphid/Aphid (73).JPEG | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/Aphid (74).JPEG | no_frijol 0.99 | area 0.38 | unica
+cotton Aphid/Aphid (75).JPEG | no_frijol 0.98 | area 0.38 | unica
+cotton Aphid/Aphid (76).JPEG | sin_hoja 0.00 | area 0.12 | unica
+cotton Aphid/Aphid (77).JPEG | no_frijol 0.81 | area 0.20 | unica
+cotton Aphid/Aphid (78).JPEG | no_frijol 0.98 | area 0.32 | unica
+cotton Aphid/Aphid (79).JPEG | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/Aphid (8).JPEG | no_frijol 0.97 | area 0.94 | unica
+cotton Aphid/Aphid (80).JPEG | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/Aphid (81).JPEG | no_frijol 1.00 | area 0.22 | unica
+cotton Aphid/Aphid (82).JPEG | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/Aphid (83).JPEG | sin_hoja 0.00 | area 0.07 | unica
+cotton Aphid/Aphid (84).JPEG | no_frijol 0.96 | area 0.28 | unica
+cotton Aphid/Aphid (85).JPEG | no_frijol 0.98 | area 0.28 | unica
+cotton Aphid/Aphid (86).JPEG | no_frijol 1.00 | area 0.25 | unica
+cotton Aphid/Aphid (87).JPEG | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/Aphid (88).JPEG | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/Aphid (89).JPEG | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/Aphid (9).JPEG | no_frijol 1.00 | area 0.97 | repetida
+cotton Aphid/Aphid (90).JPEG | no_frijol 1.00 | area 0.38 | unica
+cotton Aphid/Aphid (91).JPEG | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/Aphid (92).JPEG | no_frijol 1.00 | area 0.38 | unica
+cotton Aphid/Aphid (93).JPEG | no_frijol 0.84 | area 0.21 | unica
+cotton Aphid/Aphid (94).JPEG | no_frijol 1.00 | area 0.48 | unica
+cotton Aphid/Aphid (95).JPEG | no_frijol 1.00 | area 0.49 | unica
+cotton Aphid/Aphid (96).JPEG | no_frijol 1.00 | area 0.34 | unica
+cotton Aphid/Aphid (97).JPEG | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/Aphid (98).JPEG | no_frijol 1.00 | area 0.24 | unica
+cotton Aphid/Aphid (99).JPEG | no_frijol 1.00 | area 0.24 | unica
+cotton Aphid/training images/Set 1/Aphid (1).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Set 1/Aphid (10).jpg | no_frijol 0.99 | area 0.32 | unica
+cotton Aphid/training images/Set 1/Aphid (11).jpg | no_frijol 1.00 | area 0.25 | unica
+cotton Aphid/training images/Set 1/Aphid (12).jpg | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/training images/Set 1/Aphid (13).jpg | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/training images/Set 1/Aphid (14).jpg | no_frijol 1.00 | area 0.35 | unica
+cotton Aphid/training images/Set 1/Aphid (15).jpg | sin_hoja 0.00 | area 0.11 | unica
+cotton Aphid/training images/Set 1/Aphid (16).jpg | no_frijol 1.00 | area 0.20 | unica
+cotton Aphid/training images/Set 1/Aphid (17).jpg | sin_hoja 0.00 | area 0.12 | unica
+cotton Aphid/training images/Set 1/Aphid (18).jpg | sin_hoja 0.00 | area 0.12 | unica
+cotton Aphid/training images/Set 1/Aphid (19).jpg | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/training images/Set 1/Aphid (2).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Set 1/Aphid (20).jpg | no_frijol 1.00 | area 0.31 | unica
+cotton Aphid/training images/Set 1/Aphid (21).jpg | no_frijol 1.00 | area 0.26 | unica
+cotton Aphid/training images/Set 1/Aphid (22).jpg | no_frijol 0.99 | area 0.30 | unica
+cotton Aphid/training images/Set 1/Aphid (23).jpg | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/training images/Set 1/Aphid (24).jpg | no_frijol 0.92 | area 0.59 | unica
+cotton Aphid/training images/Set 1/Aphid (25).jpg | no_frijol 0.98 | area 0.37 | unica
+cotton Aphid/training images/Set 1/Aphid (26).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 1/Aphid (27).jpg | no_frijol 0.98 | area 0.50 | unica
+cotton Aphid/training images/Set 1/Aphid (28).jpg | no_frijol 0.96 | area 0.51 | unica
+cotton Aphid/training images/Set 1/Aphid (29).jpg | no_frijol 0.88 | area 0.16 | unica
+cotton Aphid/training images/Set 1/Aphid (3).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Set 1/Aphid (30).jpg | no_frijol 0.98 | area 0.43 | unica
+cotton Aphid/training images/Set 1/Aphid (31).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Set 1/Aphid (32).jpg | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/training images/Set 1/Aphid (33).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 1/Aphid (34).jpg | no_frijol 0.98 | area 0.38 | unica
+cotton Aphid/training images/Set 1/Aphid (35).jpg | no_frijol 0.98 | area 0.38 | unica
+cotton Aphid/training images/Set 1/Aphid (36).jpg | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/training images/Set 1/Aphid (37).jpg | no_frijol 1.00 | area 0.55 | unica
+cotton Aphid/training images/Set 1/Aphid (38).jpg | no_frijol 1.00 | area 0.49 | unica
+cotton Aphid/training images/Set 1/Aphid (39).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Set 1/Aphid (4).jpg | no_frijol 1.00 | area 0.45 | unica
+cotton Aphid/training images/Set 1/Aphid (40).jpg | no_frijol 1.00 | area 0.50 | unica
+cotton Aphid/training images/Set 1/Aphid (41).jpg | no_frijol 1.00 | area 0.48 | unica
+cotton Aphid/training images/Set 1/Aphid (42).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Set 1/Aphid (43).jpg | no_frijol 0.87 | area 0.28 | unica
+cotton Aphid/training images/Set 1/Aphid (44).jpg | no_frijol 1.00 | area 0.61 | unica
+cotton Aphid/training images/Set 1/Aphid (45).jpg | no_frijol 1.00 | area 0.63 | unica
+cotton Aphid/training images/Set 1/Aphid (46).jpg | no_frijol 1.00 | area 0.46 | unica
+cotton Aphid/training images/Set 1/Aphid (47).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Set 1/Aphid (48).jpg | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/training images/Set 1/Aphid (49).jpg | no_frijol 1.00 | area 0.32 | unica
+cotton Aphid/training images/Set 1/Aphid (5).jpg | no_frijol 1.00 | area 0.55 | unica
+cotton Aphid/training images/Set 1/Aphid (50).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 1/Aphid (6).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 1/Aphid (7).jpg | no_frijol 1.00 | area 0.47 | unica
+cotton Aphid/training images/Set 1/Aphid (8).jpg | no_frijol 1.00 | area 0.52 | unica
+cotton Aphid/training images/Set 1/Aphid (9).jpg | no_frijol 1.00 | area 0.48 | unica
+cotton Aphid/training images/Set 2/Aphid (100).jpg | sin_hoja 0.00 | area 0.12 | unica
+cotton Aphid/training images/Set 2/Aphid (51).jpg | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Set 2/Aphid (52).jpg | no_frijol 1.00 | area 0.35 | unica
+cotton Aphid/training images/Set 2/Aphid (53).jpg | no_frijol 1.00 | area 0.50 | unica
+cotton Aphid/training images/Set 2/Aphid (54).jpg | no_frijol 1.00 | area 0.49 | unica
+cotton Aphid/training images/Set 2/Aphid (55).jpg | no_frijol 1.00 | area 0.47 | unica
+cotton Aphid/training images/Set 2/Aphid (56).jpg | no_frijol 1.00 | area 0.48 | unica
+cotton Aphid/training images/Set 2/Aphid (57).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 2/Aphid (58).jpg | no_frijol 1.00 | area 0.61 | unica
+cotton Aphid/training images/Set 2/Aphid (59).jpg | no_frijol 1.00 | area 0.43 | unica
+cotton Aphid/training images/Set 2/Aphid (60).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 2/Aphid (61).jpg | no_frijol 1.00 | area 0.46 | unica
+cotton Aphid/training images/Set 2/Aphid (62).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 2/Aphid (63).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 2/Aphid (64).jpg | no_frijol 1.00 | area 0.47 | unica
+cotton Aphid/training images/Set 2/Aphid (65).jpg | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/training images/Set 2/Aphid (66).jpg | no_frijol 1.00 | area 0.31 | unica
+cotton Aphid/training images/Set 2/Aphid (67).jpg | no_frijol 1.00 | area 0.28 | unica
+cotton Aphid/training images/Set 2/Aphid (68).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Set 2/Aphid (69).jpg | no_frijol 0.99 | area 0.35 | unica
+cotton Aphid/training images/Set 2/Aphid (70).jpg | no_frijol 1.00 | area 0.47 | unica
+cotton Aphid/training images/Set 2/Aphid (71).jpg | no_frijol 1.00 | area 0.45 | unica
+cotton Aphid/training images/Set 2/Aphid (72).jpg | no_frijol 0.98 | area 0.37 | unica
+cotton Aphid/training images/Set 2/Aphid (73).jpg | no_frijol 1.00 | area 0.40 | unica
+cotton Aphid/training images/Set 2/Aphid (74).jpg | no_frijol 1.00 | area 0.26 | unica
+cotton Aphid/training images/Set 2/Aphid (75).jpg | no_frijol 1.00 | area 0.40 | unica
+cotton Aphid/training images/Set 2/Aphid (76).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Set 2/Aphid (77).jpg | no_frijol 0.80 | area 0.60 | unica
+cotton Aphid/training images/Set 2/Aphid (78).jpg | no_frijol 0.87 | area 0.59 | unica
+cotton Aphid/training images/Set 2/Aphid (79).jpg | no_frijol 0.99 | area 0.34 | unica
+cotton Aphid/training images/Set 2/Aphid (80).jpg | no_frijol 0.99 | area 0.49 | unica
+cotton Aphid/training images/Set 2/Aphid (81).jpg | no_frijol 1.00 | area 0.45 | unica
+cotton Aphid/training images/Set 2/Aphid (82).jpg | no_frijol 0.90 | area 0.49 | unica
+cotton Aphid/training images/Set 2/Aphid (83).jpg | no_frijol 0.93 | area 0.48 | unica
+cotton Aphid/training images/Set 2/Aphid (84).jpg | no_frijol 0.97 | area 0.41 | unica
+cotton Aphid/training images/Set 2/Aphid (85).jpg | no_frijol 0.99 | area 0.46 | unica
+cotton Aphid/training images/Set 2/Aphid (86).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Set 2/Aphid (87).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Set 2/Aphid (88).jpg | no_frijol 1.00 | area 0.45 | unica
+cotton Aphid/training images/Set 2/Aphid (89).jpg | no_frijol 1.00 | area 0.55 | unica
+cotton Aphid/training images/Set 2/Aphid (90).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 2/Aphid (91).jpg | no_frijol 1.00 | area 0.47 | unica
+cotton Aphid/training images/Set 2/Aphid (92).jpg | no_frijol 1.00 | area 0.52 | unica
+cotton Aphid/training images/Set 2/Aphid (93).jpg | no_frijol 1.00 | area 0.48 | unica
+cotton Aphid/training images/Set 2/Aphid (94).jpg | no_frijol 0.99 | area 0.32 | unica
+cotton Aphid/training images/Set 2/Aphid (95).jpg | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/training images/Set 2/Aphid (96).jpg | no_frijol 1.00 | area 0.35 | unica
+cotton Aphid/training images/Set 2/Aphid (97).jpg | sin_hoja 0.00 | area 0.11 | unica
+cotton Aphid/training images/Set 2/Aphid (98).jpg | no_frijol 1.00 | area 0.20 | unica
+cotton Aphid/training images/Set 2/Aphid (99).jpg | sin_hoja 0.00 | area 0.12 | unica
+cotton Aphid/training images/Set 3/Aphid (101).jpg | sin_hoja 0.00 | area 0.15 | unica
+cotton Aphid/training images/Set 3/Aphid (102).jpg | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/training images/Set 3/Aphid (103).jpg | no_frijol 1.00 | area 0.31 | unica
+cotton Aphid/training images/Set 3/Aphid (104).jpg | no_frijol 1.00 | area 0.26 | unica
+cotton Aphid/training images/Set 3/Aphid (105).jpg | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/training images/Set 3/Aphid (106).jpg | no_frijol 1.00 | area 0.30 | repetida
+cotton Aphid/training images/Set 3/Aphid (107).jpg | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/training images/Set 3/Aphid (108).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 3/Aphid (109).jpg | no_frijol 1.00 | area 0.50 | unica
+cotton Aphid/training images/Set 3/Aphid (110).jpg | no_frijol 0.91 | area 0.16 | unica
+cotton Aphid/training images/Set 3/Aphid (111).jpg | no_frijol 1.00 | area 0.43 | unica
+cotton Aphid/training images/Set 3/Aphid (112).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Set 3/Aphid (113).jpg | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/training images/Set 3/Aphid (114).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 3/Aphid (115).jpg | no_frijol 1.00 | area 0.38 | unica
+cotton Aphid/training images/Set 3/Aphid (116).jpg | no_frijol 1.00 | area 0.38 | unica
+cotton Aphid/training images/Set 3/Aphid (117).jpg | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/training images/Set 3/Aphid (118).jpg | no_frijol 1.00 | area 0.55 | unica
+cotton Aphid/training images/Set 3/Aphid (119).jpg | no_frijol 1.00 | area 0.49 | unica
+cotton Aphid/training images/Set 3/Aphid (120).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Set 3/Aphid (121).jpg | no_frijol 1.00 | area 0.48 | unica
+cotton Aphid/training images/Set 3/Aphid (122).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Set 3/Aphid (123).jpg | no_frijol 1.00 | area 0.61 | unica
+cotton Aphid/training images/Set 3/Aphid (124).jpg | no_frijol 0.99 | area 0.63 | unica
+cotton Aphid/training images/Set 3/Aphid (125).jpg | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/training images/Set 3/Aphid (126).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 3/Aphid (127).jpg | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Set 3/Aphid (128).jpg | no_frijol 1.00 | area 0.35 | unica
+cotton Aphid/training images/Set 3/Aphid (129).jpg | no_frijol 0.99 | area 0.50 | unica
+cotton Aphid/training images/Set 3/Aphid (130).jpg | no_frijol 1.00 | area 0.49 | unica
+cotton Aphid/training images/Set 3/Aphid (131).jpg | no_frijol 1.00 | area 0.48 | unica
+cotton Aphid/training images/Set 3/Aphid (132).jpg | no_frijol 1.00 | area 0.61 | unica
+cotton Aphid/training images/Set 3/Aphid (133).jpg | no_frijol 1.00 | area 0.43 | unica
+cotton Aphid/training images/Set 3/Aphid (134).jpg | no_frijol 1.00 | area 0.46 | unica
+cotton Aphid/training images/Set 3/Aphid (135).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 3/Aphid (136).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 3/Aphid (137).jpg | no_frijol 1.00 | area 0.46 | unica
+cotton Aphid/training images/Set 3/Aphid (138).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Set 3/Aphid (139).jpg | no_frijol 1.00 | area 0.25 | unica
+cotton Aphid/training images/Set 3/Aphid (140).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Set 3/Aphid (141).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Set 3/Aphid (142).jpg | no_frijol 1.00 | area 0.23 | unica
+cotton Aphid/training images/Set 3/Aphid (143).jpg | no_frijol 1.00 | area 0.31 | unica
+cotton Aphid/training images/Set 3/Aphid (144).jpg | no_frijol 0.99 | area 0.28 | unica
+cotton Aphid/training images/Set 3/Aphid (145).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Set 3/Aphid (146).jpg | no_frijol 1.00 | area 0.42 | unica
+cotton Aphid/training images/Set 3/Aphid (147).jpg | no_frijol 1.00 | area 0.22 | unica
+cotton Aphid/training images/Set 3/Aphid (148).jpg | no_frijol 1.00 | area 0.25 | unica
+cotton Aphid/training images/Set 3/Aphid (149).jpg | no_frijol 1.00 | area 0.35 | unica
+cotton Aphid/training images/Set 3/Aphid (150).jpg | no_frijol 1.00 | area 0.45 | unica
+cotton Aphid/training images/Set 4/Aphid (151).jpg | no_frijol 1.00 | area 0.37 | unica
+cotton Aphid/training images/Set 4/Aphid (152).jpg | no_frijol 1.00 | area 0.43 | unica
+cotton Aphid/training images/Set 4/Aphid (153).jpg | no_frijol 1.00 | area 0.40 | unica
+cotton Aphid/training images/Set 4/Aphid (154).jpg | no_frijol 0.99 | area 0.26 | unica
+cotton Aphid/training images/Set 4/Aphid (155).jpg | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/training images/Set 4/Aphid (156).jpg | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/training images/Set 4/Aphid (157).jpg | no_frijol 0.96 | area 0.28 | unica
+cotton Aphid/training images/Set 4/Aphid (158).jpg | no_frijol 1.00 | area 0.40 | unica
+cotton Aphid/training images/Set 4/Aphid (159).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Set 4/Aphid (160).jpg | no_frijol 0.99 | area 0.59 | unica
+cotton Aphid/training images/Set 4/Aphid (161).jpg | no_frijol 1.00 | area 0.34 | unica
+cotton Aphid/training images/Set 4/Aphid (162).jpg | no_frijol 1.00 | area 0.49 | unica
+cotton Aphid/training images/Set 4/Aphid (163).jpg | no_frijol 1.00 | area 0.49 | unica
+cotton Aphid/training images/Set 4/Aphid (164).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Set 4/Aphid (165).jpg | no_frijol 0.97 | area 0.46 | unica
+cotton Aphid/training images/Set 4/Aphid (166).jpg | no_frijol 1.00 | area 0.41 | repetida
+cotton Aphid/training images/Set 4/Aphid (167).jpg | no_frijol 1.00 | area 0.41 | repetida
+cotton Aphid/training images/Testing/Aphid (10).JPEG | no_frijol 1.00 | area 0.98 | repetida
+cotton Aphid/training images/Testing/Aphid (10).jpg | no_frijol 0.96 | area 0.29 | unica
+cotton Aphid/training images/Testing/Aphid (109).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Testing/Aphid (11).JPEG | no_frijol 1.00 | area 0.85 | repetida
+cotton Aphid/training images/Testing/Aphid (116).jpg | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/training images/Testing/Aphid (118).jpg | no_frijol 1.00 | area 0.25 | unica
+cotton Aphid/training images/Testing/Aphid (12).JPEG | no_frijol 0.94 | area 0.81 | repetida
+cotton Aphid/training images/Testing/Aphid (120).jpg | no_frijol 1.00 | area 0.33 | unica
+cotton Aphid/training images/Testing/Aphid (13).JPEG | no_frijol 0.85 | area 0.75 | repetida
+cotton Aphid/training images/Testing/Aphid (132).jpg | no_frijol 0.99 | area 0.59 | unica
+cotton Aphid/training images/Testing/Aphid (136).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Testing/Aphid (139).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Testing/Aphid (14).JPEG | sano VERDE 0.95 | area 0.92 | repetida
+cotton Aphid/training images/Testing/Aphid (149).jpg | no_frijol 1.00 | area 0.50 | unica
+cotton Aphid/training images/Testing/Aphid (15).JPEG | sano VERDE 0.98 | area 0.92 | repetida
+cotton Aphid/training images/Testing/Aphid (152).jpg | no_frijol 0.91 | area 0.28 | unica
+cotton Aphid/training images/Testing/Aphid (155).jpg | no_frijol 1.00 | area 0.46 | unica
+cotton Aphid/training images/Testing/Aphid (156).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Testing/Aphid (158).jpg | no_frijol 1.00 | area 0.32 | unica
+cotton Aphid/training images/Testing/Aphid (16).JPEG | no_frijol 0.84 | area 0.84 | repetida
+cotton Aphid/training images/Testing/Aphid (164).jpg | no_frijol 1.00 | area 0.47 | unica
+cotton Aphid/training images/Testing/Aphid (166).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Testing/Aphid (169).jpg | no_frijol 1.00 | area 0.39 | unica
+cotton Aphid/training images/Testing/Aphid (17).JPEG | no_frijol 0.95 | area 0.88 | repetida
+cotton Aphid/training images/Testing/Aphid (173).jpg | no_frijol 0.97 | area 0.26 | unica
+cotton Aphid/training images/Testing/Aphid (179).jpg | no_frijol 1.00 | area 0.47 | unica
+cotton Aphid/training images/Testing/Aphid (18).JPEG | no_frijol 0.89 | area 0.83 | repetida
+cotton Aphid/training images/Testing/Aphid (180).jpg | no_frijol 1.00 | area 0.28 | unica
+cotton Aphid/training images/Testing/Aphid (182).jpg | no_frijol 1.00 | area 0.27 | unica
+cotton Aphid/training images/Testing/Aphid (188).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Testing/Aphid (191).jpg | no_frijol 0.99 | area 0.47 | unica
+cotton Aphid/training images/Testing/Aphid (194).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Testing/Aphid (198).jpg | no_frijol 1.00 | area 0.32 | unica
+cotton Aphid/training images/Testing/Aphid (20).JPEG | no_frijol 0.59 | area 0.89 | repetida
+cotton Aphid/training images/Testing/Aphid (20).jpg | sin_hoja 0.00 | area 0.15 | unica
+cotton Aphid/training images/Testing/Aphid (204).jpg | no_frijol 0.84 | area 0.60 | unica
+cotton Aphid/training images/Testing/Aphid (208).jpg | no_frijol 1.00 | area 0.45 | unica
+cotton Aphid/training images/Testing/Aphid (21).JPEG | no_frijol 0.56 | area 0.90 | repetida
+cotton Aphid/training images/Testing/Aphid (210).jpg | no_frijol 0.99 | area 0.48 | unica
+cotton Aphid/training images/Testing/Aphid (22).JPEG | no_frijol 0.52 | area 0.90 | repetida
+cotton Aphid/training images/Testing/Aphid (23).JPEG | no_frijol 0.99 | area 0.89 | repetida
+cotton Aphid/training images/Testing/Aphid (24).JPEG | no_frijol 1.00 | area 0.90 | repetida
+cotton Aphid/training images/Testing/Aphid (25).JPEG | no_frijol 0.98 | area 0.86 | repetida
+cotton Aphid/training images/Testing/Aphid (26).JPEG | no_frijol 0.96 | area 0.91 | repetida
+cotton Aphid/training images/Testing/Aphid (27).JPEG | no_frijol 1.00 | area 0.54 | repetida
+cotton Aphid/training images/Testing/Aphid (28).JPEG | no_frijol 0.97 | area 0.55 | repetida
+cotton Aphid/training images/Testing/Aphid (29).JPEG | no_frijol 0.99 | area 0.61 | repetida
+cotton Aphid/training images/Testing/Aphid (3).JPEG | no_frijol 0.78 | area 0.81 | repetida
+cotton Aphid/training images/Testing/Aphid (30).JPEG | no_frijol 0.72 | area 0.62 | repetida
+cotton Aphid/training images/Testing/Aphid (31).JPEG | no_frijol 0.85 | area 0.83 | repetida
+cotton Aphid/training images/Testing/Aphid (32).JPEG | no_frijol 0.66 | area 0.67 | repetida
+cotton Aphid/training images/Testing/Aphid (33).JPEG | no_frijol 0.84 | area 0.65 | repetida
+cotton Aphid/training images/Testing/Aphid (34).JPEG | no_frijol 0.83 | area 0.60 | repetida
+cotton Aphid/training images/Testing/Aphid (34).jpg | no_frijol 1.00 | area 0.44 | unica
+cotton Aphid/training images/Testing/Aphid (35).JPEG | no_frijol 0.91 | area 0.56 | repetida
+cotton Aphid/training images/Testing/Aphid (36).JPEG | no_frijol 0.99 | area 0.61 | repetida
+cotton Aphid/training images/Testing/Aphid (37).JPEG | plaga AMARILLO 0.53 | area 0.81 | repetida
+cotton Aphid/training images/Testing/Aphid (38).JPEG | no_frijol 1.00 | area 0.64 | repetida
+cotton Aphid/training images/Testing/Aphid (39).JPEG | no_frijol 1.00 | area 0.58 | repetida
+cotton Aphid/training images/Testing/Aphid (4).JPEG | no_frijol 0.98 | area 0.80 | repetida
+cotton Aphid/training images/Testing/Aphid (40).JPEG | no_frijol 0.97 | area 0.63 | repetida
+cotton Aphid/training images/Testing/Aphid (41).JPEG | no_frijol 0.99 | area 0.65 | repetida
+cotton Aphid/training images/Testing/Aphid (5).JPEG | no_frijol 1.00 | area 0.63 | repetida
+cotton Aphid/training images/Testing/Aphid (6).JPEG | no_frijol 0.89 | area 0.69 | repetida
+cotton Aphid/training images/Testing/Aphid (66).jpg | no_frijol 1.00 | area 0.36 | unica
+cotton Aphid/training images/Testing/Aphid (67).jpg | no_frijol 0.98 | area 0.26 | unica
+cotton Aphid/training images/Testing/Aphid (68).jpg | no_frijol 0.99 | area 0.46 | unica
+cotton Aphid/training images/Testing/Aphid (69).jpg | no_frijol 0.99 | area 0.39 | unica
+cotton Aphid/training images/Testing/Aphid (7).JPEG | no_frijol 0.98 | area 0.62 | repetida
+cotton Aphid/training images/Testing/Aphid (70).jpg | no_frijol 1.00 | area 0.25 | unica
+cotton Aphid/training images/Testing/Aphid (71).jpg | no_frijol 1.00 | area 0.51 | unica
+cotton Aphid/training images/Testing/Aphid (74).jpg | no_frijol 1.00 | area 0.28 | unica
+cotton Aphid/training images/Testing/Aphid (75).jpg | no_frijol 1.00 | area 0.23 | unica
+cotton Aphid/training images/Testing/Aphid (8).JPEG | no_frijol 0.97 | area 0.94 | repetida
+cotton Aphid/training images/Testing/Aphid (80).jpg | no_frijol 1.00 | area 0.42 | unica
+cotton Aphid/training images/Testing/Aphid (81).jpg | no_frijol 1.00 | area 0.22 | unica
+cotton Aphid/training images/Testing/Aphid (82).jpg | no_frijol 0.99 | area 0.44 | unica
+cotton Aphid/training images/Testing/Aphid (83).jpg | no_frijol 0.99 | area 0.25 | unica
+cotton Aphid/training images/Testing/Aphid (88).jpg | no_frijol 1.00 | area 0.41 | unica
+cotton Aphid/training images/Testing/Aphid (89).jpg | no_frijol 1.00 | area 0.43 | unica
+cotton Aphid/training images/Testing/Aphid (9).JPEG | no_frijol 1.00 | area 0.97 | repetida
+cotton Aphid/training images/Testing/Aphid (92).jpg | no_frijol 1.00 | area 0.32 | unica
+cotton Aphid/training images/Testing/Aphid (93).jpg | no_frijol 1.00 | area 0.29 | unica
+cotton Aphid/training images/Testing/Aphid (94).jpg | no_frijol 1.00 | area 0.30 | unica
+cotton Aphid/training images/Testing/Aphid (95).jpg | no_frijol 0.98 | area 0.28 | unica
+cotton Aphid/training images/Testing/saved/Aphid (100).JPEG | no_frijol 1.00 | area 0.27 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (101).JPEG | no_frijol 1.00 | area 0.26 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (102).JPEG | no_frijol 1.00 | area 0.38 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (103).JPEG | no_frijol 1.00 | area 0.37 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (104).JPEG | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (105).JPEG | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (106).JPEG | no_frijol 1.00 | area 0.27 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (107).JPEG | no_frijol 1.00 | area 0.46 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (108).JPEG | no_frijol 1.00 | area 0.32 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (109).JPEG | no_frijol 1.00 | area 0.29 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (110).JPEG | no_frijol 1.00 | area 0.35 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (111).JPEG | no_frijol 1.00 | area 0.29 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (112).JPEG | no_frijol 1.00 | area 0.27 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (113).JPEG | no_frijol 0.97 | area 0.19 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (115).JPEG | no_frijol 0.99 | area 0.34 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (116).JPEG | no_frijol 1.00 | area 0.30 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (117).JPEG | no_frijol 1.00 | area 0.18 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (118).JPEG | no_frijol 1.00 | area 0.39 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (119).JPEG | no_frijol 1.00 | area 0.27 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (120).JPEG | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (121).JPEG | no_frijol 1.00 | area 0.21 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (122).JPEG | no_frijol 1.00 | area 0.17 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (123).JPEG | no_frijol 1.00 | area 0.20 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (124).JPEG | no_frijol 0.99 | area 0.23 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (126).JPEG | no_frijol 1.00 | area 0.21 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (127).JPEG | no_frijol 1.00 | area 0.30 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (128).JPEG | no_frijol 1.00 | area 0.31 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (129).JPEG | no_frijol 1.00 | area 0.16 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (130).JPEG | no_frijol 0.99 | area 0.33 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (131).JPEG | no_frijol 0.99 | area 0.19 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (132).JPEG | no_frijol 0.99 | area 0.26 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (133).JPEG | no_frijol 1.00 | area 0.37 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (135).JPEG | no_frijol 1.00 | area 0.34 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (137).JPEG | no_frijol 0.98 | area 0.28 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (138).JPEG | no_frijol 1.00 | area 0.31 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (139).JPEG | no_frijol 1.00 | area 0.32 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (140).JPEG | no_frijol 1.00 | area 0.30 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (141).JPEG | no_frijol 1.00 | area 0.19 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (142).JPEG | no_frijol 1.00 | area 0.24 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (143).JPEG | no_frijol 1.00 | area 0.21 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (144).JPEG | no_frijol 0.99 | area 0.22 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (145).JPEG | no_frijol 0.97 | area 0.21 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (146).JPEG | no_frijol 1.00 | area 0.30 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (147).JPEG | no_frijol 1.00 | area 0.30 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (148).JPEG | no_frijol 1.00 | area 0.46 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (149).JPEG | no_frijol 1.00 | area 0.45 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (150).JPEG | no_frijol 1.00 | area 0.26 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (151).JPEG | no_frijol 1.00 | area 0.37 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (152).JPEG | no_frijol 1.00 | area 0.34 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (153).JPEG | no_frijol 0.95 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (154).JPEG | no_frijol 0.98 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (156).JPEG | no_frijol 0.98 | area 0.31 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (157).JPEG | no_frijol 1.00 | area 0.35 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (45).JPEG | no_frijol 1.00 | area 0.31 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (46).JPEG | no_frijol 1.00 | area 0.38 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (47).JPEG | no_frijol 1.00 | area 0.38 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (48).JPEG | no_frijol 1.00 | area 0.33 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (49).JPEG | no_frijol 1.00 | area 0.41 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (50).JPEG | no_frijol 1.00 | area 0.29 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (51).JPEG | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (52).JPEG | no_frijol 1.00 | area 0.39 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (53).JPEG | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (54).JPEG | no_frijol 0.95 | area 0.22 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (55).JPEG | no_frijol 0.98 | area 0.24 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (56).JPEG | no_frijol 1.00 | area 0.19 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (57).JPEG | no_frijol 1.00 | area 0.28 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (58).JPEG | no_frijol 1.00 | area 0.25 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (59).JPEG | no_frijol 1.00 | area 0.26 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (60).JPEG | sin_hoja 0.00 | area 0.08 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (61).JPEG | sin_hoja 0.00 | area 0.13 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (62).JPEG | sin_hoja 0.00 | area 0.09 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (63).JPEG | sin_hoja 0.00 | area 0.09 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (65).JPEG | sin_hoja 0.00 | area 0.15 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (66).JPEG | no_frijol 1.00 | area 0.27 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (67).JPEG | no_frijol 1.00 | area 0.23 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (68).JPEG | no_frijol 1.00 | area 0.19 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (69).JPEG | no_frijol 1.00 | area 0.23 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (70).JPEG | no_frijol 1.00 | area 0.22 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (71).JPEG | no_frijol 0.99 | area 0.48 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (72).JPEG | no_frijol 0.99 | area 0.27 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (73).JPEG | no_frijol 1.00 | area 0.27 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (74).JPEG | no_frijol 0.99 | area 0.38 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (75).JPEG | no_frijol 0.98 | area 0.38 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (76).JPEG | sin_hoja 0.00 | area 0.12 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (78).JPEG | no_frijol 0.98 | area 0.32 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (79).JPEG | no_frijol 1.00 | area 0.33 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (80).JPEG | no_frijol 1.00 | area 0.37 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (81).JPEG | no_frijol 1.00 | area 0.22 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (82).JPEG | no_frijol 1.00 | area 0.29 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (84).JPEG | no_frijol 0.96 | area 0.28 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (85).JPEG | no_frijol 0.98 | area 0.28 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (86).JPEG | no_frijol 1.00 | area 0.25 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (87).JPEG | no_frijol 1.00 | area 0.41 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (88).JPEG | no_frijol 1.00 | area 0.37 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (89).JPEG | no_frijol 1.00 | area 0.33 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (90).JPEG | no_frijol 1.00 | area 0.38 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (91).JPEG | no_frijol 1.00 | area 0.36 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (92).JPEG | no_frijol 1.00 | area 0.38 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (93).JPEG | no_frijol 0.84 | area 0.21 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (94).JPEG | no_frijol 1.00 | area 0.48 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (95).JPEG | no_frijol 1.00 | area 0.49 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (96).JPEG | no_frijol 1.00 | area 0.34 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (97).JPEG | no_frijol 1.00 | area 0.33 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (98).JPEG | no_frijol 1.00 | area 0.24 | repetida
+cotton Aphid/training images/Testing/saved/Aphid (99).JPEG | no_frijol 1.00 | area 0.24 | repetida

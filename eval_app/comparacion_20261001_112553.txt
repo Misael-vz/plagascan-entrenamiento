@@ -1,0 +1,28 @@
+# Comparación con el flujo de la app — 2026-10-01 11:25
+actual:    /home/misael/AndroidStudioProjects/proyecto/app/src/main/assets/plagascan_mobilenetv2.tflite
+candidato: /home/misael/plagascan/model_v5_seg/plagascan_mobilenetv2.tflite
+
+grupo                                               n   actual  candidato
+val/sano                                           40   40/40      40/40 
+val/plaga                                          38   35/38      34/38 
+val/no_frijol                                      66   58/66      57/66 
+campo/evidencia_campo_frijol/entrenar              12   10/12      11/12 
+campo/evidencia_campo_frijol/prueba_honesta         4    4/4        4/4  
+campo/evidencia_campo_v2/entrenar                  36   28/36      33/36 
+campo/evidencia_campo_v2/prueba_honesta             8    7/8        8/8  
+campo/otros_no_frijol                              13   12/13      13/13 
+
+Exactitud en validación (flujo de la app), actual: 133/144 = 92.4 %
+Exactitud en validación (flujo de la app), candidato: 131/144 = 91.0 %
+
+## Fotos en las que los modelos difieren (10)
+  val/plaga | val/plaga/plaga_inaturalist_expanded_0017.jpg | esperado=plaga | actual=plaga 0.63 -> candidato=no_frijol 0.85
+  val/no_frijol | val/no_frijol/no_frijol_plantdoc_0021.jpg | esperado=no_frijol | actual=no_frijol 0.56 -> candidato=sano 0.81
+  campo/evidencia_campo_frijol/entrenar | gt_1788210376642.jpg | esperado=sano | actual=no_frijol 0.50 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141457118.jpg | esperado=sano | actual=no_frijol 0.55 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141500373.jpg | esperado=sano | actual=no_frijol 0.87 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141505126.jpg | esperado=sano | actual=no_frijol 0.70 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141533720.jpg | esperado=sano | actual=no_frijol 0.51 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141538442.jpg | esperado=sano | actual=no_frijol 0.79 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/prueba_honesta | IMG_20260904_141534840.jpg | esperado=sano | actual=no_frijol 0.96 -> candidato=sano 1.00
+  campo/otros_no_frijol | gt_1787943870827.jpg | esperado=no_frijol | actual=plaga 0.51 -> candidato=no_frijol 0.78

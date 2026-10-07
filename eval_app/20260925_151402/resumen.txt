@@ -1,0 +1,51 @@
+# Evaluacion de solo lectura del TFLite de la app
+Fecha: 20260925_151402
+Modelo: /home/misael/AndroidStudioProjects/proyecto/app/src/main/assets/plagascan_mobilenetv2.tflite
+SHA-256: 735def78d4ac86ab28637a90dbcedee8bd5524427cd69a080e70458d1c67b9b7
+Entrada: [1, 224, 224, 3] float32 | Salida: [1, 3] float32
+Probabilidades en orden: no_frijol plaga sano
+
+## val/sano (n=40, esperado=sano)
+  Pipeline entrenamiento: 40/40 aciertos | {'sano': 40}
+  Pipeline app:           40/40 aciertos | {'sano': 40}
+  Confianza media (app, no rechazadas): 1.000
+
+## val/plaga (n=38, esperado=plaga)
+  Pipeline entrenamiento: 36/38 aciertos | {'plaga': 36, 'no_frijol': 2}
+  Pipeline app:           35/38 aciertos | {'plaga': 35, 'no_frijol': 3}
+  Confianza media (app, no rechazadas): 0.961
+
+## val/no_frijol (n=66, esperado=no_frijol)
+  Pipeline entrenamiento: 65/66 aciertos | {'no_frijol': 65, 'plaga': 1}
+  Pipeline app:           58/66 aciertos | {'no_frijol': 58, 'rechazada_segmentador': 4, 'plaga': 1, 'sano': 3}
+  Confianza media (app, no rechazadas): 0.949
+
+## campo/evidencia_campo_frijol/entrenar (n=12, esperado=sano)
+  Pipeline entrenamiento: 12/12 aciertos | {'sano': 12}
+  Pipeline app:           10/12 aciertos | {'sano': 10, 'no_frijol': 1, 'rechazada_segmentador': 1}
+  Confianza media (app, no rechazadas): 0.899
+
+## campo/evidencia_campo_frijol/prueba_honesta (n=4, esperado=sano)
+  Pipeline entrenamiento: 4/4 aciertos | {'sano': 4}
+  Pipeline app:           4/4 aciertos | {'sano': 4}
+  Confianza media (app, no rechazadas): 0.994
+
+## campo/evidencia_campo_v2/entrenar (n=36, esperado=sano)
+  Pipeline entrenamiento: 34/36 aciertos | {'sano': 34, 'no_frijol': 2}
+  Pipeline app:           28/36 aciertos | {'sano': 28, 'no_frijol': 5, 'rechazada_segmentador': 3}
+  Confianza media (app, no rechazadas): 0.932
+
+## campo/evidencia_campo_v2/prueba_honesta (n=8, esperado=sano)
+  Pipeline entrenamiento: 8/8 aciertos | {'sano': 8}
+  Pipeline app:           7/8 aciertos | {'sano': 7, 'no_frijol': 1}
+  Confianza media (app, no rechazadas): 0.954
+
+## campo/otros_no_frijol (n=13, esperado=no_frijol)
+  Pipeline entrenamiento: 12/13 aciertos | {'no_frijol': 12, 'plaga': 1}
+  Pipeline app:           12/13 aciertos | {'no_frijol': 12, 'plaga': 1}
+  Confianza media (app, no rechazadas): 0.938
+
+## assets_app (n=2, esperado=sano)
+  Pipeline entrenamiento: 2/2 aciertos | {'sano': 1, 'plaga': 1}
+  Pipeline app:           2/2 aciertos | {'sano': 1, 'plaga': 1}
+  Confianza media (app, no rechazadas): 1.000

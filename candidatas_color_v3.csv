@@ -1,0 +1,403 @@
+source,source_id,scientific_name,title,description,image_url,license,creator,page_url,filename,width,height,sha256,ruta_local,pasa_filtro,pasa_filtro_v2,pasa_filtro_v3
+inaturalist,719465369,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/719465369/original.jpg,cc-by-nc,bc-pierre,https://www.inaturalist.org/observations/392576242,dataset_pulgon_amarillo_v2/imagenes/inaturalist_719465369_44a4724b3f00.jpg,2048,1536,44a4724b3f00638061fc02b7c55478b68d7e163cf9fea4c5b1c9f7422fadd7d9,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_719465369_44a4724b3f00.jpg,True,True,True
+inaturalist,719287776,Aphis gossypii,Puceron du Cotonnier,"On Asclepias 
+Tentative ID ",https://inaturalist-open-data.s3.amazonaws.com/photos/719287776/original.jpg,cc-by-nc,seraphinpoudrier,https://www.inaturalist.org/observations/392487036,dataset_pulgon_amarillo_v2/imagenes/inaturalist_719287776_bb7fdc0a2472.jpg,1536,2048,bb7fdc0a2472ff268fca7609b4e6f5469ba1603d77b02c4d55c2fcd087741216,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_719287776_bb7fdc0a2472.jpg,True,True,True
+inaturalist,719287848,Aphis gossypii,Puceron du Cotonnier,"On Asclepias 
+Tentative ID ",https://inaturalist-open-data.s3.amazonaws.com/photos/719287848/original.jpg,cc-by-nc,seraphinpoudrier,https://www.inaturalist.org/observations/392487036,dataset_pulgon_amarillo_v2/imagenes/inaturalist_719287848_41b6ade87c88.jpg,1536,2048,41b6ade87c8835a0398bab85c6f579c425963d59c5ffd9bfc2ca5b3552e4dd93,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_719287848_41b6ade87c88.jpg,True,True,True
+inaturalist,719287938,Aphis gossypii,Puceron du Cotonnier,"On Asclepias 
+Tentative ID ",https://inaturalist-open-data.s3.amazonaws.com/photos/719287938/original.jpg,cc-by-nc,seraphinpoudrier,https://www.inaturalist.org/observations/392487036,dataset_pulgon_amarillo_v2/imagenes/inaturalist_719287938_64f2b2652490.jpg,1536,2048,64f2b26524904de8300ba689c05296ee235f8a45720de76f8058971bb5bc549f,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_719287938_64f2b2652490.jpg,True,True,True
+inaturalist,719249746,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/719249746/original.jpg,cc-by-nc,anallely_calva,https://www.inaturalist.org/observations/392466360,dataset_pulgon_amarillo_v2/imagenes/inaturalist_719249746_9ad6964b4c1f.jpg,1536,2048,9ad6964b4c1fcebf835080fffd51c89a17f68d6fd10de770d61813579933a83f,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_719249746_9ad6964b4c1f.jpg,True,True,True
+inaturalist,717705859,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/717705859/original.jpg,cc-by-nc,kiranvatik,https://www.inaturalist.org/observations/391669843,dataset_pulgon_amarillo_v2/imagenes/inaturalist_717705859_13aa8a0677ff.jpg,1733,1300,13aa8a0677ffce19e7162907ec55b8fba351798e4a27bf5c5d7ef56a3b1f92c0,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_717705859_13aa8a0677ff.jpg,True,True,True
+inaturalist,716389040,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/716389040/original.jpg,cc-by-nc,flowerluver,https://www.inaturalist.org/observations/390996868,dataset_pulgon_amarillo_v2/imagenes/inaturalist_716389040_4e211fa3989a.jpg,1536,2048,4e211fa3989a33fa8141487c8a8097f05bbad8d77b4e0ca36d3612b70f8ff141,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_716389040_4e211fa3989a.jpg,True,True,True
+inaturalist,716376248,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/716376248/original.jpg,cc-by-nc,jessiaco,https://www.inaturalist.org/observations/390990214,dataset_pulgon_amarillo_v2/imagenes/inaturalist_716376248_01a8abba3552.jpg,1536,2048,01a8abba355275b126c61cc720043fb92b641f66391ec98ade3c152a4cfaf76b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_716376248_01a8abba3552.jpg,True,True,True
+inaturalist,714349223,Aphis gossypii,Aphis gossypii,On Alcea rugosa (Malvaceae).,https://inaturalist-open-data.s3.amazonaws.com/photos/714349223/original.jpg,cc-by-nc,victoria_gritsenko,https://www.inaturalist.org/observations/389950799,dataset_pulgon_amarillo_v2/imagenes/inaturalist_714349223_98bc0c94c689.jpg,536,714,98bc0c94c6890b78b13cdf1bcb70c995da366391ba03b961f51c4279c6e35f9c,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_714349223_98bc0c94c689.jpg,True,True,True
+inaturalist,712958473,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/712958473/original.jpg,cc-by-nc,curious_cascadian,https://www.inaturalist.org/observations/389236808,dataset_pulgon_amarillo_v2/imagenes/inaturalist_712958473_4807fba5e58a.jpg,598,798,4807fba5e58a8216d45b2e287419b4b14f2c7ba2b523e5b2cb4de61f5ef689bc,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_712958473_4807fba5e58a.jpg,True,True,True
+inaturalist,711583209,Aphis gossypii,Melon Aphid,Found on the new growth of a rhubarb plant,https://inaturalist-open-data.s3.amazonaws.com/photos/711583209/original.jpg,cc-by-nc,papersandwich,https://www.inaturalist.org/observations/388522691,dataset_pulgon_amarillo_v2/imagenes/inaturalist_711583209_d299a8834c82.jpg,1536,2048,d299a8834c821c4f4bce848c225e7b404a8132dd04e785af3314d872a1265275,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_711583209_d299a8834c82.jpg,True,True,True
+inaturalist,702257029,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/702257029/original.jpg,cc-by-nc,ikeops,https://www.inaturalist.org/observations/383679164,dataset_pulgon_amarillo_v2/imagenes/inaturalist_702257029_e9bc6df2bbdc.jpg,1536,2048,e9bc6df2bbdc9028b5ffb7893135519dc552f91a97cec157bbded113e39251e1,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_702257029_e9bc6df2bbdc.jpg,True,True,True
+inaturalist,702208668,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/702208668/original.jpg,cc0,lioba_ug,https://www.inaturalist.org/observations/383653460,dataset_pulgon_amarillo_v2/imagenes/inaturalist_702208668_e0612a4ecadf.jpg,1388,1850,e0612a4ecadf4f87b1599110f2e86e9b3800a839b1a6a5354134433cb5595605,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_702208668_e0612a4ecadf.jpg,True,True,True
+inaturalist,692162545,Aphis gossypii,Melon Aphid,Speculative based on host plant (cucumber),https://inaturalist-open-data.s3.amazonaws.com/photos/692162545/original.jpg,cc-by-nc,naturequ33r,https://www.inaturalist.org/observations/378453101,dataset_pulgon_amarillo_v2/imagenes/inaturalist_692162545_a947d882814d.jpg,1006,931,a947d882814d66be1f1d550212b4673a750289de5152e01fc30891ec42f081d0,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162545_a947d882814d.jpg,True,True,True
+inaturalist,692162590,Aphis gossypii,Melon Aphid,Speculative based on host plant (cucumber),https://inaturalist-open-data.s3.amazonaws.com/photos/692162590/original.jpg,cc-by-nc,naturequ33r,https://www.inaturalist.org/observations/378453101,dataset_pulgon_amarillo_v2/imagenes/inaturalist_692162590_369a6c7f45a6.jpg,1542,2048,369a6c7f45a6bd944d14602b87b9330d47fb47f2e3498a0c23f124678e766b04,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162590_369a6c7f45a6.jpg,True,True,True
+inaturalist,692162640,Aphis gossypii,Melon Aphid,Speculative based on host plant (cucumber),https://inaturalist-open-data.s3.amazonaws.com/photos/692162640/original.jpg,cc-by-nc,naturequ33r,https://www.inaturalist.org/observations/378453101,dataset_pulgon_amarillo_v2/imagenes/inaturalist_692162640_a4cc2c0503d2.jpg,1542,2048,a4cc2c0503d25f0566e77bc2d451ee0adfe5764e72f23a8342fdc093457e6bd8,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162640_a4cc2c0503d2.jpg,True,True,True
+inaturalist,692162695,Aphis gossypii,Melon Aphid,Speculative based on host plant (cucumber),https://inaturalist-open-data.s3.amazonaws.com/photos/692162695/original.jpg,cc-by-nc,naturequ33r,https://www.inaturalist.org/observations/378453101,dataset_pulgon_amarillo_v2/imagenes/inaturalist_692162695_bd676dfc6755.jpg,1542,2048,bd676dfc6755f62d84b2320ae5e772b77f2a104f38385eed6c84db99a01987a1,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162695_bd676dfc6755.jpg,True,True,True
+inaturalist,692162748,Aphis gossypii,Melon Aphid,Speculative based on host plant (cucumber),https://inaturalist-open-data.s3.amazonaws.com/photos/692162748/original.jpg,cc-by-nc,naturequ33r,https://www.inaturalist.org/observations/378453101,dataset_pulgon_amarillo_v2/imagenes/inaturalist_692162748_92c7c079a547.jpg,1542,2048,92c7c079a54773552d3b124228f359432d8357b667d8925d76d6d19a642ac5be,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162748_92c7c079a547.jpg,True,True,True
+inaturalist,692162791,Aphis gossypii,Melon Aphid,Speculative based on host plant (cucumber),https://inaturalist-open-data.s3.amazonaws.com/photos/692162791/original.jpg,cc-by-nc,naturequ33r,https://www.inaturalist.org/observations/378453101,dataset_pulgon_amarillo_v2/imagenes/inaturalist_692162791_dd6121dd73bc.jpg,1542,2048,dd6121dd73bc056ea99d5f1dc7c55298c492fa00226cc9add6cdcb0a9821c1d6,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162791_dd6121dd73bc.jpg,True,True,True
+inaturalist,692162840,Aphis gossypii,Melon Aphid,Speculative based on host plant (cucumber),https://inaturalist-open-data.s3.amazonaws.com/photos/692162840/original.jpg,cc-by-nc,naturequ33r,https://www.inaturalist.org/observations/378453101,dataset_pulgon_amarillo_v2/imagenes/inaturalist_692162840_e0732617d9cc.jpg,1542,2048,e0732617d9cccba175df1513be3e8a105b7ea2e026913718423925d8739c1868,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162840_e0732617d9cc.jpg,True,True,True
+inaturalist,688280559,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/688280559/original.jpg,cc-by,ongzi,https://www.inaturalist.org/observations/376439697,dataset_pulgon_amarillo_v2/imagenes/inaturalist_688280559_b68dd1f2903b.jpg,1536,2048,b68dd1f2903bc46d5dfaebb72bed0aa09cf7b02d7da3cba6df2031810fc9d7cd,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_688280559_b68dd1f2903b.jpg,True,True,True
+inaturalist,682197675,Aphis gossypii,Aphis gossypii,Catalpa,https://inaturalist-open-data.s3.amazonaws.com/photos/682197675/original.jpg,cc-by,alexswift,https://www.inaturalist.org/observations/373369433,dataset_pulgon_amarillo_v2/imagenes/inaturalist_682197675_1f9f7d86d3f2.jpg,2048,1536,1f9f7d86d3f22a34ddc82964551e0da3c44356ee367ffafa2e6ec910099f2619,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_682197675_1f9f7d86d3f2.jpg,True,True,True
+inaturalist,681597079,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/681597079/original.jpg,cc-by-nc,sammykernane,https://www.inaturalist.org/observations/372992155,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681597079_e3364b3166a8.jpg,2048,1365,e3364b3166a8d68093f690ab087b5db5cbcb5474c231b048757111ebd02581ec,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681597079_e3364b3166a8.jpg,True,True,True
+inaturalist,681597081,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/681597081/original.jpg,cc-by-nc,sammykernane,https://www.inaturalist.org/observations/372992155,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681597081_a695780ed78b.jpg,2048,1365,a695780ed78b6437ddd468341d450fda57b251e2ccba8b2c92b2309dafa88dc3,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681597081_a695780ed78b.jpg,True,True,True
+inaturalist,681582173,Aphis gossypii,Melon Aphid,"---
+
+All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681582173/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372973260,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681582173_5337424b86a3.jpg,1119,1057,5337424b86a3022034c94d40de920b432a1dda7744b19b5a15188e57395a2f8e,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681582173_5337424b86a3.jpg,True,True,True
+inaturalist,681582139,Aphis gossypii,Melon Aphid,"---
+
+All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681582139/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372973260,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681582139_5c72ae8cdde0.jpg,945,868,5c72ae8cdde04412ddd0f06766ff6ec64bc19aef7f8766207a83c61dadd7197d,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681582139_5c72ae8cdde0.jpg,True,True,True
+inaturalist,681582147,Aphis gossypii,Melon Aphid,"---
+
+All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681582147/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372973260,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681582147_3c41da1bf375.jpg,975,916,3c41da1bf37583910df233a8743528719e686909af15cab17639549ce4c05331,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681582147_3c41da1bf375.jpg,True,True,True
+inaturalist,681582140,Aphis gossypii,Melon Aphid,"---
+
+All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681582140/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372973260,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681582140_94bc348eaa83.jpg,811,720,94bc348eaa834b7ab7897baf4ed94bf821ab17458c02dc9b22b01aa249c62aba,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681582140_94bc348eaa83.jpg,True,True,True
+inaturalist,681582149,Aphis gossypii,Melon Aphid,"---
+
+All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681582149/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372973260,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681582149_7564495cd1f6.jpg,942,881,7564495cd1f6b4f5852328d8e2f9bf807d3727d92fedb0eaf9678cd456442599,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681582149_7564495cd1f6.jpg,True,True,True
+inaturalist,681572837,Aphis gossypii,Aphis gossypii,"All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681572837/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372968783,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681572837_b32035f6fd76.jpg,1123,1482,b32035f6fd7629937fb05273e3977b64f62efc5cf0d1bb27219ec4173a5f643d,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681572837_b32035f6fd76.jpg,True,True,True
+inaturalist,681572845,Aphis gossypii,Aphis gossypii,"All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681572845/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372968783,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681572845_534b5671db48.jpg,1446,1315,534b5671db4891a10b005418333d95cad1a61632589c89992d698f86d0480d58,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681572845_534b5671db48.jpg,True,True,True
+inaturalist,681572849,Aphis gossypii,Aphis gossypii,"All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681572849/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372968783,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681572849_1bf60acde0bf.jpg,1124,894,1bf60acde0bf0c4f2667fbe9eedf66ea57a2a6a90d8e1c8f4ca375e1ddcae50e,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681572849_1bf60acde0bf.jpg,True,True,True
+inaturalist,681572843,Aphis gossypii,Aphis gossypii,"All on the same plant:
+
+---
+
+- Host plant: https://www.inaturalist.org/observations/372978431
+
+
+---
+
+- Genus Aphidius ? https://www.inaturalist.org/observations/372531919/ see also https://www.inaturalist.org/observations/372349856 by @hugo_haig-thomas and see also https://www.inaturalist.org/observations/372968783
+
+- Family Aphididae https://www.inaturalist.org/observations/372973016
+- Family Aphididae https://www.inaturalist.org/observations/372973260
+- Subfamily Aphidinae https://www.inaturalist.org/observations/372968898
+
+---
+
+- Springtails ? https://www.inaturalist.org/observations/372968825
+
+- Genus Deuterosminthurus ? https://www.inaturalist.org/observations/372968610
+
+- Genus Prostigmata https://www.inaturalist.org/observations/372968709 see also https://www.inaturalist.org/observations/372972968
+
+- Genus Lasius https://www.inaturalist.org/observations/372973198
+
+---
+
+- Unknown https://www.inaturalist.org/observations/372973284
+- Unknown https://www.inaturalist.org/observations/372968639
+- Unknown https://www.inaturalist.org/observations/372973237",https://inaturalist-open-data.s3.amazonaws.com/photos/681572843/original.jpg,cc-by,vincent_mia_edie_verheyen,https://www.inaturalist.org/observations/372968783,dataset_pulgon_amarillo_v2/imagenes/inaturalist_681572843_c6778d96e1e1.jpg,1167,1180,c6778d96e1e1bff7b57f71fd48db165b15190dab512ba15b5c7e8278e41f4835,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_681572843_c6778d96e1e1.jpg,True,True,True
+inaturalist,678050903,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/678050903/original.jpg,cc-by-nc,nurul35202,https://www.inaturalist.org/observations/371120009,dataset_pulgon_amarillo_v2/imagenes/inaturalist_678050903_0d8f81b26aef.jpg,720,1520,0d8f81b26aefa420dbe57356de9c260959e996de3e2a3d8471d9201062668703,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_678050903_0d8f81b26aef.jpg,True,True,True
+inaturalist,676081261,Aphis gossypii,Melon Aphid,ex Buddleja davidii ,https://inaturalist-open-data.s3.amazonaws.com/photos/676081261/original.jpg,cc-by,jakedalzell,https://www.inaturalist.org/observations/370095112,dataset_pulgon_amarillo_v2/imagenes/inaturalist_676081261_858a7691c776.jpg,1536,2048,858a7691c7765a74b49f05de82ff5b6f00a9bb06c388d142ee8e69f9a3dc02dc,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_676081261_858a7691c776.jpg,True,True,True
+inaturalist,673897368,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/673897368/original.jpg,cc-by-nc,coleiche,https://www.inaturalist.org/observations/368944646,dataset_pulgon_amarillo_v2/imagenes/inaturalist_673897368_0518921b5204.jpg,1900,1108,0518921b52043c31a3143e0ed4536d76291cdda581a5bd397b4c8fe046cb9b3b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_673897368_0518921b5204.jpg,True,True,True
+inaturalist,673897442,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/673897442/original.jpg,cc-by-nc,coleiche,https://www.inaturalist.org/observations/368944646,dataset_pulgon_amarillo_v2/imagenes/inaturalist_673897442_6d65bf747eb4.jpg,1776,1548,6d65bf747eb44bc7990a4b402fa14d7874a3ca43ead30c1fd46ca553c07ab38b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_673897442_6d65bf747eb4.jpg,True,True,True
+inaturalist,669280213,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/669280213/original.jpg,cc-by-nc,silversea_starsong,https://www.inaturalist.org/observations/366529453,dataset_pulgon_amarillo_v2/imagenes/inaturalist_669280213_c3fb5c38cb05.jpg,2048,1353,c3fb5c38cb059ccaaba26b35e9ed8571e4bcbdb8503d56f9e93e6fd96f1c6b20,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_669280213_c3fb5c38cb05.jpg,True,True,True
+inaturalist,669280216,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/669280216/original.jpg,cc-by-nc,silversea_starsong,https://www.inaturalist.org/observations/366529453,dataset_pulgon_amarillo_v2/imagenes/inaturalist_669280216_86d59b7ef270.jpg,2048,1330,86d59b7ef270cd3ed2dfe6ebc45675b107ee9f2502506863c02c6a4a9303bcfc,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_669280216_86d59b7ef270.jpg,True,True,True
+inaturalist,668261018,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/668261018/original.jpg,cc-by-nc,robin65582,https://www.inaturalist.org/observations/365991676,dataset_pulgon_amarillo_v2/imagenes/inaturalist_668261018_ecf6e4345329.jpg,886,886,ecf6e434532996031f1ac9a34dfebd52834cb3e03e474008d460b43a542e7c55,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_668261018_ecf6e4345329.jpg,True,True,True
+inaturalist,668261040,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/668261040/original.jpg,cc-by-nc,robin65582,https://www.inaturalist.org/observations/365991676,dataset_pulgon_amarillo_v2/imagenes/inaturalist_668261040_04392db47006.jpg,2048,2048,04392db47006436b1e7d022c90b32f68ad74a30696a82971fa5586528af013f3,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_668261040_04392db47006.jpg,True,True,True
+inaturalist,668261065,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/668261065/original.jpg,cc-by-nc,robin65582,https://www.inaturalist.org/observations/365991676,dataset_pulgon_amarillo_v2/imagenes/inaturalist_668261065_67052ec59f64.jpg,2048,2048,67052ec59f64b85b977e8a5358cd2d786bf42a3651dc05d3627d4e213de7bd98,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_668261065_67052ec59f64.jpg,True,True,True
+inaturalist,666677550,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/666677550/original.jpg,cc-by-nc,ametrine_rose,https://www.inaturalist.org/observations/365165836,dataset_pulgon_amarillo_v2/imagenes/inaturalist_666677550_ab2eb80cc7f3.jpg,1152,2048,ab2eb80cc7f3a972a90a2a89297b647abe31d950032353d028f6300dc7a5c81f,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_666677550_ab2eb80cc7f3.jpg,True,True,True
+inaturalist,666677543,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/666677543/original.jpg,cc-by-nc,ametrine_rose,https://www.inaturalist.org/observations/365165836,dataset_pulgon_amarillo_v2/imagenes/inaturalist_666677543_d4aefb2d1ae5.jpg,1152,2048,d4aefb2d1ae5783809a14905509f42ca70cdde294675201066ad020812da5fa0,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_666677543_d4aefb2d1ae5.jpg,True,True,True
+inaturalist,666097239,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/666097239/original.jpg,cc-by,ellky,https://www.inaturalist.org/observations/364861125,dataset_pulgon_amarillo_v2/imagenes/inaturalist_666097239_7b90c2390e44.jpg,1151,933,7b90c2390e445bf210a4ed319c707e465150d8474402c93af34a0d3d4cd4b423,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_666097239_7b90c2390e44.jpg,True,True,True
+inaturalist,665116879,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/665116879/original.jpg,cc-by,imasongster,https://www.inaturalist.org/observations/364340953,dataset_pulgon_amarillo_v2/imagenes/inaturalist_665116879_d901408b5131.jpg,1536,2048,d901408b5131999f16d52007fc46a493e4256c955b73bd3f58d72831c3375c53,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_665116879_d901408b5131.jpg,True,True,True
+inaturalist,663364026,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/663364026/original.jpg,cc-by-nc,martimbett,https://www.inaturalist.org/observations/363411648,dataset_pulgon_amarillo_v2/imagenes/inaturalist_663364026_02b6e2e9bd42.jpg,2048,1536,02b6e2e9bd429f688206f6797883e233673adda46efcc783b2b170c379b9b08f,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_663364026_02b6e2e9bd42.jpg,True,True,True
+inaturalist,663364033,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/663364033/original.jpg,cc-by-nc,martimbett,https://www.inaturalist.org/observations/363411648,dataset_pulgon_amarillo_v2/imagenes/inaturalist_663364033_72a2cb47ec57.jpg,1536,2048,72a2cb47ec57571df8f8d720ccee7e36b1aacacacb59fd0e755ef0dc93ad29d4,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_663364033_72a2cb47ec57.jpg,True,True,True
+inaturalist,663364013,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/663364013/original.jpg,cc-by-nc,martimbett,https://www.inaturalist.org/observations/363411648,dataset_pulgon_amarillo_v2/imagenes/inaturalist_663364013_dd4641af1ef3.jpg,1536,2048,dd4641af1ef36897786232c4c8e66405529be56b263c5d3518d496269ec7444e,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_663364013_dd4641af1ef3.jpg,True,True,True
+inaturalist,658423967,Aphis gossypii,Mszyca ogórkowa,,https://inaturalist-open-data.s3.amazonaws.com/photos/658423967/original.jpg,cc-by-nc,pampelun,https://www.inaturalist.org/observations/360810994,dataset_pulgon_amarillo_v2/imagenes/inaturalist_658423967_38ed729f9b86.jpg,1536,2048,38ed729f9b8621983e124b41aa5c911ad1988ffe21c104e4cbe6ae7aaf1bd9f6,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_658423967_38ed729f9b86.jpg,True,True,True
+inaturalist,658020341,Aphis gossypii,Попелиця огіркова,,https://inaturalist-open-data.s3.amazonaws.com/photos/658020341/original.jpg,cc-by-nc,kateryna23972,https://www.inaturalist.org/observations/360606813,dataset_pulgon_amarillo_v2/imagenes/inaturalist_658020341_647d4ae91209.jpg,1388,1851,647d4ae91209fc52b3b766a04a30247b29ed571cad4c75c96cc338c6c764b100,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_658020341_647d4ae91209.jpg,True,True,True
+inaturalist,656704117,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/656704117/original.jpg,cc-by-nc,simon__,https://www.inaturalist.org/observations/359912042,dataset_pulgon_amarillo_v2/imagenes/inaturalist_656704117_5fedb530871a.jpg,1192,1893,5fedb530871a4e439c5b2f8124e49121e28e8643ab93881a106270917c9f4cb0,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_656704117_5fedb530871a.jpg,True,True,True
+inaturalist,656455352,Aphis gossypii,Afide Delle Cucurbitacee,On Hibiscus rosa-sinensis,https://inaturalist-open-data.s3.amazonaws.com/photos/656455352/original.jpg,cc-by-nc,lbwildnotes,https://www.inaturalist.org/observations/359776502,dataset_pulgon_amarillo_v2/imagenes/inaturalist_656455352_c38284aa3b81.jpg,1536,2048,c38284aa3b813d5a1d72c1c60e63383a9035df14d9353444a5ca658cb95a2f93,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_656455352_c38284aa3b81.jpg,True,True,True
+inaturalist,656455400,Aphis gossypii,Afide Delle Cucurbitacee,On Hibiscus rosa-sinensis,https://inaturalist-open-data.s3.amazonaws.com/photos/656455400/original.jpg,cc-by-nc,lbwildnotes,https://www.inaturalist.org/observations/359776502,dataset_pulgon_amarillo_v2/imagenes/inaturalist_656455400_c67fc11f467b.jpg,1536,2048,c67fc11f467b7cfb02b8e91267834e1ff9170259ea25afb23d694e2735a617cd,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_656455400_c67fc11f467b.jpg,True,True,True
+inaturalist,656104487,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/656104487/original.jpg,cc-by-nc,lupefern,https://www.inaturalist.org/observations/359598084,dataset_pulgon_amarillo_v2/imagenes/inaturalist_656104487_c75a34db36ee.jpg,2048,1361,c75a34db36ee13de60e52b5845ba9cf2ce8c9b8db058373d17302efeebf493b2,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_656104487_c75a34db36ee.jpg,True,True,True
+inaturalist,654798437,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/654798437/original.jpg,cc-by-nc,y-ang,https://www.inaturalist.org/observations/358913119,dataset_pulgon_amarillo_v2/imagenes/inaturalist_654798437_3d9d98a58e18.jpg,2048,2032,3d9d98a58e188041a578dfd29eaf0637a529b0a2efedd77e36d6f56043ccd5c9,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_654798437_3d9d98a58e18.jpg,True,True,True
+inaturalist,651634682,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/651634682/original.jpg,cc-by-nc,warnieb,https://www.inaturalist.org/observations/357286452,dataset_pulgon_amarillo_v2/imagenes/inaturalist_651634682_b2be5ee76863.jpg,1536,2048,b2be5ee76863d6ea32629972555c4da82b7e7f6e6a4a238c31fca5ce4502e616,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_651634682_b2be5ee76863.jpg,True,True,True
+inaturalist,649845358,Aphis gossypii,Melon Aphid,On feverfew,https://inaturalist-open-data.s3.amazonaws.com/photos/649845358/original.jpg,cc-by-nc,fgslp,https://www.inaturalist.org/observations/356346171,dataset_pulgon_amarillo_v2/imagenes/inaturalist_649845358_e054ec65a054.jpg,1536,2048,e054ec65a054f1e7b763d23de873e864c013f686f84c4b22880f0d75613635df,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_649845358_e054ec65a054.jpg,True,True,True
+inaturalist,648231082,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/648231082/original.jpg,cc-by-nc,snehankathiravan,https://www.inaturalist.org/observations/355438482,dataset_pulgon_amarillo_v2/imagenes/inaturalist_648231082_c3de1db08f5e.jpg,1536,2048,c3de1db08f5e93e0eadc68610380404833d6d8bf97911670a122dabdf7b40b0b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_648231082_c3de1db08f5e.jpg,True,True,True
+inaturalist,646720792,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/646720792/original.jpg,cc-by-nc,srbailey,https://www.inaturalist.org/observations/354522830,dataset_pulgon_amarillo_v2/imagenes/inaturalist_646720792_5a4f4a783eb5.jpg,956,2048,5a4f4a783eb58099b2d29b8ed79cb96a48101f0dedf980aa1440effaf0aa0f9d,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_646720792_5a4f4a783eb5.jpg,True,True,True
+inaturalist,632049458,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/632049458/original.jpg,cc-by-nc,sophoclesm,https://www.inaturalist.org/observations/346713279,dataset_pulgon_amarillo_v2/imagenes/inaturalist_632049458_4ee7d8370dc4.jpg,1532,2048,4ee7d8370dc44ae8b3824824c42289286874ba99ab181275a4b13f40cb277ef0,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_632049458_4ee7d8370dc4.jpg,True,True,True
+inaturalist,632049449,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/632049449/original.jpg,cc-by-nc,sophoclesm,https://www.inaturalist.org/observations/346713279,dataset_pulgon_amarillo_v2/imagenes/inaturalist_632049449_bb29525c4b63.jpg,1532,2048,bb29525c4b63582526044f7b38e341a25897622c6a94fbb65fa7d287d9b938f6,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_632049449_bb29525c4b63.jpg,True,True,True
+inaturalist,630977798,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630977798/original.jpg,cc-by-nc,misumeta,https://www.inaturalist.org/observations/346172414,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630977798_7f46c5fbf2e3.jpg,1546,1438,7f46c5fbf2e376a8a74d32089dacb4916dbf906bc7fd3519ecf7b7911e5ce356,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630977798_7f46c5fbf2e3.jpg,True,True,True
+inaturalist,630977799,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630977799/original.jpg,cc-by-nc,misumeta,https://www.inaturalist.org/observations/346172414,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630977799_f8db618f44a6.jpg,1368,1665,f8db618f44a6cc841bae3eb52467d48053e80a33f34823ff1324e0a6200726e2,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630977799_f8db618f44a6.jpg,True,True,True
+inaturalist,630977802,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630977802/original.jpg,cc-by-nc,misumeta,https://www.inaturalist.org/observations/346172414,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630977802_9b74b6e0f9a8.jpg,1195,1325,9b74b6e0f9a861e26a2aedf81d6b22f81982016c87ad617329b600e5bc142eb6,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630977802_9b74b6e0f9a8.jpg,True,True,True
+inaturalist,630977816,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630977816/original.jpg,cc-by-nc,misumeta,https://www.inaturalist.org/observations/346172414,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630977816_e48ae74b6883.jpg,1547,1714,e48ae74b6883aeee60c4ae5d61413ffce62659f55d25755a99da411b3949a936,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630977816_e48ae74b6883.jpg,True,True,True
+inaturalist,630977810,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630977810/original.jpg,cc-by-nc,misumeta,https://www.inaturalist.org/observations/346172414,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630977810_08180a9da988.jpg,1670,1555,08180a9da988215d9b1f5aef2bc44979643d43a7191596dd85d03f9bf20c0d5e,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630977810_08180a9da988.jpg,True,True,True
+inaturalist,630977804,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630977804/original.jpg,cc-by-nc,misumeta,https://www.inaturalist.org/observations/346172414,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630977804_4653502a2b76.jpg,1311,1302,4653502a2b763c7902383cf5070ff6886539d645aa0e6e4612cd581057c65b8b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630977804_4653502a2b76.jpg,True,True,True
+inaturalist,630611545,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630611545/original.jpg,cc-by,nebrooks,https://www.inaturalist.org/observations/345986705,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630611545_e401c1d291be.jpg,1536,2048,e401c1d291be5cb2e49b88887b6591d13e37e99255d13e5eaa788f25274cb35b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630611545_e401c1d291be.jpg,True,True,True
+inaturalist,630611531,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/630611531/original.jpg,cc-by,nebrooks,https://www.inaturalist.org/observations/345986705,dataset_pulgon_amarillo_v2/imagenes/inaturalist_630611531_5c3e919b5782.jpg,1536,2048,5c3e919b57822bda52653801e3288fe51bcf1380d893e18fe5f83c9fa20be368,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_630611531_5c3e919b5782.jpg,True,True,True
+inaturalist,629468004,Aphis gossypii,,Feeding on sea grape,https://inaturalist-open-data.s3.amazonaws.com/photos/629468004/original.jpg,cc-by-nc,larvalfishguy,https://www.inaturalist.org/observations/345404074,dataset_pulgon_amarillo_v2/imagenes/inaturalist_629468004_4fea354bdae2.jpg,2048,1536,4fea354bdae2e0e2dba3e784b936f97504d086a28d4934ca96f6f2d159e0c2fd,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_629468004_4fea354bdae2.jpg,True,True,True
+inaturalist,619568574,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/619568574/original.jpg,cc-by-nc,ferran9,https://www.inaturalist.org/observations/340459855,dataset_pulgon_amarillo_v2/imagenes/inaturalist_619568574_2b5ac8d56ce6.jpg,2034,1378,2b5ac8d56ce6daec46628d4174b17387265cd18af0facbf991e305694ec5a083,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_619568574_2b5ac8d56ce6.jpg,True,True,True
+inaturalist,619568384,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/619568384/original.jpg,cc-by-nc,ferran9,https://www.inaturalist.org/observations/340459846,dataset_pulgon_amarillo_v2/imagenes/inaturalist_619568384_55d8280d97d4.jpg,2048,1437,55d8280d97d4c557f2395b87130caa61144b45ec20144cc50eb506f9d41b6a54,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_619568384_55d8280d97d4.jpg,True,True,True
+inaturalist,619570577,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/619570577/original.jpg,cc-by-nc,ferran9,https://www.inaturalist.org/observations/340459842,dataset_pulgon_amarillo_v2/imagenes/inaturalist_619570577_c48f5200b4b7.jpg,2048,1576,c48f5200b4b7827c348902e0b9788d7189bd5fbe65f34926e383e2807358f119,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_619570577_c48f5200b4b7.jpg,True,True,True
+inaturalist,619570404,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/619570404/original.jpg,cc-by-nc,ferran9,https://www.inaturalist.org/observations/340459836,dataset_pulgon_amarillo_v2/imagenes/inaturalist_619570404_0b8cb07d4c7c.jpg,2048,1508,0b8cb07d4c7cf544e6d575c3a5cf5e716c7b1fbfbdcdf1c4c6f1973cb02a9345,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_619570404_0b8cb07d4c7c.jpg,True,True,True
+inaturalist,619566423,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/619566423/original.jpg,cc-by-nc,ferran9,https://www.inaturalist.org/observations/340458408,dataset_pulgon_amarillo_v2/imagenes/inaturalist_619566423_b8c8fc7703d3.jpg,2048,1316,b8c8fc7703d30ee440565675d639f0a03aa4832e31ecc32c12d8b660d37a5a1d,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_619566423_b8c8fc7703d3.jpg,True,True,True
+inaturalist,618904592,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/618904592/original.jpg,cc-by-nc,maiz,https://www.inaturalist.org/observations/340130890,dataset_pulgon_amarillo_v2/imagenes/inaturalist_618904592_1d4fb7a97b02.jpg,2048,1536,1d4fb7a97b0260d5c7a394ab8151cbe8a0bf72fbc0e7471f8747f73be32e7e8a,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_618904592_1d4fb7a97b02.jpg,True,True,True
+inaturalist,614831424,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/614831424/original.jpg,cc-by-nc,erfactor,https://www.inaturalist.org/observations/338127007,dataset_pulgon_amarillo_v2/imagenes/inaturalist_614831424_b9036266f123.jpg,1536,2048,b9036266f123049b30eea282299459e9bcdadf7472f531e6d5938e15d4db3937,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_614831424_b9036266f123.jpg,True,True,True
+inaturalist,614275467,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/614275467/original.jpg,cc0,mar_y_sierra_silvestre,https://www.inaturalist.org/observations/337855878,dataset_pulgon_amarillo_v2/imagenes/inaturalist_614275467_896e038186e0.jpg,1200,1200,896e038186e0ef619dff630c0eaaf29480d35f4bb472f059dc314615bd357606,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_614275467_896e038186e0.jpg,True,True,True
+inaturalist,614275505,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/614275505/original.jpg,cc0,mar_y_sierra_silvestre,https://www.inaturalist.org/observations/337855878,dataset_pulgon_amarillo_v2/imagenes/inaturalist_614275505_87cccd5e78b6.jpg,1200,1200,87cccd5e78b65e1d4ff84edb02c184701393950234673df9b3beb6893aebf2f1,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_614275505_87cccd5e78b6.jpg,True,True,True
+inaturalist,613424649,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/613424649/original.jpg,cc-by-nc,tereg,https://www.inaturalist.org/observations/337439556,dataset_pulgon_amarillo_v2/imagenes/inaturalist_613424649_7361b434ffc7.jpg,674,709,7361b434ffc710bcb919b00eeac9c2d1186c385ff0a0825d990b79f8dde04004,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_613424649_7361b434ffc7.jpg,True,True,True
+inaturalist,613362332,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/613362332/original.jpg,cc-by-nc,purritocat,https://www.inaturalist.org/observations/337409261,dataset_pulgon_amarillo_v2/imagenes/inaturalist_613362332_de0092e18a08.jpg,1536,2048,de0092e18a0862bd27dc238f37da192986b1a2998e9ed3abed311af1e1447c5f,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_613362332_de0092e18a08.jpg,True,True,True
+inaturalist,611047448,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/611047448/original.jpg,cc-by-nc,chlo-rophyll,https://www.inaturalist.org/observations/336236947,dataset_pulgon_amarillo_v2/imagenes/inaturalist_611047448_2914f61e49af.jpg,1536,2048,2914f61e49af3b8d58cf30b1dcf5f216cb1a66706e46f9ecaa7d67c6c0eb4ea5,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_611047448_2914f61e49af.jpg,True,True,True
+inaturalist,610150916,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/610150916/original.jpg,cc-by-nc,drmattnimbs,https://www.inaturalist.org/observations/335824953,dataset_pulgon_amarillo_v2/imagenes/inaturalist_610150916_7d9392467b78.jpg,2048,1536,7d9392467b7835eeb11979e60a868cb74052efa7551fe5fc0460f11841090810,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_610150916_7d9392467b78.jpg,True,True,True
+inaturalist,610150896,Aphis gossypii,Aphis gossypii,,https://inaturalist-open-data.s3.amazonaws.com/photos/610150896/original.jpg,cc-by-nc,drmattnimbs,https://www.inaturalist.org/observations/335824953,dataset_pulgon_amarillo_v2/imagenes/inaturalist_610150896_b0ec54c75709.jpg,2048,1536,b0ec54c757091364bd0faeb8a47e726a3a744adf0117d3f4dad21b786b7d3b7e,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_610150896_b0ec54c75709.jpg,True,True,True
+inaturalist,610024353,Aphis gossypii,Melon Aphid,"on Downy Thorn-Apple
+(Datura innoxia)",https://inaturalist-open-data.s3.amazonaws.com/photos/610024353/original.jpg,cc-by-nc,satxmar,https://www.inaturalist.org/observations/335761889,dataset_pulgon_amarillo_v2/imagenes/inaturalist_610024353_98847a934901.jpg,1143,1524,98847a9349013c4693de963d7cd0bec8f68ca09570cf1c9dde15ec61dde597fe,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_610024353_98847a934901.jpg,True,True,True
+inaturalist,610024375,Aphis gossypii,Melon Aphid,"on Downy Thorn-Apple
+(Datura innoxia)",https://inaturalist-open-data.s3.amazonaws.com/photos/610024375/original.jpg,cc-by-nc,satxmar,https://www.inaturalist.org/observations/335761889,dataset_pulgon_amarillo_v2/imagenes/inaturalist_610024375_1233097e6e3c.jpg,1536,2048,1233097e6e3c279737f492734d5bb4015e7d6fd3d5d6a4bc46a98e13ca477dc4,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_610024375_1233097e6e3c.jpg,True,True,True
+inaturalist,604197249,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/604197249/original.jpg,cc-by,mitvij,https://www.inaturalist.org/observations/332871356,dataset_pulgon_amarillo_v2/imagenes/inaturalist_604197249_5fd272badc89.jpg,1536,2048,5fd272badc890b15f4717604dfad129fa40f5e6f17acfd907321fa207e2907a2,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_604197249_5fd272badc89.jpg,True,True,True
+inaturalist,599190062,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/599190062/original.jpg,cc-by-nc,vyoledt,https://www.inaturalist.org/observations/330435546,dataset_pulgon_amarillo_v2/imagenes/inaturalist_599190062_f019cef76c61.jpg,2048,1365,f019cef76c612787bb88123937bc2582292e05a7e881ecd4d8ec5efccc2f4231,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_599190062_f019cef76c61.jpg,True,True,True
+inaturalist,599066813,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/599066813/original.jpg,cc-by-nc,palmeythepotato,https://www.inaturalist.org/observations/330374250,dataset_pulgon_amarillo_v2/imagenes/inaturalist_599066813_2641ea69a597.jpg,528,402,2641ea69a59777102a99872049a0db033826b1f2bdd77d38035014b303cc06c5,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_599066813_2641ea69a597.jpg,True,True,True
+inaturalist,599066828,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/599066828/original.jpg,cc-by-nc,palmeythepotato,https://www.inaturalist.org/observations/330374250,dataset_pulgon_amarillo_v2/imagenes/inaturalist_599066828_97572861b60a.jpg,318,317,97572861b60a944aee7653aec551c010c73d7636e41231a416a68ee362f96483,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_599066828_97572861b60a.jpg,True,True,True
+inaturalist,599066880,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/599066880/original.jpg,cc-by-nc,palmeythepotato,https://www.inaturalist.org/observations/330374250,dataset_pulgon_amarillo_v2/imagenes/inaturalist_599066880_2daf27ad27b2.jpg,1200,1600,2daf27ad27b214250e75608a02af2f4829d067593fe7519d0a757268058ea989,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_599066880_2daf27ad27b2.jpg,True,True,True
+inaturalist,592235862,Aphis gossypii,Puceron du Cotonnier,,https://inaturalist-open-data.s3.amazonaws.com/photos/592235862/original.jpg,cc-by-nc,hublagrange,https://www.inaturalist.org/observations/326948135,dataset_pulgon_amarillo_v2/imagenes/inaturalist_592235862_92f1413d47d9.jpg,330,495,92f1413d47d925fc0f306ad29a40fb64f6454dad1c13be19c95ac590dce93242,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_592235862_92f1413d47d9.jpg,True,True,True
+inaturalist,590354157,Aphis gossypii,Aphis gossypii,On Phelipanche gratiosa,https://inaturalist-open-data.s3.amazonaws.com/photos/590354157/original.jpg,cc-by-nc,kr_greinwald,https://www.inaturalist.org/observations/326003790,dataset_pulgon_amarillo_v2/imagenes/inaturalist_590354157_e03b3c2992f1.jpg,310,330,e03b3c2992f1192817eafedc115236a3f00fc2c917d02f994e4402d9170dc6e4,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_590354157_e03b3c2992f1.jpg,True,True,True
+inaturalist,588263805,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/588263805/original.jpg,cc-by-nc,vargas_perla,https://www.inaturalist.org/observations/324954277,dataset_pulgon_amarillo_v2/imagenes/inaturalist_588263805_ff95a83d3320.jpg,2048,1765,ff95a83d3320216e8a81d94f265de76e1dca34d4910704bb4fb90d36f4fc8a90,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_588263805_ff95a83d3320.jpg,True,True,True
+inaturalist,585424703,Aphis gossypii,Aphis gossypii,On cotton plant.,https://inaturalist-open-data.s3.amazonaws.com/photos/585424703/original.jpg,cc-by-nc,entomologista,https://www.inaturalist.org/observations/323532717,dataset_pulgon_amarillo_v2/imagenes/inaturalist_585424703_23c506362cdd.jpg,1366,2048,23c506362cdd5d3c929f72435ff15b7b1529369115ea9d7fc57527d41234c586,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_585424703_23c506362cdd.jpg,True,True,True
+inaturalist,581650890,Aphis gossypii,Aphis gossypii,Robinia pseudoacacia,https://inaturalist-open-data.s3.amazonaws.com/photos/581650890/original.jpg,cc-by,alexswift,https://www.inaturalist.org/observations/321614128,dataset_pulgon_amarillo_v2/imagenes/inaturalist_581650890_455bd21892bb.jpg,1873,1247,455bd21892bb4bd946bcc88eac7c26ff179c921fdece62e33853a42024954d0b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_581650890_455bd21892bb.jpg,True,True,True
+inaturalist,579977107,Aphis gossypii,,On Cucumis sativus,https://inaturalist-open-data.s3.amazonaws.com/photos/579977107/original.jpg,cc-by,zekerom7,https://www.inaturalist.org/observations/320750322,dataset_pulgon_amarillo_v2/imagenes/inaturalist_579977107_b85981d0bab2.jpg,1006,1980,b85981d0bab238e2e3b0a4bfab4d97f37e4be19c8942cb34f405233230cd4a01,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_579977107_b85981d0bab2.jpg,True,True,True
+inaturalist,579977101,Aphis gossypii,,On Cucumis sativus,https://inaturalist-open-data.s3.amazonaws.com/photos/579977101/original.jpg,cc-by,zekerom7,https://www.inaturalist.org/observations/320750322,dataset_pulgon_amarillo_v2/imagenes/inaturalist_579977101_c1f1f6744988.jpg,742,1604,c1f1f67449880564bf4ba005974b7538231cea6aa9e6c0233432084c1ed37cef,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_579977101_c1f1f6744988.jpg,True,True,True
+inaturalist,579977099,Aphis gossypii,,On Cucumis sativus,https://inaturalist-open-data.s3.amazonaws.com/photos/579977099/original.jpg,cc-by,zekerom7,https://www.inaturalist.org/observations/320750322,dataset_pulgon_amarillo_v2/imagenes/inaturalist_579977099_7e2d1c5f38c1.jpg,895,1935,7e2d1c5f38c12265cb8b11192738b6dba0271da88c1202ed8c3ba88412f9e283,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_579977099_7e2d1c5f38c1.jpg,True,True,True
+inaturalist,579977106,Aphis gossypii,,On Cucumis sativus,https://inaturalist-open-data.s3.amazonaws.com/photos/579977106/original.jpg,cc-by,zekerom7,https://www.inaturalist.org/observations/320750322,dataset_pulgon_amarillo_v2/imagenes/inaturalist_579977106_fb91dae3289c.jpg,832,1798,fb91dae3289cf0531366d0564a4a496dd1ed64859553e28ae0dcf2c44b39e7bd,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_579977106_fb91dae3289c.jpg,True,True,True
+inaturalist,576344524,Aphis gossypii,Pulgón del algodón,Con Hormigas,https://inaturalist-open-data.s3.amazonaws.com/photos/576344524/original.jpg,cc-by-nc,marina69704,https://www.inaturalist.org/observations/318867242,dataset_pulgon_amarillo_v2/imagenes/inaturalist_576344524_f46dc838e4f8.jpg,1542,2048,f46dc838e4f8732efe867646b0b393929624f312cbf0d1fbe79ff62ef69985f2,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_576344524_f46dc838e4f8.jpg,True,True,True
+inaturalist,576344633,Aphis gossypii,Pulgón del algodón,Con Hormigas,https://inaturalist-open-data.s3.amazonaws.com/photos/576344633/original.jpg,cc-by-nc,marina69704,https://www.inaturalist.org/observations/318867242,dataset_pulgon_amarillo_v2/imagenes/inaturalist_576344633_506e785eacd2.jpg,1542,2048,506e785eacd2a50547dcb5f44e09fa9d5e75b4425e1a7dccd54a9e5d7ece6763,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_576344633_506e785eacd2.jpg,True,True,True
+inaturalist,574446387,Aphis gossypii,Aphis,,https://inaturalist-open-data.s3.amazonaws.com/photos/574446387/original.jpg,cc-by-nc,huckinle,https://www.inaturalist.org/observations/317878645,dataset_pulgon_amarillo_v2/imagenes/inaturalist_574446387_1d9c8b02f1fe.jpg,1536,2048,1d9c8b02f1fef981601afb77a4f69d9c9532c28a2a2fcb2182d5fcd17616e506,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_574446387_1d9c8b02f1fe.jpg,True,True,True
+inaturalist,573756683,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/573756683/original.jpg,cc-by-nc,kinzaleah,https://www.inaturalist.org/observations/317514473,dataset_pulgon_amarillo_v2/imagenes/inaturalist_573756683_f1eda9121121.jpg,1542,2048,f1eda912112116e89c30b7cc697c7322ef28436a2be9ddc942b7812e3608572b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_573756683_f1eda9121121.jpg,True,True,True
+inaturalist,573756715,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/573756715/original.jpg,cc-by-nc,kinzaleah,https://www.inaturalist.org/observations/317514473,dataset_pulgon_amarillo_v2/imagenes/inaturalist_573756715_0a64150788be.jpg,1542,2048,0a64150788beac2d5b704902190a1f29a4ba12fa2a01d8176d790ac4cb418359,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_573756715_0a64150788be.jpg,True,True,True
+inaturalist,573280343,Aphis gossypii,Melon Aphid,on Mirabilis jalapa,https://inaturalist-open-data.s3.amazonaws.com/photos/573280343/original.jpg,cc-by-nc,sergio_ibarra_mellado,https://www.inaturalist.org/observations/317266733,dataset_pulgon_amarillo_v2/imagenes/inaturalist_573280343_0158c3087635.jpg,1427,2048,0158c3087635dc7ead6cb86eebdda976672566cedf87c4750d9f7ef5fede694b,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_573280343_0158c3087635.jpg,True,True,True
+inaturalist,571579870,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/571579870/original.jpg,cc-by-nc,pablo_rodrigo,https://www.inaturalist.org/observations/316365413,dataset_pulgon_amarillo_v2/imagenes/inaturalist_571579870_ca6eae811055.jpg,1120,1418,ca6eae811055a105a3b311050f493d97c361967cbc544dd89063265482debade,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_571579870_ca6eae811055.jpg,True,True,True
+inaturalist,571579891,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/571579891/original.jpg,cc-by-nc,pablo_rodrigo,https://www.inaturalist.org/observations/316365413,dataset_pulgon_amarillo_v2/imagenes/inaturalist_571579891_7db068358e77.jpg,1072,1274,7db068358e7749f007af0d048e115002748124e8b4db3e2ec54b503d31bbb059,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_571579891_7db068358e77.jpg,True,True,True
+inaturalist,571246243,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/571246243/original.jpg,cc-by-nc,chavivis_he,https://www.inaturalist.org/observations/316185868,dataset_pulgon_amarillo_v2/imagenes/inaturalist_571246243_d6448dd600d7.jpg,1153,2048,d6448dd600d7820792a19876bee1f857fbdadfcb41f32b3ebb76a3c26a4b50c2,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_571246243_d6448dd600d7.jpg,True,True,True
+inaturalist,571246217,Aphis gossypii,Pulgón del algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/571246217/original.jpg,cc-by-nc,chavivis_he,https://www.inaturalist.org/observations/316185856,dataset_pulgon_amarillo_v2/imagenes/inaturalist_571246217_d48e810864da.jpg,1153,2048,d48e810864dab51167cb248b700e8ab006ced6256457948c1e697b516bb5b640,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_571246217_d48e810864da.jpg,True,True,True
+inaturalist,571147801,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/571147801/original.jpg,cc-by-nc,jamessmacduff,https://www.inaturalist.org/observations/316135731,dataset_pulgon_amarillo_v2/imagenes/inaturalist_571147801_f1e105aba63d.jpg,1536,2048,f1e105aba63df03be9b3adf8bfcbf67d36466cf42c55e43e2d29d786a17ff355,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_571147801_f1e105aba63d.jpg,True,True,True
+inaturalist,571149558,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/571149558/original.jpg,cc-by-nc,jamessmacduff,https://www.inaturalist.org/observations/316135731,dataset_pulgon_amarillo_v2/imagenes/inaturalist_571149558_105c6975914a.jpg,1536,2048,105c6975914a36905dc2f22960d377f64ec4554a4728b3cfb7efc187ee7fb1f4,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_571149558_105c6975914a.jpg,True,True,True
+inaturalist,570523621,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/570523621/original.jpg,cc-by-nc,barnesmike41,https://www.inaturalist.org/observations/315800472,dataset_pulgon_amarillo_v2/imagenes/inaturalist_570523621_808c102fd69c.jpg,1535,2048,808c102fd69c74cd64217bc6bbabd1d53b11e0886a7543a5c0a9ac6cedfe2496,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_570523621_808c102fd69c.jpg,True,True,True
+inaturalist,570215840,Aphis gossypii,Aphis gossypii,on Erechtites ,https://inaturalist-open-data.s3.amazonaws.com/photos/570215840/original.jpg,cc-by-nc,srall,https://www.inaturalist.org/observations/315642436,dataset_pulgon_amarillo_v2/imagenes/inaturalist_570215840_2cc982b39d71.jpg,780,444,2cc982b39d711104d428b8b6a350507a9a76930e47831e26d4e1feb14af3e0be,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_570215840_2cc982b39d71.jpg,True,True,True
+inaturalist,569825397,Aphis gossypii,Melon Aphid,Found on zucchini plant.,https://inaturalist-open-data.s3.amazonaws.com/photos/569825397/original.jpg,cc-by,hippytiger2u,https://www.inaturalist.org/observations/315434506,dataset_pulgon_amarillo_v2/imagenes/inaturalist_569825397_01ff9c3345a5.jpg,929,2048,01ff9c3345a5e72825467b2b9e16b53d067dc87bbaaae7193aafba4ebaa92de7,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_569825397_01ff9c3345a5.jpg,True,True,True
+inaturalist,569825470,Aphis gossypii,Melon Aphid,Found on zucchini plant.,https://inaturalist-open-data.s3.amazonaws.com/photos/569825470/original.jpg,cc-by,hippytiger2u,https://www.inaturalist.org/observations/315434506,dataset_pulgon_amarillo_v2/imagenes/inaturalist_569825470_014e475684a3.jpg,945,2048,014e475684a34c11b7d9c8d56c8012436d58b0066b0649a1d59b55712f11698f,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_569825470_014e475684a3.jpg,True,True,True
+inaturalist,569368407,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/569368407/original.jpg,cc-by-nc,apwerte_apurrke,https://www.inaturalist.org/observations/315180905,dataset_pulgon_amarillo_v2/imagenes/inaturalist_569368407_506222aa6d5b.jpg,1536,2048,506222aa6d5bad1fd52d4195d70e0f7fec6d43a6f7c79bad2487b4aaa91ac8b6,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_569368407_506222aa6d5b.jpg,True,True,True
+inaturalist,568364985,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/568364985/original.jpg,cc-by-nc,eugat13,https://www.inaturalist.org/observations/314673340,dataset_pulgon_amarillo_v2/imagenes/inaturalist_568364985_31ab6b2f8d87.jpg,316,600,31ab6b2f8d87c460984c24a5dacce9bc42b5d54b39d09f56964b946d89b31793,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_568364985_31ab6b2f8d87.jpg,True,True,True
+inaturalist,560604621,Aphis gossypii,棉蚜,,https://inaturalist-open-data.s3.amazonaws.com/photos/560604621/original.jpg,cc-by-nc,r88621108,https://www.inaturalist.org/observations/310609754,dataset_pulgon_amarillo_v2/imagenes/inaturalist_560604621_d09cc7fb79c4.jpg,2023,1607,d09cc7fb79c4d817f80972d78dcc59d63b0b25de4e31d46be1a89fe2c9b7988a,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_560604621_d09cc7fb79c4.jpg,True,True,True
+inaturalist,560606978,Aphis gossypii,棉蚜,,https://inaturalist-open-data.s3.amazonaws.com/photos/560606978/original.jpg,cc-by-nc,r88621108,https://www.inaturalist.org/observations/310609754,dataset_pulgon_amarillo_v2/imagenes/inaturalist_560606978_9378457dae45.jpg,2048,1544,9378457dae453d6845685e75a1da94fad6db83a9e4523d5397e8542ffb58e2ff,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_560606978_9378457dae45.jpg,True,True,True
+inaturalist,558703285,Aphis gossypii,Pulgón del Algodón,,https://inaturalist-open-data.s3.amazonaws.com/photos/558703285/original.jpg,cc-by-nc,josegomez02,https://www.inaturalist.org/observations/309607414,dataset_pulgon_amarillo_v2/imagenes/inaturalist_558703285_901ad54d47f0.jpg,1536,2048,901ad54d47f0e9e6d1974930b48b6977df8241c6bf9154206a5395f3e1547f5c,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_558703285_901ad54d47f0.jpg,True,True,True
+inaturalist,557981306,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/557981306/original.jpg,cc-by-nc,kristin18801,https://www.inaturalist.org/observations/309225363,dataset_pulgon_amarillo_v2/imagenes/inaturalist_557981306_4fa033fead01.jpg,1537,2048,4fa033fead01486d2cdf4dd97e2821ad71ce75df13302e4348271e52dbfa016c,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_557981306_4fa033fead01.jpg,True,True,True
+inaturalist,554752396,Aphis gossypii,,,https://inaturalist-open-data.s3.amazonaws.com/photos/554752396/original.jpg,cc-by-nc,kirstyrs,https://www.inaturalist.org/observations/307551116,dataset_pulgon_amarillo_v2/imagenes/inaturalist_554752396_7e927cead0e5.jpg,753,753,7e927cead0e57bfb3bc116bea838f907d39c76385c1cc23fb8fa3a2052eed8d8,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_554752396_7e927cead0e5.jpg,True,True,True
+inaturalist,554650076,Aphis gossypii,棉蚜,,https://inaturalist-open-data.s3.amazonaws.com/photos/554650076/original.jpg,cc-by-nc,zdk0812,https://www.inaturalist.org/observations/307497030,dataset_pulgon_amarillo_v2/imagenes/inaturalist_554650076_df2165414d65.jpg,1500,1000,df2165414d650b7e5d193466530ae559e2415bcf18ac26051c016dd8e4e9f10d,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_554650076_df2165414d65.jpg,True,True,True
+inaturalist,545943277,Aphis gossypii,Melon Aphid,,https://inaturalist-open-data.s3.amazonaws.com/photos/545943277/original.jpg,cc-by-nc,cowgorawr,https://www.inaturalist.org/observations/302918649,dataset_pulgon_amarillo_v2/imagenes/inaturalist_545943277_40eef232208e.jpg,1542,2048,40eef232208ef7ea1ae362505a1c9c38537ac3aeee6754abfa440c785998ccc7,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_545943277_40eef232208e.jpg,True,True,True

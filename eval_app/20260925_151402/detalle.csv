@@ -1,0 +1,220 @@
+grupo,archivo,esperado,nota,pred_entrenamiento,conf_entrenamiento,probs_entrenamiento,area_ratio,resultado_app,conf_app,probs_app
+val/sano,val/sano/sano_makerere_0000.jpg,sano,makerere,sano,0.9999,0.0001 0.0000 0.9999,0.9437,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0001.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.9647,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0002.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.7541,sano,0.9999,0.0001 0.0000 0.9999
+val/sano,val/sano/sano_makerere_0003.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.8161,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0004.jpg,sano,makerere,sano,0.9999,0.0001 0.0000 0.9999,0.7292,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0005.jpg,sano,makerere,sano,0.9998,0.0002 0.0000 0.9998,0.9391,sano,0.9998,0.0002 0.0000 0.9998
+val/sano,val/sano/sano_makerere_0006.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.8429,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0007.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.7283,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0008.jpg,sano,makerere,sano,0.9999,0.0001 0.0000 0.9999,0.996,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0009.jpg,sano,makerere,sano,0.9999,0.0001 0.0000 0.9999,0.6044,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0010.jpg,sano,makerere,sano,0.9965,0.0035 0.0000 0.9965,0.8471,sano,0.9996,0.0004 0.0000 0.9996
+val/sano,val/sano/sano_makerere_0011.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.9577,sano,0.9999,0.0001 0.0000 0.9999
+val/sano,val/sano/sano_makerere_0012.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.5989,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0013.jpg,sano,makerere,sano,0.9999,0.0001 0.0000 0.9999,0.8877,sano,0.9998,0.0002 0.0000 0.9998
+val/sano,val/sano/sano_makerere_0014.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.6664,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0015.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.716,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0016.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.8677,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0017.jpg,sano,makerere,sano,0.9999,0.0001 0.0000 0.9999,0.9,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0018.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.4456,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0019.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.5058,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0020.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.8371,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0021.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.7743,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0022.jpg,sano,makerere,sano,0.9758,0.0242 0.0001 0.9758,0.251,sano,0.998,0.0019 0.0001 0.9980
+val/sano,val/sano/sano_makerere_0023.jpg,sano,makerere,sano,0.9977,0.0018 0.0005 0.9977,0.8011,sano,0.9984,0.0013 0.0003 0.9984
+val/sano,val/sano/sano_makerere_0024.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.9523,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0025.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.5554,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0026.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.9614,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0027.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.8079,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0028.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.9898,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0029.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.9094,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0030.jpg,sano,makerere,sano,0.9885,0.0114 0.0000 0.9885,0.9819,sano,0.9961,0.0039 0.0000 0.9961
+val/sano,val/sano/sano_makerere_0031.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.2642,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0032.jpg,sano,makerere,sano,0.9999,0.0001 0.0000 0.9999,0.7564,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0033.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.7947,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0034.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.8564,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0035.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.6031,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0036.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.7238,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0037.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.3895,sano,0.9997,0.0003 0.0000 0.9997
+val/sano,val/sano/sano_makerere_0038.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.8705,sano,1.0,0.0000 0.0000 1.0000
+val/sano,val/sano/sano_makerere_0039.jpg,sano,makerere,sano,1.0,0.0000 0.0000 1.0000,0.5916,sano,1.0,0.0000 0.0000 1.0000
+val/plaga,val/plaga/plaga_lelephid_0000.jpg,plaga,lelephid,plaga,0.9999,0.0001 0.9999 0.0000,0.5225,plaga,0.9999,0.0001 0.9999 0.0000
+val/plaga,val/plaga/plaga_lelephid_0001.jpg,plaga,lelephid,plaga,0.9997,0.0003 0.9997 0.0000,0.9956,plaga,0.9996,0.0004 0.9996 0.0000
+val/plaga,val/plaga/plaga_lelephid_0002.jpg,plaga,lelephid,plaga,0.9973,0.0027 0.9973 0.0000,0.9102,plaga,0.9973,0.0027 0.9973 0.0000
+val/plaga,val/plaga/plaga_lelephid_0003.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.4405,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0004.jpg,plaga,lelephid,plaga,0.9998,0.0002 0.9998 0.0000,0.8875,plaga,0.9974,0.0025 0.9974 0.0001
+val/plaga,val/plaga/plaga_lelephid_0005.jpg,plaga,lelephid,plaga,0.995,0.0050 0.9950 0.0000,0.9527,plaga,0.9859,0.0141 0.9859 0.0000
+val/plaga,val/plaga/plaga_lelephid_0006.jpg,plaga,lelephid,plaga,0.8366,0.1634 0.8366 0.0000,0.952,plaga,0.6114,0.3885 0.6114 0.0001
+val/plaga,val/plaga/plaga_lelephid_0007.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.8685,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0008.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.9303,plaga,0.9999,0.0001 0.9999 0.0000
+val/plaga,val/plaga/plaga_lelephid_0009.jpg,plaga,lelephid,plaga,0.9625,0.0375 0.9625 0.0000,0.8914,plaga,0.9637,0.0361 0.9637 0.0002
+val/plaga,val/plaga/plaga_manual_source_2_0010.jpg,plaga,manual_source_2,plaga,0.9012,0.0987 0.9012 0.0000,0.9982,plaga,0.9702,0.0296 0.9702 0.0002
+val/plaga,val/plaga/plaga_inaturalist_expanded_0011.jpg,plaga,inaturalist_expanded,plaga,0.9806,0.0185 0.9806 0.0009,0.996,plaga,0.9728,0.0257 0.9728 0.0015
+val/plaga,val/plaga/plaga_lelephid_0012.jpg,plaga,lelephid,plaga,0.9999,0.0001 0.9999 0.0000,0.6085,plaga,0.9998,0.0002 0.9998 0.0000
+val/plaga,val/plaga/plaga_lelephid_0013.jpg,plaga,lelephid,plaga,0.9079,0.0921 0.9079 0.0000,0.6117,no_frijol,0.6712,0.6712 0.3189 0.0099
+val/plaga,val/plaga/plaga_lelephid_0014.jpg,plaga,lelephid,plaga,0.9997,0.0003 0.9997 0.0000,0.6396,plaga,0.9995,0.0005 0.9995 0.0000
+val/plaga,val/plaga/plaga_lelephid_0015.jpg,plaga,lelephid,plaga,0.9999,0.0001 0.9999 0.0000,0.863,plaga,0.9997,0.0003 0.9997 0.0000
+val/plaga,val/plaga/plaga_lelephid_0016.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.9938,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_inaturalist_expanded_0017.jpg,plaga,inaturalist_expanded,plaga,0.5403,0.4596 0.5403 0.0000,0.2833,plaga,0.6288,0.3711 0.6288 0.0001
+val/plaga,val/plaga/plaga_lelephid_0018.jpg,plaga,lelephid,plaga,0.9996,0.0004 0.9996 0.0000,0.6145,plaga,0.9972,0.0028 0.9972 0.0000
+val/plaga,val/plaga/plaga_lelephid_0019.jpg,plaga,lelephid,plaga,0.9724,0.0275 0.9724 0.0001,0.9956,plaga,0.9499,0.0494 0.9499 0.0007
+val/plaga,val/plaga/plaga_lelephid_0020.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.8818,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0021.jpg,plaga,lelephid,plaga,0.9999,0.0001 0.9999 0.0000,0.6961,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0022.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.9116,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0023.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.7447,plaga,0.9999,0.0000 0.9999 0.0000
+val/plaga,val/plaga/plaga_lelephid_0024.jpg,plaga,lelephid,plaga,0.9993,0.0007 0.9993 0.0000,0.8923,plaga,0.9993,0.0007 0.9993 0.0000
+val/plaga,val/plaga/plaga_lelephid_0025.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.9302,plaga,0.9999,0.0001 0.9999 0.0000
+val/plaga,val/plaga/plaga_lelephid_0026.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.5762,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0027.jpg,plaga,lelephid,plaga,0.9999,0.0001 0.9999 0.0000,0.8574,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_inaturalist_expanded_0028.jpg,plaga,inaturalist_expanded,plaga,0.8299,0.1701 0.8299 0.0000,0.9398,plaga,0.937,0.0630 0.9370 0.0000
+val/plaga,val/plaga/plaga_lelephid_0029.jpg,plaga,lelephid,plaga,0.9996,0.0004 0.9996 0.0000,0.9549,plaga,0.9994,0.0006 0.9994 0.0000
+val/plaga,val/plaga/plaga_lelephid_0030.jpg,plaga,lelephid,plaga,0.9999,0.0001 0.9999 0.0000,0.7604,plaga,0.9992,0.0008 0.9992 0.0000
+val/plaga,val/plaga/plaga_lelephid_0031.jpg,plaga,lelephid,plaga,0.9999,0.0001 0.9999 0.0000,0.8546,plaga,0.9998,0.0002 0.9998 0.0000
+val/plaga,val/plaga/plaga_inaturalist_0032.jpg,plaga,inaturalist,no_frijol,0.9721,0.9721 0.0279 0.0000,0.9522,no_frijol,0.8916,0.8916 0.1084 0.0000
+val/plaga,val/plaga/plaga_inaturalist_0033.jpg,plaga,inaturalist,no_frijol,0.9579,0.9579 0.0338 0.0083,0.824,no_frijol,0.9593,0.9593 0.0238 0.0169
+val/plaga,val/plaga/plaga_lelephid_0034.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.5471,plaga,0.9999,0.0001 0.9999 0.0000
+val/plaga,val/plaga/plaga_lelephid_0035.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.8633,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0036.jpg,plaga,lelephid,plaga,1.0,0.0000 1.0000 0.0000,0.7727,plaga,1.0,0.0000 1.0000 0.0000
+val/plaga,val/plaga/plaga_lelephid_0037.jpg,plaga,lelephid,plaga,0.996,0.0040 0.9960 0.0000,0.9151,plaga,0.9927,0.0073 0.9927 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0000.jpg,no_frijol,plantdoc,no_frijol,0.9997,0.9997 0.0001 0.0001,0.9978,no_frijol,0.9998,0.9998 0.0000 0.0002
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0001.jpg,no_frijol,plantdoc,no_frijol,0.9981,0.9981 0.0001 0.0017,0.5796,no_frijol,0.9885,0.9885 0.0001 0.0114
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0002.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.9932,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0003.jpg,no_frijol,plantdoc,no_frijol,0.9986,0.9986 0.0000 0.0014,0.9861,no_frijol,0.9949,0.9949 0.0000 0.0051
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0004.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.5296,no_frijol,0.997,0.9970 0.0001 0.0029
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0005.jpg,no_frijol,plantdoc,no_frijol,0.9994,0.9994 0.0006 0.0001,0.8815,no_frijol,0.9996,0.9996 0.0004 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0006.jpg,no_frijol,plantdoc,no_frijol,0.9995,0.9995 0.0001 0.0004,0.8744,no_frijol,0.9992,0.9992 0.0001 0.0007
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0007.jpg,no_frijol,plantdoc,no_frijol,0.9999,0.9999 0.0000 0.0001,0.998,no_frijol,0.9999,0.9999 0.0000 0.0001
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0008.jpg,no_frijol,plantdoc,no_frijol,0.6145,0.6145 0.0052 0.3803,0.5759,no_frijol,0.8505,0.8505 0.0057 0.1438
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0009.jpg,no_frijol,plantdoc,no_frijol,0.9978,0.9978 0.0021 0.0001,0.746,no_frijol,0.9903,0.9903 0.0076 0.0021
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0010.jpg,no_frijol,plantdoc,no_frijol,0.9103,0.9103 0.0817 0.0080,0.6376,no_frijol,0.7563,0.7563 0.0395 0.2042
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0011.jpg,no_frijol,plantdoc,no_frijol,0.9993,0.9993 0.0007 0.0000,0.2652,no_frijol,0.9965,0.9965 0.0035 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0012.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.9895,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0013.jpg,no_frijol,plantdoc,no_frijol,0.9999,0.9999 0.0000 0.0000,0.9018,no_frijol,0.9997,0.9997 0.0000 0.0003
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0014.jpg,no_frijol,plantdoc,no_frijol,0.9996,0.9996 0.0003 0.0001,0.9971,no_frijol,0.9998,0.9998 0.0000 0.0001
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0015.jpg,no_frijol,plantdoc,no_frijol,0.9958,0.9958 0.0042 0.0000,0.8915,no_frijol,0.9997,0.9997 0.0003 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0016.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.9816,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0017.jpg,no_frijol,plantdoc,no_frijol,0.9757,0.9757 0.0242 0.0001,0.2824,no_frijol,0.9814,0.9814 0.0185 0.0001
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0018.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.2792,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0019.jpg,no_frijol,plantdoc,no_frijol,0.9698,0.9698 0.0001 0.0301,0.6401,no_frijol,0.9359,0.9359 0.0001 0.0639
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0020.jpg,no_frijol,plantdoc,no_frijol,0.9984,0.9984 0.0014 0.0002,0.3572,no_frijol,0.9604,0.9604 0.0396 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0021.jpg,no_frijol,plantdoc,no_frijol,0.9311,0.9311 0.0000 0.0689,0.8495,no_frijol,0.5584,0.5584 0.0000 0.4415
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0022.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.482,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0023.jpg,no_frijol,plantdoc,no_frijol,0.9997,0.9997 0.0002 0.0001,0.6169,no_frijol,0.9993,0.9993 0.0004 0.0003
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0024.jpg,no_frijol,plantdoc,no_frijol,0.9709,0.9709 0.0002 0.0289,0.5517,no_frijol,0.9313,0.9313 0.0001 0.0686
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0025.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.4386,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0026.jpg,no_frijol,plantdoc,no_frijol,0.9994,0.9994 0.0000 0.0006,0.9965,no_frijol,0.9995,0.9995 0.0000 0.0005
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0027.jpg,no_frijol,plantdoc,no_frijol,0.9999,0.9999 0.0000 0.0000,0.1115,rechazada_segmentador,,
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0028.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.982,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0029.jpg,no_frijol,plantdoc,no_frijol,0.9982,0.9982 0.0014 0.0004,0.9077,no_frijol,0.9937,0.9937 0.0045 0.0018
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0030.jpg,no_frijol,plantdoc,no_frijol,0.9977,0.9977 0.0020 0.0002,0.568,no_frijol,0.9738,0.9738 0.0252 0.0010
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0031.jpg,no_frijol,plantdoc,no_frijol,0.9914,0.9914 0.0085 0.0001,0.3581,no_frijol,0.9764,0.9764 0.0234 0.0002
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0032.jpg,no_frijol,plantdoc,no_frijol,0.9999,0.9999 0.0000 0.0001,0.0761,rechazada_segmentador,,
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0033.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.2733,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0034.jpg,no_frijol,plantdoc,no_frijol,0.9861,0.9861 0.0000 0.0138,0.996,no_frijol,0.953,0.9530 0.0000 0.0470
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0035.jpg,no_frijol,plantdoc,no_frijol,0.9172,0.9172 0.0828 0.0000,0.6649,no_frijol,0.9829,0.9829 0.0170 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0036.jpg,no_frijol,plantdoc,no_frijol,0.9995,0.9995 0.0005 0.0000,0.9438,no_frijol,0.9991,0.9991 0.0008 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0037.jpg,no_frijol,plantdoc,no_frijol,0.9999,0.9999 0.0001 0.0000,0.0999,rechazada_segmentador,,
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0038.jpg,no_frijol,plantdoc,no_frijol,0.9982,0.9982 0.0017 0.0000,0.0675,rechazada_segmentador,,
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0039.jpg,no_frijol,plantdoc,plaga,0.589,0.4096 0.5890 0.0014,0.6226,no_frijol,0.5002,0.5002 0.4782 0.0217
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0040.jpg,no_frijol,plantdoc,no_frijol,0.9582,0.9582 0.0413 0.0006,0.4118,no_frijol,0.8877,0.8877 0.1083 0.0041
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0041.jpg,no_frijol,plantdoc,no_frijol,0.9965,0.9965 0.0001 0.0034,0.9097,no_frijol,0.8917,0.8917 0.0004 0.1079
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0042.jpg,no_frijol,plantdoc,no_frijol,0.9853,0.9853 0.0028 0.0119,0.9765,no_frijol,0.9613,0.9613 0.0013 0.0374
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0043.jpg,no_frijol,plantdoc,no_frijol,0.9996,0.9996 0.0000 0.0004,0.9508,no_frijol,0.9965,0.9965 0.0000 0.0035
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0044.jpg,no_frijol,plantdoc,no_frijol,0.9973,0.9973 0.0003 0.0024,0.9488,no_frijol,0.9902,0.9902 0.0004 0.0094
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0045.jpg,no_frijol,plantdoc,no_frijol,0.9958,0.9958 0.0040 0.0003,0.4421,no_frijol,0.9954,0.9954 0.0035 0.0011
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0046.jpg,no_frijol,plantdoc,no_frijol,0.9512,0.9512 0.0488 0.0001,0.9458,plaga,0.5892,0.4107 0.5892 0.0002
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0047.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.1905,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0048.jpg,no_frijol,plantdoc,no_frijol,0.9962,0.9962 0.0001 0.0037,0.9948,no_frijol,0.9917,0.9917 0.0001 0.0082
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0049.jpg,no_frijol,plantdoc,no_frijol,0.5155,0.5155 0.0115 0.4730,0.7944,sano,0.8818,0.1126 0.0056 0.8818
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0050.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.9842,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0051.jpg,no_frijol,plantdoc,no_frijol,0.983,0.9830 0.0002 0.0168,0.452,no_frijol,0.967,0.9670 0.0005 0.0325
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0052.jpg,no_frijol,plantdoc,no_frijol,0.9986,0.9986 0.0014 0.0000,0.3856,no_frijol,0.9991,0.9991 0.0009 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0053.jpg,no_frijol,plantdoc,no_frijol,0.9998,0.9998 0.0000 0.0002,0.9486,no_frijol,0.9985,0.9985 0.0000 0.0015
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0054.jpg,no_frijol,plantdoc,no_frijol,0.9994,0.9994 0.0004 0.0002,0.9276,no_frijol,0.9993,0.9993 0.0003 0.0003
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0055.jpg,no_frijol,plantdoc,no_frijol,0.9929,0.9929 0.0002 0.0069,0.7862,no_frijol,0.9871,0.9871 0.0002 0.0127
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0056.jpg,no_frijol,plantdoc,no_frijol,0.9647,0.9647 0.0316 0.0037,0.5442,no_frijol,0.9417,0.9417 0.0467 0.0116
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0057.jpg,no_frijol,plantdoc,no_frijol,0.9998,0.9998 0.0001 0.0001,0.6407,no_frijol,0.9988,0.9988 0.0001 0.0011
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0058.jpg,no_frijol,plantdoc,no_frijol,0.9996,0.9996 0.0004 0.0000,0.2926,no_frijol,0.9997,0.9997 0.0003 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0059.jpg,no_frijol,plantdoc,no_frijol,0.6014,0.6014 0.0000 0.3986,0.8893,sano,0.911,0.0890 0.0000 0.9110
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0060.jpg,no_frijol,plantdoc,no_frijol,0.9894,0.9894 0.0003 0.0103,0.8521,no_frijol,0.9418,0.9418 0.0005 0.0577
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0061.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.9471,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0062.jpg,no_frijol,plantdoc,no_frijol,0.9998,0.9998 0.0000 0.0002,0.3557,no_frijol,1.0,1.0000 0.0000 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0063.jpg,no_frijol,plantdoc,no_frijol,1.0,1.0000 0.0000 0.0000,0.475,no_frijol,0.9999,0.9999 0.0001 0.0000
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0064.jpg,no_frijol,plantdoc,no_frijol,0.946,0.9460 0.0000 0.0540,0.383,sano,0.6325,0.3670 0.0005 0.6325
+val/no_frijol,val/no_frijol/no_frijol_plantdoc_0065.jpg,no_frijol,plantdoc,no_frijol,0.9992,0.9992 0.0000 0.0008,0.8561,no_frijol,0.9727,0.9727 0.0000 0.0273
+campo/evidencia_campo_frijol/entrenar,gt_1788210300022.jpg,sano,"log:sano,seg=true",sano,0.9657,0.0343 0.0000 0.9657,0.3767,sano,0.9998,0.0002 0.0000 0.9998
+campo/evidencia_campo_frijol/entrenar,gt_1788210331961.jpg,sano,"log:sano,seg=true",sano,0.9855,0.0145 0.0000 0.9855,0.506,sano,0.9844,0.0156 0.0000 0.9844
+campo/evidencia_campo_frijol/entrenar,gt_1788210340688.jpg,sano,"log:sano,seg=true",sano,0.9997,0.0003 0.0000 0.9997,0.2769,sano,1.0,0.0000 0.0000 1.0000
+campo/evidencia_campo_frijol/entrenar,gt_1788210353532.jpg,sano,"log:sano,seg=true",sano,0.996,0.0040 0.0001 0.9960,0.2495,sano,1.0,0.0000 0.0000 1.0000
+campo/evidencia_campo_frijol/entrenar,gt_1788210363402.jpg,sano,"log:no_confirmada,seg=true",sano,0.9828,0.0170 0.0003 0.9828,0.4721,sano,0.9786,0.0179 0.0035 0.9786
+campo/evidencia_campo_frijol/entrenar,gt_1788210367623.jpg,sano,"log:no_confirmada,seg=true",sano,0.9699,0.0301 0.0000 0.9699,0.4972,sano,0.9895,0.0096 0.0009 0.9895
+campo/evidencia_campo_frijol/entrenar,gt_1788210376642.jpg,sano,"log:sano,seg=true",sano,0.9375,0.0625 0.0000 0.9375,0.4419,no_frijol,0.5023,0.5023 0.0011 0.4966
+campo/evidencia_campo_frijol/entrenar,gt_1788210383112.jpg,sano,"log:sano,seg=true",sano,0.5895,0.4051 0.0054 0.5895,0.581,sano,0.5567,0.4379 0.0054 0.5567
+campo/evidencia_campo_frijol/entrenar,gt_1788210387688.jpg,sano,"log:sano,seg=true",sano,0.7864,0.1612 0.0524 0.7864,0.2968,sano,0.9998,0.0002 0.0000 0.9998
+campo/evidencia_campo_frijol/entrenar,gt_1788210417512.jpg,sano,"log:sano,seg=true",sano,0.9372,0.0616 0.0012 0.9372,0.2997,sano,0.981,0.0189 0.0001 0.9810
+campo/evidencia_campo_frijol/entrenar,gt_1788210425078.jpg,sano,"log:sano,seg=true",sano,0.936,0.0619 0.0021 0.9360,0.2524,sano,0.8983,0.1017 0.0001 0.8983
+campo/evidencia_campo_frijol/entrenar,gt_1788210430137.jpg,sano,"log:sano,seg=false",sano,0.6279,0.3588 0.0133 0.6279,0.1125,rechazada_segmentador,,
+campo/evidencia_campo_frijol/prueba_honesta,gt_1788210346408.jpg,sano,"log:sano,seg=true",sano,0.9283,0.0717 0.0000 0.9283,0.2999,sano,0.9998,0.0002 0.0000 0.9998
+campo/evidencia_campo_frijol/prueba_honesta,gt_1788210369480.jpg,sano,"log:no_confirmada,seg=true",sano,0.9769,0.0230 0.0000 0.9769,0.4543,sano,0.9796,0.0182 0.0022 0.9796
+campo/evidencia_campo_frijol/prueba_honesta,gt_1788210397175.jpg,sano,"log:sano,seg=true",sano,0.9993,0.0007 0.0000 0.9993,0.31,sano,0.9966,0.0033 0.0001 0.9966
+campo/evidencia_campo_frijol/prueba_honesta,gt_1788210437292.jpg,sano,"log:sano,seg=true",sano,0.998,0.0020 0.0000 0.9980,0.2133,sano,0.9998,0.0002 0.0000 0.9998
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141440492.jpg,sano,sin_log(sano asumido),sano,0.9902,0.0097 0.0001 0.9902,0.424,sano,0.9886,0.0113 0.0001 0.9886
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141441516.jpg,sano,sin_log(sano asumido),sano,0.9981,0.0019 0.0000 0.9981,0.3641,sano,0.9981,0.0019 0.0000 0.9981
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141442774.jpg,sano,sin_log(sano asumido),sano,0.9977,0.0023 0.0000 0.9977,0.6178,sano,0.9933,0.0067 0.0000 0.9933
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141445242.jpg,sano,sin_log(sano asumido),sano,0.9956,0.0044 0.0000 0.9956,0.4043,sano,1.0,0.0000 0.0000 1.0000
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141448621.jpg,sano,sin_log(sano asumido),sano,0.9896,0.0104 0.0000 0.9896,0.6191,sano,0.989,0.0110 0.0000 0.9890
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141452314.jpg,sano,sin_log(sano asumido),sano,0.999,0.0009 0.0000 0.9990,0.5732,sano,0.9984,0.0015 0.0001 0.9984
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141453908.jpg,sano,sin_log(sano asumido),sano,0.9475,0.0518 0.0007 0.9475,0.394,sano,0.9744,0.0237 0.0020 0.9744
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141457118.jpg,sano,sin_log(sano asumido),sano,0.6687,0.3306 0.0007 0.6687,0.3161,no_frijol,0.555,0.5550 0.0012 0.4438
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141500373.jpg,sano,sin_log(sano asumido),sano,0.867,0.1319 0.0010 0.8670,0.2669,no_frijol,0.867,0.8670 0.0546 0.0784
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141501475.jpg,sano,sin_log(sano asumido),sano,0.9352,0.0607 0.0041 0.9352,0.2193,sano,0.9996,0.0004 0.0000 0.9996
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141502143.jpg,sano,sin_log(sano asumido),sano,0.9639,0.0323 0.0038 0.9639,0.3275,sano,0.9144,0.0651 0.0205 0.9144
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141502560.jpg,sano,sin_log(sano asumido),sano,0.9917,0.0081 0.0002 0.9917,0.2993,sano,0.881,0.0965 0.0225 0.8810
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141503322.jpg,sano,sin_log(sano asumido),sano,0.9948,0.0051 0.0000 0.9948,0.2862,sano,0.7769,0.2173 0.0058 0.7769
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141503878.jpg,sano,sin_log(sano asumido),sano,0.7659,0.2254 0.0087 0.7659,0.2817,sano,0.9764,0.0230 0.0006 0.9764
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141504598.jpg,sano,sin_log(sano asumido),sano,0.925,0.0742 0.0008 0.9250,0.2363,sano,0.9482,0.0515 0.0003 0.9482
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141505126.jpg,sano,sin_log(sano asumido),sano,0.9564,0.0425 0.0011 0.9564,0.2329,no_frijol,0.7007,0.7007 0.0063 0.2930
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141506220.jpg,sano,sin_log(sano asumido),sano,0.887,0.1066 0.0064 0.8870,0.2917,sano,0.9724,0.0246 0.0030 0.9724
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141514309.jpg,sano,sin_log(sano asumido),sano,0.7855,0.1956 0.0189 0.7855,0.0902,rechazada_segmentador,,
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141515432.jpg,sano,sin_log(sano asumido),no_frijol,0.7972,0.7972 0.0209 0.1818,0.0952,rechazada_segmentador,,
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141516404.jpg,sano,sin_log(sano asumido),no_frijol,0.6543,0.6543 0.0077 0.3381,0.0976,rechazada_segmentador,,
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141521493.jpg,sano,sin_log(sano asumido),sano,0.996,0.0040 0.0000 0.9960,0.6074,sano,0.9977,0.0023 0.0000 0.9977
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141522267.jpg,sano,sin_log(sano asumido),sano,0.9982,0.0018 0.0000 0.9982,0.5595,sano,0.9992,0.0008 0.0000 0.9992
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141522966.jpg,sano,sin_log(sano asumido),sano,0.9999,0.0001 0.0000 0.9999,0.5439,sano,0.9999,0.0001 0.0000 0.9999
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141525048.jpg,sano,sin_log(sano asumido),sano,0.9928,0.0072 0.0001 0.9928,0.5463,sano,0.9941,0.0059 0.0000 0.9941
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141530307.jpg,sano,sin_log(sano asumido),sano,0.9975,0.0018 0.0006 0.9975,0.4116,sano,0.9987,0.0011 0.0002 0.9987
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141530918.jpg,sano,sin_log(sano asumido),sano,0.9975,0.0025 0.0001 0.9975,0.4141,sano,0.9997,0.0003 0.0001 0.9997
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141531484.jpg,sano,sin_log(sano asumido),sano,0.9277,0.0722 0.0001 0.9277,0.38,sano,0.9947,0.0050 0.0003 0.9947
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141533720.jpg,sano,sin_log(sano asumido),sano,0.583,0.4169 0.0000 0.5830,0.354,no_frijol,0.5075,0.5075 0.0000 0.4924
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141535614.jpg,sano,sin_log(sano asumido),sano,0.5633,0.4324 0.0043 0.5633,0.3435,sano,1.0,0.0000 0.0000 1.0000
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141536340.jpg,sano,sin_log(sano asumido),sano,0.5744,0.4105 0.0150 0.5744,0.3212,sano,1.0,0.0000 0.0000 1.0000
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141538442.jpg,sano,sin_log(sano asumido),sano,0.8105,0.0554 0.1341 0.8105,0.2516,no_frijol,0.7945,0.7945 0.1441 0.0613
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141540483.jpg,sano,sin_log(sano asumido),sano,0.97,0.0287 0.0013 0.9700,0.3429,sano,0.9683,0.0303 0.0013 0.9683
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141543270.jpg,sano,sin_log(sano asumido),sano,0.9991,0.0009 0.0000 0.9991,0.2751,sano,0.9998,0.0002 0.0000 0.9998
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141546730.jpg,sano,sin_log(sano asumido),sano,0.9645,0.0353 0.0001 0.9645,0.4401,sano,0.9637,0.0361 0.0002 0.9637
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141547778.jpg,sano,sin_log(sano asumido),sano,0.9107,0.0823 0.0069 0.9107,0.4161,sano,0.9995,0.0004 0.0000 0.9995
+campo/evidencia_campo_v2/entrenar,IMG_20260904_141548681.jpg,sano,sin_log(sano asumido),sano,0.9729,0.0270 0.0001 0.9729,0.3225,sano,1.0,0.0000 0.0000 1.0000
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141447236.jpg,sano,sin_log(sano asumido),sano,0.9736,0.0237 0.0028 0.9736,0.6219,sano,0.9712,0.0260 0.0028 0.9712
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141459286.jpg,sano,sin_log(sano asumido),sano,0.989,0.0109 0.0001 0.9890,0.2874,sano,0.9879,0.0119 0.0001 0.9879
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141502964.jpg,sano,sin_log(sano asumido),sano,0.9967,0.0032 0.0000 0.9967,0.3149,sano,0.8864,0.0987 0.0149 0.8864
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141505665.jpg,sano,sin_log(sano asumido),sano,0.9375,0.0623 0.0002 0.9375,0.3235,sano,0.9159,0.0838 0.0002 0.9159
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141520667.jpg,sano,sin_log(sano asumido),sano,0.9999,0.0001 0.0000 0.9999,0.5217,sano,1.0,0.0000 0.0000 1.0000
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141526085.jpg,sano,sin_log(sano asumido),sano,0.918,0.0819 0.0000 0.9180,0.591,sano,0.9076,0.0924 0.0000 0.9076
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141534840.jpg,sano,sin_log(sano asumido),sano,0.9899,0.0101 0.0000 0.9899,0.3819,no_frijol,0.9643,0.9643 0.0003 0.0354
+campo/evidencia_campo_v2/prueba_honesta,IMG_20260904_141541171.jpg,sano,sin_log(sano asumido),sano,0.9998,0.0002 0.0000 0.9998,0.4176,sano,0.9998,0.0002 0.0000 0.9998
+campo/otros_no_frijol,gt_1787943866582.jpg,no_frijol,log:otros,no_frijol,0.7421,0.7421 0.2563 0.0016,0.7517,no_frijol,0.7443,0.7443 0.2542 0.0015
+campo/otros_no_frijol,gt_1787943870827.jpg,no_frijol,log:otros,plaga,0.658,0.3393 0.6580 0.0027,0.8073,plaga,0.5074,0.4881 0.5074 0.0045
+campo/otros_no_frijol,gt_1787943873167.jpg,no_frijol,log:otros,no_frijol,0.9843,0.9843 0.0139 0.0019,0.7425,no_frijol,0.9952,0.9952 0.0042 0.0006
+campo/otros_no_frijol,gt_1787943883997.jpg,no_frijol,log:otros,no_frijol,0.9998,0.9998 0.0002 0.0001,0.6164,no_frijol,0.992,0.9920 0.0072 0.0009
+campo/otros_no_frijol,gt_1787943886937.jpg,no_frijol,log:otros,no_frijol,0.9977,0.9977 0.0017 0.0006,0.6898,no_frijol,0.9977,0.9977 0.0016 0.0006
+campo/otros_no_frijol,gt_1787943889902.jpg,no_frijol,log:otros,no_frijol,0.9995,0.9995 0.0005 0.0000,0.6614,no_frijol,0.9994,0.9994 0.0006 0.0000
+campo/otros_no_frijol,gt_1787943906486.jpg,no_frijol,log:otros,no_frijol,0.9997,0.9997 0.0001 0.0001,0.7542,no_frijol,0.9879,0.9879 0.0002 0.0119
+campo/otros_no_frijol,gt_1787943916784.jpg,no_frijol,log:otros,no_frijol,0.9993,0.9993 0.0007 0.0000,0.7604,no_frijol,0.9993,0.9993 0.0007 0.0000
+campo/otros_no_frijol,gt_1787943921032.jpg,no_frijol,log:otros,no_frijol,0.9994,0.9994 0.0006 0.0000,0.7877,no_frijol,0.9993,0.9993 0.0007 0.0000
+campo/otros_no_frijol,gt_1787943924236.jpg,no_frijol,log:otros,no_frijol,0.9991,0.9991 0.0009 0.0000,0.9914,no_frijol,0.9989,0.9989 0.0011 0.0000
+campo/otros_no_frijol,gt_1787943930244.jpg,no_frijol,log:otros,no_frijol,0.9665,0.9665 0.0334 0.0002,0.9931,no_frijol,0.9693,0.9693 0.0306 0.0001
+campo/otros_no_frijol,gt_1787943932892.jpg,no_frijol,log:otros,no_frijol,0.9987,0.9987 0.0013 0.0000,0.9974,no_frijol,0.9986,0.9986 0.0014 0.0000
+campo/otros_no_frijol,gt_1787943936143.jpg,no_frijol,log:otros,no_frijol,0.9996,0.9996 0.0002 0.0002,0.9823,no_frijol,0.9996,0.9996 0.0002 0.0002
+assets_app,test_sano.jpg,sano,assets,sano,1.0,0.0000 0.0000 1.0000,0.8407,sano,1.0,0.0000 0.0000 1.0000
+assets_app,test_plaga.jpg,plaga,assets,plaga,0.9995,0.0005 0.9995 0.0000,0.9338,plaga,0.9995,0.0005 0.9995 0.0000

@@ -1,0 +1,27 @@
+[Makerere] 341 imágenes ya extraídas previamente, reutilizando.
+[LeLePhid] 665 archivos de imagen totales extraídos.
+[LeLePhid] 335 imágenes de la clase 'aphid' identificadas (de 665 totales).
+[iNaturalist] Buscando observaciones de 'Aphis gossypii'...
+[iNaturalist] 282 imágenes descargadas.
+[Curación manual] 24 imágenes confirmadas como morfo amarillo (de 150 originales aisladas de 282 totales en disco).
+[Ampliación] 7 imágenes adicionales confirmadas como morfo amarillo.
+[manual_source_2] 7 imágenes adicionales confirmadas como morfo amarillo.
+[no_frijol] 197 imagenes seleccionadas de PlantDoc (incluye 65 de soya, especie mas dificil).
+sano/train:   0%|          | 0/160 [00:00<?, ?it/s]sano/train:  19%|█▉        | 30/160 [00:00<00:00, 293.75it/s]sano/train:  39%|███▉      | 63/160 [00:00<00:00, 312.85it/s]sano/train:  61%|██████    | 97/160 [00:00<00:00, 323.47it/s]sano/train:  82%|████████▏ | 131/160 [00:00<00:00, 327.91it/s]sano/train: 100%|██████████| 160/160 [00:00<00:00, 325.50it/s]
+sano/val:   0%|          | 0/40 [00:00<?, ?it/s]sano/val:  85%|████████▌ | 34/40 [00:00<00:00, 328.51it/s]sano/val: 100%|██████████| 40/40 [00:00<00:00, 327.33it/s]
+plaga/train:   0%|          | 0/150 [00:00<?, ?it/s]plaga/train:  33%|███▎      | 50/150 [00:00<00:00, 493.34it/s]plaga/train:  67%|██████▋   | 100/150 [00:00<00:00, 411.41it/s]plaga/train:  95%|█████████▍| 142/150 [00:00<00:00, 359.74it/s]plaga/train: 100%|██████████| 150/150 [00:00<00:00, 365.45it/s]
+plaga/val:   0%|          | 0/38 [00:00<?, ?it/s]plaga/val:  79%|███████▉  | 30/38 [00:00<00:00, 299.38it/s]plaga/val: 100%|██████████| 38/38 [00:00<00:00, 329.48it/s]
+no_frijol/train:   0%|          | 0/157 [00:00<?, ?it/s]no_frijol/train:   6%|▋         | 10/157 [00:00<00:01, 92.26it/s]no_frijol/train:  13%|█▎        | 20/157 [00:00<00:03, 38.81it/s]no_frijol/train:  24%|██▍       | 38/157 [00:00<00:01, 63.54it/s]no_frijol/train:  32%|███▏      | 51/157 [00:00<00:01, 78.81it/s]no_frijol/train:  39%|███▉      | 62/157 [00:00<00:01, 77.15it/s]no_frijol/train:  45%|████▌     | 71/157 [00:01<00:01, 75.33it/s]no_frijol/train:  57%|█████▋    | 89/157 [00:01<00:00, 100.52it/s]no_frijol/train:  64%|██████▍   | 101/157 [00:01<00:00, 72.35it/s]no_frijol/train:  75%|███████▍  | 117/157 [00:01<00:00, 89.73it/s]no_frijol/train:  82%|████████▏ | 129/157 [00:01<00:00, 91.10it/s]no_frijol/train:  89%|████████▉ | 140/157 [00:01<00:00, 79.21it/s]no_frijol/train:  97%|█████████▋| 152/157 [00:01<00:00, 87.32it/s]no_frijol/train: 100%|██████████| 157/157 [00:01<00:00, 80.03it/s]
+no_frijol/val:   0%|          | 0/40 [00:00<?, ?it/s]no_frijol/val:  25%|██▌       | 10/40 [00:00<00:00, 51.06it/s]no_frijol/val:  42%|████▎     | 17/40 [00:00<00:00, 58.94it/s]no_frijol/val:  60%|██████    | 24/40 [00:00<00:00, 50.56it/s]no_frijol/val:  85%|████████▌ | 34/40 [00:00<00:00, 63.51it/s]no_frijol/val: 100%|██████████| 40/40 [00:00<00:00, 66.47it/s]
+
+=== RESUMEN ===
+split      train  val
+clase                
+no_frijol    157   40
+plaga        150   38
+sano         160   40
+
+Archivos generados en: /home/misael/plagascan/dataset
+  - metadata.csv
+  - resumen.md
+  - ejemplos.png

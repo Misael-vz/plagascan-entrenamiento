@@ -1,0 +1,103 @@
+# Detalle del modelo v7 (float32) contra el de la app (v6), con el flujo de la app -- 2026-10-05 11:41
+actual: /home/misael/AndroidStudioProjects/proyecto/app/src/main/assets/plagascan_mobilenetv2.tflite
+v7:     /home/misael/plagascan/model_v7/plagascan_mobilenetv2_float32.tflite
+
+grupo                                        esperado  modelo   sin_hoja no_frijol   sano(V)   sano(A)  plaga(A)  plaga(R)   correcto
+val/sano                                     sano      actual          0         0        40         0         0         0    40/40 
+                                                       v7              0         0        40         0         0         0    40/40 
+val/plaga (limón)                            plaga     actual          0         1         0         0         0        31    31/32 
+                                                       v7              0         6         0         0         1        25    26/32 
+val/plaga (morfo amarillo)                   plaga     actual          0         2         0         0         2         2     4/6  
+                                                       v7              0         2         0         0         0         4     4/6  
+val/no_frijol                                no_frijol actual          4        57         0         3         1         1    61/66 
+                                                       v7              4        57         1         1         2         1    61/66 
+campo/evidencia_campo_frijol/prueba_honesta  sano      actual          0         0         4         0         0         0     4/4  
+                                                       v7              0         0         4         0         0         0     4/4  
+campo/evidencia_campo_v2/prueba_honesta      sano      actual          0         0         8         0         0         0     8/8  
+                                                       v7              0         0         8         0         0         0     8/8  
+campo/otros_no_frijol                        no_frijol actual          0        13         0         0         0         0    13/13 
+                                                       v7              0        13         0         0         0         0    13/13 
+prueba_oct/frijol                            sano      actual          0         0        12         0         0         0    12/12 
+                                                       v7              0         0        12         0         0         0    12/12 
+prueba_oct/otros                             no_frijol actual          7         4         0         0         0         0    11/11 
+                                                       v7              7         4         0         0         0         0    11/11 
+campo_nuevo/frijol                           sano      actual          2         2        19         2         0         0    21/25 
+                                                       v7              2         3        18         1         0         1    19/25 
+campo_nuevo/otros                            no_frijol actual          3        12         1         0         2         1    15/19 
+                                                       v7              3        15         1         0         0         0    18/19 
+prueba_limon/limon_sano                      no_frijol actual          0        25         2         1        28       154    25/210
+                                                       v7              0       198         1         0         7         4   198/210
+prueba_limon/limon_pulgon                    plaga     actual          0         2         0         1         7       175   182/185
+                                                       v7              0        65         0         0        25        95   120/185
+
+## Resumen: validación + campo juntos (cada foto contada una sola vez)
+  actual:
+    frijol sano reconocido:        85/89   (falsa plaga: 0, de ellas en rojo: 0)
+    no-frijol bien rechazado:      125/319   (dijo sano: 7; dijo plaga: 187, en rojo: 156)
+    plaga detectada:               217/223   (en rojo: 208; dijo sano: 1)
+  v7:
+    frijol sano reconocido:        83/89   (falsa plaga: 1, de ellas en rojo: 1)
+    no-frijol bien rechazado:      301/319   (dijo sano: 4; dijo plaga: 14, en rojo: 5)
+    plaga detectada:               150/223   (en rojo: 124; dijo sano: 0)
+
+## Errores del v7, foto por foto (97; se muestran hasta 60)
+  val/plaga (limón) | plaga_lelephid_0006.jpg | esperado=plaga | v7 dice no_frijol 0.91
+  val/plaga (limón) | plaga_lelephid_0009.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  val/plaga (limón) | plaga_lelephid_0013.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  val/plaga (morfo amarillo) | plaga_inaturalist_expanded_0017.jpg | esperado=plaga | v7 dice no_frijol 0.95
+  val/plaga (limón) | plaga_lelephid_0018.jpg | esperado=plaga | v7 dice no_frijol 0.55
+  val/plaga (limón) | plaga_lelephid_0026.jpg | esperado=plaga | v7 dice no_frijol 0.72
+  val/plaga (morfo amarillo) | plaga_inaturalist_0032.jpg | esperado=plaga | v7 dice no_frijol 0.71
+  val/plaga (limón) | plaga_lelephid_0037.jpg | esperado=plaga | v7 dice no_frijol 0.50
+  val/no_frijol | no_frijol_plantdoc_0021.jpg | esperado=no_frijol | v7 dice sano(A) 0.79
+  val/no_frijol | no_frijol_plantdoc_0030.jpg | esperado=no_frijol | v7 dice plaga(A) 0.75
+  val/no_frijol | no_frijol_plantdoc_0039.jpg | esperado=no_frijol | v7 dice plaga(A) 0.63
+  val/no_frijol | no_frijol_plantdoc_0046.jpg | esperado=no_frijol | v7 dice plaga(R) 0.83
+  val/no_frijol | no_frijol_plantdoc_0059.jpg | esperado=no_frijol | v7 dice sano(V) 0.97
+  campo_nuevo/frijol | gt_1788923704922.jpg | esperado=sano | v7 dice no_frijol 0.69
+  campo_nuevo/frijol | gt_1788923767683.jpg | esperado=sano | v7 dice plaga(R) 0.95
+  campo_nuevo/frijol | gt_1788923782003.jpg | esperado=sano | v7 dice sin_hoja 0.00
+  campo_nuevo/frijol | gt_1790119751870.jpg | esperado=sano | v7 dice no_frijol 0.59
+  campo_nuevo/frijol | gt_1790119758512.jpg | esperado=sano | v7 dice sin_hoja 0.00
+  campo_nuevo/frijol | gt_1790119806735.jpg | esperado=sano | v7 dice no_frijol 0.97
+  campo_nuevo/otros | gt_1788552866394.jpg | esperado=no_frijol | v7 dice sano(V) 1.00
+  prueba_limon/limon_sano | healthy.139.jpg | esperado=no_frijol | v7 dice plaga(A) 0.53
+  prueba_limon/limon_sano | healthy.173.jpg | esperado=no_frijol | v7 dice plaga(A) 0.70
+  prueba_limon/limon_sano | healthy.212.jpg | esperado=no_frijol | v7 dice plaga(R) 0.99
+  prueba_limon/limon_sano | healthy.226.jpg | esperado=no_frijol | v7 dice plaga(A) 0.67
+  prueba_limon/limon_sano | healthy.263.jpg | esperado=no_frijol | v7 dice plaga(A) 0.80
+  prueba_limon/limon_sano | healthy.310.jpg | esperado=no_frijol | v7 dice plaga(R) 0.90
+  prueba_limon/limon_sano | healthy.317.jpg | esperado=no_frijol | v7 dice plaga(R) 0.86
+  prueba_limon/limon_sano | healthy.318.jpg | esperado=no_frijol | v7 dice plaga(A) 0.72
+  prueba_limon/limon_sano | healthy.35.jpg | esperado=no_frijol | v7 dice sano(V) 0.88
+  prueba_limon/limon_sano | healthy.65.jpg | esperado=no_frijol | v7 dice plaga(A) 0.64
+  prueba_limon/limon_sano | healthy.66.jpg | esperado=no_frijol | v7 dice plaga(A) 0.74
+  prueba_limon/limon_sano | healthy.67.jpg | esperado=no_frijol | v7 dice plaga(R) 0.93
+  prueba_limon/limon_pulgon | aphid.00.jpg | esperado=plaga | v7 dice no_frijol 0.98
+  prueba_limon/limon_pulgon | aphid.09.jpg | esperado=plaga | v7 dice no_frijol 0.79
+  prueba_limon/limon_pulgon | aphid.100.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.105.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.107.jpg | esperado=plaga | v7 dice no_frijol 0.91
+  prueba_limon/limon_pulgon | aphid.109.jpg | esperado=plaga | v7 dice no_frijol 1.00
+  prueba_limon/limon_pulgon | aphid.110.jpg | esperado=plaga | v7 dice no_frijol 0.60
+  prueba_limon/limon_pulgon | aphid.114.jpg | esperado=plaga | v7 dice no_frijol 0.97
+  prueba_limon/limon_pulgon | aphid.116.jpg | esperado=plaga | v7 dice no_frijol 0.93
+  prueba_limon/limon_pulgon | aphid.118.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.119.jpg | esperado=plaga | v7 dice no_frijol 0.98
+  prueba_limon/limon_pulgon | aphid.120.jpg | esperado=plaga | v7 dice no_frijol 0.83
+  prueba_limon/limon_pulgon | aphid.121.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.122.jpg | esperado=plaga | v7 dice no_frijol 0.71
+  prueba_limon/limon_pulgon | aphid.124.jpg | esperado=plaga | v7 dice no_frijol 0.81
+  prueba_limon/limon_pulgon | aphid.127.jpg | esperado=plaga | v7 dice no_frijol 0.68
+  prueba_limon/limon_pulgon | aphid.128.jpg | esperado=plaga | v7 dice no_frijol 0.91
+  prueba_limon/limon_pulgon | aphid.130.jpg | esperado=plaga | v7 dice no_frijol 1.00
+  prueba_limon/limon_pulgon | aphid.131.jpg | esperado=plaga | v7 dice no_frijol 0.84
+  prueba_limon/limon_pulgon | aphid.132.jpg | esperado=plaga | v7 dice no_frijol 0.37
+  prueba_limon/limon_pulgon | aphid.134.jpg | esperado=plaga | v7 dice no_frijol 0.97
+  prueba_limon/limon_pulgon | aphid.136.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.137.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.138.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.139.jpg | esperado=plaga | v7 dice no_frijol 0.99
+  prueba_limon/limon_pulgon | aphid.140.jpg | esperado=plaga | v7 dice no_frijol 0.72
+  prueba_limon/limon_pulgon | aphid.141.jpg | esperado=plaga | v7 dice no_frijol 0.88
+  prueba_limon/limon_pulgon | aphid.142.jpg | esperado=plaga | v7 dice no_frijol 0.97

@@ -1,0 +1,48 @@
+# Nitidez de la hoja y errores del modelo -- 2026-10-05 12:17
+nitidez = varianza del Laplaciano dentro de la hoja (recorte a 512 px). Bajo = borrosa.
+
+grupo                                     n con hoja     mín     p10  mediana  errores   tamaño típico
+frijol propio, NO visto al entrenar      49       47     159     435     1597        4   960x1280
+frijol propio, visto al entrenar         93       89     172     925     3231        0   3072x3072
+val/sano (Makerere)                      40       40     319    3211     9925        0   500x500
+val/plaga (limón)                        32       32    1389    1578     2401        6   351x624
+val/plaga (morfo amarillo)                6        6     456     697     2473        2   500x437
+
+## Si la app rechazara las fotos con nitidez menor al umbral
+   rechazadas = fotos que el usuario tendría que repetir; entre paréntesis, cuántas de ellas eran errores del modelo.
+   'errores que quedan' = errores del modelo en las fotos que sí pasarían.
+
+grupo                                          <200         <400         <600         <800        <1000        <1500
+frijol propio, NO visto al entrenar           1 (0)        3 (1)        8 (1)        8 (1)       11 (1)       21 (2)
+   errores que quedan                             4            3            3            3            3            2
+frijol propio, visto al entrenar              1 (0)        1 (0)        6 (0)        8 (0)       10 (0)       27 (0)
+   errores que quedan                             0            0            0            0            0            0
+val/sano (Makerere)                           0 (0)        1 (0)        1 (0)        1 (0)        2 (0)        2 (0)
+   errores que quedan                             0            0            0            0            0            0
+val/plaga (limón)                             0 (0)        0 (0)        0 (0)        0 (0)        0 (0)        1 (0)
+   errores que quedan                             6            6            6            6            6            6
+val/plaga (morfo amarillo)                    0 (0)        0 (0)        1 (1)        1 (1)        2 (1)        3 (1)
+   errores que quedan                             2            2            1            1            1            1
+
+## Las 15 fotos de frijol propio con la hoja más borrosa
+  nitidez    159.3 | IMG_20260904_141534840.jpg | modelo dice sano
+  nitidez    171.6 | IMG_20260904_141533720.jpg | modelo dice sano
+  nitidez    300.2 | gt_1788923855540.jpg | modelo dice sano
+  nitidez    393.9 | gt_1788923767683.jpg | modelo dice plaga   <-- ERROR
+  nitidez    410.1 | gt_1788923865905.jpg | modelo dice sano
+  nitidez    414.4 | IMG_20260904_141548681.jpg | modelo dice sano
+  nitidez    416.5 | gt_1788210346408.jpg | modelo dice sano
+  nitidez    447.8 | gt_1790119731706.jpg | modelo dice sano
+  nitidez    453.2 | IMG_20260904_141447236.jpg | modelo dice sano
+  nitidez    532.9 | gt_1790119824728.jpg | modelo dice sano
+  nitidez    546.3 | IMG_20260904_141453908.jpg | modelo dice sano
+  nitidez    548.1 | IMG_20260904_141536340.jpg | modelo dice sano
+  nitidez    569.3 | gt_1788210300022.jpg | modelo dice sano
+  nitidez    574.1 | IMG_20260904_141525048.jpg | modelo dice sano
+  nitidez    634.9 | gt_1788210417512.jpg | modelo dice sano
+
+## Errores del modelo en frijol propio y su nitidez
+  nitidez    393.9 | gt_1788923767683.jpg | modelo dice plaga | frijol propio, NO visto al entrenar
+  nitidez   1421.3 | gt_1790119751870.jpg | modelo dice no_frijol | frijol propio, NO visto al entrenar
+  nitidez   2617.8 | gt_1790119806735.jpg | modelo dice no_frijol | frijol propio, NO visto al entrenar
+  nitidez   3206.4 | gt_1788923704922.jpg | modelo dice no_frijol | frijol propio, NO visto al entrenar

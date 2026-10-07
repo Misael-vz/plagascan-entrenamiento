@@ -1,0 +1,19 @@
+# Prueba de galería en el teléfono contra la computadora -- 2026-10-05 11:07
+Registro: galeria_plaga.txt
+Fotos analizadas en el registro: 98  (de la prueba: 78 distintas, 20 repetidas; 0 que no son de la prueba)
+
+clase / fuente                     total hechas |     plaga ROJO plaga AMARILLO     sano VERDE  sano AMARILLO      no_frijol       sin_hoja | acierta  igual que PC
+plaga / inaturalist                    2      2 |              0              1              0              0              1              0 |   1/2      2/2  
+plaga / inaturalist_expanded           3      3 |              1              1              0              0              0              1 |   2/3      3/3  
+plaga / lelephid                      32     32 |             31              0              0              0              1              0 |  31/32    32/32 
+plaga / manual_source_2                1      1 |              1              0              0              0              0              0 |   1/1      1/1  
+sano / makerere                       40     40 |              0              0             40              0              0              0 |  40/40    40/40 
+
+TOTAL plaga: analizadas 38 de 38 | teléfono acierta 35/38 | mismo resultado que la computadora en 38/38 | (computadora, las 38: 35/38)
+TOTAL sano: analizadas 40 de 40 | teléfono acierta 40/40 | mismo resultado que la computadora en 40/40 | (computadora, las 40: 40/40)
+
+## Fotos donde el teléfono y la computadora NO coinciden (0)
+  ninguna
+
+## Faltan por analizar en el teléfono (0)
+  ninguna: prueba completa

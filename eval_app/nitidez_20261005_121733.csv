@@ -1,0 +1,221 @@
+grupo,archivo,esperado,modelo,nitidez,ancho,alto
+"frijol propio, NO visto al entrenar",gt_1788210346408.jpg,sano,sano,416.5,3072,4080
+"frijol propio, NO visto al entrenar",gt_1788210369480.jpg,sano,sano,1455.0,3072,4080
+"frijol propio, NO visto al entrenar",gt_1788210397175.jpg,sano,sano,1557.8,3072,4080
+"frijol propio, NO visto al entrenar",gt_1788210437292.jpg,sano,sano,1686.3,3072,4080
+"frijol propio, NO visto al entrenar",IMG_20260904_141447236.jpg,sano,sano,453.2,3072,4080
+"frijol propio, NO visto al entrenar",IMG_20260904_141459286.jpg,sano,sano,4759.0,3072,4080
+"frijol propio, NO visto al entrenar",IMG_20260904_141502964.jpg,sano,sano,4437.9,3072,4080
+"frijol propio, NO visto al entrenar",IMG_20260904_141505665.jpg,sano,sano,4091.1,3072,4080
+"frijol propio, NO visto al entrenar",IMG_20260904_141520667.jpg,sano,sano,1202.5,4080,3072
+"frijol propio, NO visto al entrenar",IMG_20260904_141526085.jpg,sano,sano,897.2,3072,4080
+"frijol propio, NO visto al entrenar",IMG_20260904_141534840.jpg,sano,sano,159.3,3072,4080
+"frijol propio, NO visto al entrenar",IMG_20260904_141541171.jpg,sano,sano,1257.5,3072,4080
+"frijol propio, NO visto al entrenar",gt_1788552808922.jpg,sano,sano,1355.6,960,1280
+"frijol propio, NO visto al entrenar",gt_1788552813072.jpg,sano,sano,1210.4,960,1280
+"frijol propio, NO visto al entrenar",gt_1788552817063.jpg,sano,sano,1844.0,960,1280
+"frijol propio, NO visto al entrenar",gt_1788552873449.jpg,sano,sano,1193.2,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923688833.jpg,sano,sano,4487.8,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923694903.jpg,sano,sano,5083.5,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923704922.jpg,sano,no_frijol,3206.4,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923720923.jpg,sano,sano,834.6,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923751470.jpg,sano,sano,3578.9,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923767683.jpg,sano,plaga,393.9,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923782003.jpg,sano,sin_hoja,,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923855540.jpg,sano,sano,300.2,960,1280
+"frijol propio, NO visto al entrenar",gt_1788923865905.jpg,sano,sano,410.1,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119669797.jpg,sano,sano,1597.0,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119681015.jpg,sano,sano,1273.7,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119721395.jpg,sano,sano,1611.9,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119731706.jpg,sano,sano,447.8,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119738179.jpg,sano,sano,1807.9,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119744931.jpg,sano,sano,1156.9,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119751870.jpg,sano,no_frijol,1421.3,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119758512.jpg,sano,sin_hoja,,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119763420.jpg,sano,sano,1284.7,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119767308.jpg,sano,sano,914.1,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119806735.jpg,sano,no_frijol,2617.8,960,1280
+"frijol propio, NO visto al entrenar",gt_1790119824728.jpg,sano,sano,532.9,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105466484.jpg,sano,sano,6566.5,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105468424.jpg,sano,sano,6335.2,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105470273.jpg,sano,sano,6921.0,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105472106.jpg,sano,sano,7393.7,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105522816.jpg,sano,sano,4639.6,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105524602.jpg,sano,sano,4626.1,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105526477.jpg,sano,sano,4249.3,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105528190.jpg,sano,sano,4972.7,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105554476.jpg,sano,sano,4318.8,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105557311.jpg,sano,sano,2289.3,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105568776.jpg,sano,sano,2906.4,960,1280
+"frijol propio, NO visto al entrenar",gt_1791105570413.jpg,sano,sano,1565.8,960,1280
+"frijol propio, visto al entrenar",gt_1788210300022.jpg,sano,sano,569.3,3072,4080
+"frijol propio, visto al entrenar",gt_1788210331961.jpg,sano,sano,1199.8,3072,4080
+"frijol propio, visto al entrenar",gt_1788210340688.jpg,sano,sano,1495.8,3072,4080
+"frijol propio, visto al entrenar",gt_1788210353532.jpg,sano,sano,1585.3,3072,4080
+"frijol propio, visto al entrenar",gt_1788210363402.jpg,sano,sano,1555.2,3072,4080
+"frijol propio, visto al entrenar",gt_1788210367623.jpg,sano,sano,1178.4,3072,4080
+"frijol propio, visto al entrenar",gt_1788210376642.jpg,sano,sano,1372.6,3072,4080
+"frijol propio, visto al entrenar",gt_1788210383112.jpg,sano,sano,1318.3,3072,4080
+"frijol propio, visto al entrenar",gt_1788210387688.jpg,sano,sano,1992.8,3072,4080
+"frijol propio, visto al entrenar",gt_1788210417512.jpg,sano,sano,634.9,3072,4080
+"frijol propio, visto al entrenar",gt_1788210425078.jpg,sano,sano,2959.5,3072,4080
+"frijol propio, visto al entrenar",gt_1788210430137.jpg,sano,sin_hoja,,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141440492.jpg,sano,sano,1707.7,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141441516.jpg,sano,sano,1163.4,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141442774.jpg,sano,sano,1227.3,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141445242.jpg,sano,sano,1537.0,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141448621.jpg,sano,sano,1279.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141452314.jpg,sano,sano,1059.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141453908.jpg,sano,sano,546.3,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141457118.jpg,sano,sano,4540.5,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141500373.jpg,sano,sano,3814.4,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141501475.jpg,sano,sano,3359.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141502143.jpg,sano,sano,3625.7,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141502560.jpg,sano,sano,4780.9,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141503322.jpg,sano,sano,4901.8,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141503878.jpg,sano,sano,4335.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141504598.jpg,sano,sano,4346.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141505126.jpg,sano,sano,4553.4,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141506220.jpg,sano,sano,4307.5,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141514309.jpg,sano,sin_hoja,,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141515432.jpg,sano,sin_hoja,,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141516404.jpg,sano,sin_hoja,,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141521493.jpg,sano,sano,1758.4,4080,3072
+"frijol propio, visto al entrenar",IMG_20260904_141522267.jpg,sano,sano,2016.3,4080,3072
+"frijol propio, visto al entrenar",IMG_20260904_141522966.jpg,sano,sano,1295.4,4080,3072
+"frijol propio, visto al entrenar",IMG_20260904_141525048.jpg,sano,sano,574.1,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141530307.jpg,sano,sano,9884.7,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141530918.jpg,sano,sano,8323.7,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141531484.jpg,sano,sano,5511.0,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141533720.jpg,sano,sano,171.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141535614.jpg,sano,sano,1251.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141536340.jpg,sano,sano,548.1,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141538442.jpg,sano,sano,1474.6,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141540483.jpg,sano,sano,1147.4,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141543270.jpg,sano,sano,670.9,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141546730.jpg,sano,sano,1352.3,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141547778.jpg,sano,sano,934.3,3072,4080
+"frijol propio, visto al entrenar",IMG_20260904_141548681.jpg,sano,sano,414.4,3072,4080
+"frijol propio, visto al entrenar",gt_1791105329349.jpg,sano,sano,1553.5,960,1280
+"frijol propio, visto al entrenar",gt_1791105334217.jpg,sano,sano,1835.5,960,1280
+"frijol propio, visto al entrenar",gt_1791105337050.jpg,sano,sano,1328.3,960,1280
+"frijol propio, visto al entrenar",gt_1791105339628.jpg,sano,sano,1415.4,960,1280
+"frijol propio, visto al entrenar",gt_1791105347904.jpg,sano,sano,2690.4,960,1280
+"frijol propio, visto al entrenar",gt_1791105350994.jpg,sano,sano,3231.3,960,1280
+"frijol propio, visto al entrenar",gt_1791105353741.jpg,sano,sano,3683.0,960,1280
+"frijol propio, visto al entrenar",gt_1791105446541.jpg,sano,sano,2538.1,960,1280
+"frijol propio, visto al entrenar",gt_1791105458286.jpg,sano,sano,6493.9,960,1280
+"frijol propio, visto al entrenar",gt_1791105460685.jpg,sano,sano,5419.3,960,1280
+"frijol propio, visto al entrenar",gt_1791105462545.jpg,sano,sano,7117.1,960,1280
+"frijol propio, visto al entrenar",gt_1791105464467.jpg,sano,sano,7012.0,960,1280
+"frijol propio, visto al entrenar",gt_1791105473852.jpg,sano,sano,7430.8,960,1280
+"frijol propio, visto al entrenar",gt_1791105482345.jpg,sano,sano,3296.9,960,1280
+"frijol propio, visto al entrenar",gt_1791105487840.jpg,sano,sano,2779.9,960,1280
+"frijol propio, visto al entrenar",gt_1791105495523.jpg,sano,sano,4288.5,960,1280
+"frijol propio, visto al entrenar",gt_1791105501561.jpg,sano,sano,6952.5,960,1280
+"frijol propio, visto al entrenar",gt_1791105503593.jpg,sano,sano,5427.4,960,1280
+"frijol propio, visto al entrenar",gt_1791105506177.jpg,sano,sano,4267.0,960,1280
+"frijol propio, visto al entrenar",gt_1791105507946.jpg,sano,sano,3197.0,960,1280
+"frijol propio, visto al entrenar",gt_1791105510146.jpg,sano,sano,888.6,960,1280
+"frijol propio, visto al entrenar",gt_1791105511993.jpg,sano,sano,4077.1,960,1280
+"frijol propio, visto al entrenar",gt_1791105513841.jpg,sano,sano,3338.8,960,1280
+"frijol propio, visto al entrenar",gt_1791105515723.jpg,sano,sano,2347.3,960,1280
+"frijol propio, visto al entrenar",gt_1791105530144.jpg,sano,sano,4636.7,960,1280
+"frijol propio, visto al entrenar",gt_1791105532064.jpg,sano,sano,3306.1,960,1280
+"frijol propio, visto al entrenar",gt_1791105533926.jpg,sano,sano,4081.7,960,1280
+"frijol propio, visto al entrenar",gt_1791105535535.jpg,sano,sano,3363.9,960,1280
+"frijol propio, visto al entrenar",gt_1791105537543.jpg,sano,sano,4738.7,960,1280
+"frijol propio, visto al entrenar",gt_1791105539241.jpg,sano,sano,5159.2,960,1280
+"frijol propio, visto al entrenar",gt_1791105540976.jpg,sano,sano,4619.2,960,1280
+"frijol propio, visto al entrenar",gt_1791105542605.jpg,sano,sano,4874.1,960,1280
+"frijol propio, visto al entrenar",gt_1791105544792.jpg,sano,sano,4941.3,960,1280
+"frijol propio, visto al entrenar",gt_1791105547543.jpg,sano,sano,4544.2,960,1280
+"frijol propio, visto al entrenar",gt_1791105549166.jpg,sano,sano,4789.4,960,1280
+"frijol propio, visto al entrenar",gt_1791105552652.jpg,sano,sano,4218.9,960,1280
+"frijol propio, visto al entrenar",gt_1791105572376.jpg,sano,sano,1500.5,960,1280
+"frijol propio, visto al entrenar",gt_1791105575231.jpg,sano,sano,4091.1,960,1280
+"frijol propio, visto al entrenar",gt_1791105580546.jpg,sano,sano,1108.6,960,1280
+"frijol propio, visto al entrenar",gt_1791105583100.jpg,sano,sano,3047.5,960,1280
+"frijol propio, visto al entrenar",gt_1791105585149.jpg,sano,sano,3824.4,960,1280
+"frijol propio, visto al entrenar",gt_1791105587047.jpg,sano,sano,4683.8,960,1280
+"frijol propio, visto al entrenar",gt_1791105588879.jpg,sano,sano,4003.5,960,1280
+"frijol propio, visto al entrenar",gt_1791105591204.jpg,sano,sano,4240.2,960,1280
+"frijol propio, visto al entrenar",gt_1791105592911.jpg,sano,sano,4533.6,960,1280
+val/sano (Makerere),healthy_0785.jpg,sano,sano,9149.8,500,500
+val/sano (Makerere),healthy_0872.jpg,sano,sano,6135.8,500,500
+val/sano (Makerere),healthy_0695.jpg,sano,sano,5296.8,500,500
+val/sano (Makerere),healthy_0839.jpg,sano,sano,16590.4,500,500
+val/sano (Makerere),healthy_0842.jpg,sano,sano,17579.0,500,500
+val/sano (Makerere),healthy_0770.jpg,sano,sano,8996.3,500,500
+val/sano (Makerere),healthy_0777.jpg,sano,sano,2320.9,500,500
+val/sano (Makerere),healthy_0761.jpg,sano,sano,18126.0,500,500
+val/sano (Makerere),healthy_0807.jpg,sano,sano,12446.7,500,500
+val/sano (Makerere),healthy_0753.jpg,sano,sano,9217.6,500,500
+val/sano (Makerere),healthy_0791.jpg,sano,sano,9059.1,500,500
+val/sano (Makerere),healthy_0759.jpg,sano,sano,11926.2,500,500
+val/sano (Makerere),healthy_0694.jpg,sano,sano,16611.1,500,500
+val/sano (Makerere),healthy_0756.jpg,sano,sano,6980.4,500,500
+val/sano (Makerere),healthy_0775.jpg,sano,sano,8003.1,500,500
+val/sano (Makerere),healthy_0815.jpg,sano,sano,10667.6,500,500
+val/sano (Makerere),healthy_0728.jpg,sano,sano,12556.7,500,500
+val/sano (Makerere),healthy_0889.jpg,sano,sano,8284.0,500,500
+val/sano (Makerere),healthy_0717.jpg,sano,sano,10631.6,500,500
+val/sano (Makerere),healthy_0864.jpg,sano,sano,25306.5,500,500
+val/sano (Makerere),healthy_0795.jpg,sano,sano,7473.9,500,500
+val/sano (Makerere),healthy_0715.jpg,sano,sano,11565.5,500,500
+val/sano (Makerere),healthy_0776.jpg,sano,sano,13941.3,500,500
+val/sano (Makerere),healthy_0824.jpg,sano,sano,10663.8,500,500
+val/sano (Makerere),healthy_0802.jpg,sano,sano,14644.4,500,500
+val/sano (Makerere),healthy_0796.jpg,sano,sano,4490.7,500,500
+val/sano (Makerere),healthy_0856.jpg,sano,sano,2668.8,500,500
+val/sano (Makerere),healthy_0849.jpg,sano,sano,5027.2,500,500
+val/sano (Makerere),healthy_0737.jpg,sano,sano,13945.1,500,500
+val/sano (Makerere),healthy_0742.jpg,sano,sano,12910.1,500,500
+val/sano (Makerere),healthy_0865.jpg,sano,sano,5166.7,500,500
+val/sano (Makerere),healthy_0838.jpg,sano,sano,318.8,500,500
+val/sano (Makerere),healthy_0768.jpg,sano,sano,7700.8,500,500
+val/sano (Makerere),healthy_0779.jpg,sano,sano,10735.3,500,500
+val/sano (Makerere),healthy_0881.jpg,sano,sano,15885.6,500,500
+val/sano (Makerere),healthy_0696.jpg,sano,sano,6067.9,500,500
+val/sano (Makerere),healthy_0740.jpg,sano,sano,16971.0,500,500
+val/sano (Makerere),healthy_0876.jpg,sano,sano,993.5,500,500
+val/sano (Makerere),healthy_0758.jpg,sano,sano,12379.4,500,500
+val/sano (Makerere),healthy_0858.jpg,sano,sano,3270.9,500,500
+val/plaga (limón),aphid.240.jpg,plaga,plaga,2772.9,351,624
+val/plaga (limón),aphid.219.jpg,plaga,plaga,2411.0,624,351
+val/plaga (limón),aphid.313.jpg,plaga,plaga,5237.9,624,351
+val/plaga (limón),aphid.250.jpg,plaga,plaga,2321.8,624,351
+val/plaga (limón),aphid.281.jpg,plaga,plaga,2470.9,624,351
+val/plaga (limón),aphid.269.jpg,plaga,plaga,3064.6,624,351
+val/plaga (limón),aphid.272.jpg,plaga,no_frijol,2138.5,351,624
+val/plaga (limón),aphid.235.jpg,plaga,plaga,1532.5,351,624
+val/plaga (limón),aphid.299.jpg,plaga,plaga,2627.0,351,624
+val/plaga (limón),aphid.199.jpg,plaga,no_frijol,4379.4,624,351
+val/plaga (morfo amarillo),inaturalist_619570404_0b8cb07d4c7c.jpg,plaga,plaga,1331.9,2048,1508
+val/plaga (morfo amarillo),Aphis_gossypii_365991676.jpg,plaga,plaga,938.6,500,500
+val/plaga (limón),aphid.229.jpg,plaga,plaga,1388.9,351,624
+val/plaga (limón),aphid.191.jpg,plaga,no_frijol,1671.6,624,351
+val/plaga (limón),aphid.320.jpg,plaga,plaga,1775.4,351,624
+val/plaga (limón),aphid.216.jpg,plaga,plaga,1723.8,351,624
+val/plaga (limón),aphid.298.jpg,plaga,plaga,2402.2,351,624
+val/plaga (morfo amarillo),Aphis_craccivora_375704691.jpg,plaga,no_frijol,455.6,419,500
+val/plaga (limón),aphid.277.jpg,plaga,no_frijol,2483.9,351,624
+val/plaga (limón),aphid.273.jpg,plaga,plaga,1959.2,351,624
+val/plaga (limón),aphid.213.jpg,plaga,plaga,2779.4,351,624
+val/plaga (limón),aphid.197.jpg,plaga,plaga,2951.2,351,624
+val/plaga (limón),aphid.287.jpg,plaga,plaga,1859.1,624,351
+val/plaga (limón),aphid.238.jpg,plaga,plaga,3812.8,624,351
+val/plaga (limón),aphid.258.jpg,plaga,plaga,2741.2,624,351
+val/plaga (limón),aphid.296.jpg,plaga,plaga,1857.8,351,624
+val/plaga (limón),aphid.230.jpg,plaga,no_frijol,3043.3,351,624
+val/plaga (limón),aphid.228.jpg,plaga,plaga,2642.4,351,624
+val/plaga (morfo amarillo),Aphis_gossypii_366529453.jpg,plaga,plaga,4281.8,500,330
+val/plaga (limón),aphid.253.jpg,plaga,plaga,2399.1,351,624
+val/plaga (limón),aphid.200.jpg,plaga,plaga,2465.1,351,624
+val/plaga (limón),aphid.237.jpg,plaga,plaga,1554.1,351,624
+val/plaga (morfo amarillo),inat_344009227.jpg,plaga,no_frijol,3613.6,500,333
+val/plaga (morfo amarillo),inat_260151995.jpg,plaga,plaga,4604.5,500,375
+val/plaga (limón),aphid.246.jpg,plaga,plaga,1590.1,351,624
+val/plaga (limón),aphid.322.jpg,plaga,plaga,1576.4,351,624
+val/plaga (limón),aphid.208.jpg,plaga,plaga,2308.1,351,624
+val/plaga (limón),aphid.193.jpg,plaga,no_frijol,1709.7,351,624

@@ -1,0 +1,52 @@
+# Comparación con el flujo de la app — 2026-10-04 03:41
+actual:    /home/misael/AndroidStudioProjects/proyecto/app/src/main/assets/plagascan_mobilenetv2.tflite
+candidato: /home/misael/plagascan/model_v6/plagascan_mobilenetv2.tflite
+
+grupo                                               n   actual  candidato
+val/sano                                           40   40/40      40/40 
+val/plaga                                          38   35/38      35/38 
+val/no_frijol                                      66   58/66      57/66 
+campo/evidencia_campo_frijol/entrenar              12   10/12      11/12 
+campo/evidencia_campo_frijol/prueba_honesta         4    4/4        4/4  
+campo/evidencia_campo_v2/entrenar                  36   28/36      33/36 
+campo/evidencia_campo_v2/prueba_honesta             8    7/8        8/8  
+campo/otros_no_frijol                              13   12/13      13/13 
+extra/prueba_oct/frijol                            12    1/12      12/12 
+extra/prueba_oct/otros                             11    4/11       4/11 
+extra/campo_nuevo/files/ground_truth_captures/frijol   25   18/25      21/25 
+extra/campo_nuevo/files/ground_truth_captures/otros   19   13/19      12/19 
+
+Exactitud en validación (flujo de la app), actual: 133/144 = 92.4 %
+Exactitud en validación (flujo de la app), candidato: 132/144 = 91.7 %
+
+## Fotos en las que los modelos difieren (30)
+  val/plaga | val/plaga/plaga_inaturalist_expanded_0017.jpg | esperado=plaga | actual=plaga 0.63 -> candidato=no_frijol 0.65
+  val/plaga | val/plaga/plaga_inaturalist_0033.jpg | esperado=plaga | actual=no_frijol 0.96 -> candidato=plaga 0.48
+  val/no_frijol | val/no_frijol/no_frijol_plantdoc_0021.jpg | esperado=no_frijol | actual=no_frijol 0.56 -> candidato=sano 0.87
+  val/no_frijol | val/no_frijol/no_frijol_plantdoc_0060.jpg | esperado=no_frijol | actual=no_frijol 0.94 -> candidato=sano 0.54
+  val/no_frijol | val/no_frijol/no_frijol_plantdoc_0064.jpg | esperado=no_frijol | actual=sano 0.63 -> candidato=no_frijol 0.88
+  campo/evidencia_campo_frijol/entrenar | gt_1788210376642.jpg | esperado=sano | actual=no_frijol 0.50 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141457118.jpg | esperado=sano | actual=no_frijol 0.55 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141500373.jpg | esperado=sano | actual=no_frijol 0.87 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141505126.jpg | esperado=sano | actual=no_frijol 0.70 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141533720.jpg | esperado=sano | actual=no_frijol 0.51 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/entrenar | IMG_20260904_141538442.jpg | esperado=sano | actual=no_frijol 0.79 -> candidato=sano 1.00
+  campo/evidencia_campo_v2/prueba_honesta | IMG_20260904_141534840.jpg | esperado=sano | actual=no_frijol 0.96 -> candidato=sano 1.00
+  campo/otros_no_frijol | gt_1787943870827.jpg | esperado=no_frijol | actual=plaga 0.51 -> candidato=no_frijol 0.56
+  extra/prueba_oct/frijol | gt_1791105466484.jpg | esperado=sano | actual=no_frijol 0.94 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105468424.jpg | esperado=sano | actual=no_frijol 0.95 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105470273.jpg | esperado=sano | actual=no_frijol 0.91 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105472106.jpg | esperado=sano | actual=no_frijol 0.98 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105522816.jpg | esperado=sano | actual=no_frijol 0.46 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105524602.jpg | esperado=sano | actual=no_frijol 0.82 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105526477.jpg | esperado=sano | actual=no_frijol 0.41 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105528190.jpg | esperado=sano | actual=no_frijol 0.86 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105554476.jpg | esperado=sano | actual=no_frijol 0.99 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105557311.jpg | esperado=sano | actual=no_frijol 0.99 -> candidato=sano 1.00
+  extra/prueba_oct/frijol | gt_1791105570413.jpg | esperado=sano | actual=no_frijol 0.98 -> candidato=sano 1.00
+  extra/campo_nuevo/files/ground_truth_captures/frijol | gt_1790119669797.jpg | esperado=sano | actual=no_frijol 0.87 -> candidato=sano 1.00
+  extra/campo_nuevo/files/ground_truth_captures/frijol | gt_1790119721395.jpg | esperado=sano | actual=no_frijol 0.76 -> candidato=sano 1.00
+  extra/campo_nuevo/files/ground_truth_captures/frijol | gt_1790119751870.jpg | esperado=sano | actual=no_frijol 0.92 -> candidato=sano 0.99
+  extra/campo_nuevo/files/ground_truth_captures/otros | gt_1788297591434.jpg | esperado=no_frijol | actual=no_frijol 0.69 -> candidato=plaga 0.54
+  extra/campo_nuevo/files/ground_truth_captures/otros | gt_1788297592931.jpg | esperado=no_frijol | actual=plaga 0.60 -> candidato=no_frijol 0.65
+  extra/campo_nuevo/files/ground_truth_captures/otros | gt_1788297598318.jpg | esperado=no_frijol | actual=no_frijol 0.66 -> candidato=plaga 0.55

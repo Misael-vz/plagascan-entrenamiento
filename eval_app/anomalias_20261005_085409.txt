@@ -1,0 +1,49 @@
+# Experimento de avisos por anomalía -- 2026-10-05 08:54
+Cada número = cuántas fotos del grupo harían saltar el aviso con esa idea.
+
+## val/sano  (n=40, con hoja detectada=40)  -> se espera NO avisar
+  modelo, hoja completa (como hoy)       plaga>=0.50:   0   plaga>=0.80:   0
+  A) mosaico 2x2                         plaga>=0.50:   0   plaga>=0.80:   0
+  A) mosaico 3x3                         plaga>=0.50:   4   plaga>=0.80:   1
+  B) amarillo intenso, sobre hoja        >=0.2%:   5   >=0.5%:   4   >=1.0%:   1   (mediana 0.00%, máx 1.85%)
+  B) amarillo intenso, cualquiera        >=0.2%:  28   >=0.5%:  25   >=1.0%:  22   (mediana 1.26%, máx 21.58%)
+  B) amarillo palido, sobre hoja         >=0.2%:  10   >=0.5%:   8   >=1.0%:   4   (mediana 0.03%, máx 5.11%)
+  B) amarillo palido, cualquiera         >=0.2%:  37   >=0.5%:  34   >=1.0%:  30   (mediana 2.90%, máx 38.35%)
+
+## val/plaga  (n=38, con hoja detectada=38)  -> se espera SI avisar
+  modelo, hoja completa (como hoy)       plaga>=0.50:  35   plaga>=0.80:  33
+  A) mosaico 2x2                         plaga>=0.50:  38   plaga>=0.80:  37
+  A) mosaico 3x3                         plaga>=0.50:  37   plaga>=0.80:  37
+  B) amarillo intenso, sobre hoja        >=0.2%:   0   >=0.5%:   0   >=1.0%:   0   (mediana 0.00%, máx 0.14%)
+  B) amarillo intenso, cualquiera        >=0.2%:  11   >=0.5%:   9   >=1.0%:   4   (mediana 0.03%, máx 96.42%)
+  B) amarillo palido, sobre hoja         >=0.2%:   6   >=0.5%:   2   >=1.0%:   2   (mediana 0.00%, máx 2.64%)
+  B) amarillo palido, cualquiera         >=0.2%:  29   >=0.5%:  23   >=1.0%:  17   (mediana 0.65%, máx 96.75%)
+
+## train/plaga (el modelo ya las vio)  (n=150, con hoja detectada=148)  -> se espera SI avisar
+  modelo, hoja completa (como hoy)       plaga>=0.50: 148   plaga>=0.80: 147
+  A) mosaico 2x2                         plaga>=0.50: 145   plaga>=0.80: 141
+  A) mosaico 3x3                         plaga>=0.50: 144   plaga>=0.80: 141
+  B) amarillo intenso, sobre hoja        >=0.2%:   0   >=0.5%:   0   >=1.0%:   0   (mediana 0.00%, máx 0.13%)
+  B) amarillo intenso, cualquiera        >=0.2%:  46   >=0.5%:  37   >=1.0%:  34   (mediana 0.02%, máx 96.52%)
+  B) amarillo palido, sobre hoja         >=0.2%:  12   >=0.5%:   5   >=1.0%:   2   (mediana 0.00%, máx 9.66%)
+  B) amarillo palido, cualquiera         >=0.2%: 108   >=0.5%:  78   >=1.0%:  57   (mediana 0.56%, máx 97.45%)
+
+## campo/frijol sano (independiente)  (n=49, con hoja detectada=47)  -> se espera NO avisar
+  modelo, hoja completa (como hoy)       plaga>=0.50:   0   plaga>=0.80:   0
+  A) mosaico 2x2                         plaga>=0.50:   4   plaga>=0.80:   2
+  A) mosaico 3x3                         plaga>=0.50:  27   plaga>=0.80:  18
+  B) amarillo intenso, sobre hoja        >=0.2%:   0   >=0.5%:   0   >=1.0%:   0   (mediana 0.00%, máx 0.04%)
+  B) amarillo intenso, cualquiera        >=0.2%:  32   >=0.5%:  30   >=1.0%:  24   (mediana 1.00%, máx 84.17%)
+  B) amarillo palido, sobre hoja         >=0.2%:   5   >=0.5%:   4   >=1.0%:   1   (mediana 0.00%, máx 1.00%)
+  B) amarillo palido, cualquiera         >=0.2%:  40   >=0.5%:  39   >=1.0%:  34   (mediana 5.28%, máx 86.56%)
+
+## tu planta, octubre (el modelo ya las vio)  (n=45, con hoja detectada=45)  -> se espera NO avisar
+  modelo, hoja completa (como hoy)       plaga>=0.50:   0   plaga>=0.80:   0
+  A) mosaico 2x2                         plaga>=0.50:   2   plaga>=0.80:   1
+  A) mosaico 3x3                         plaga>=0.50:  26   plaga>=0.80:  14
+  B) amarillo intenso, sobre hoja        >=0.2%:   0   >=0.5%:   0   >=1.0%:   0   (mediana 0.00%, máx 0.15%)
+  B) amarillo intenso, cualquiera        >=0.2%:  20   >=0.5%:  11   >=1.0%:   7   (mediana 0.18%, máx 1.77%)
+  B) amarillo palido, sobre hoja         >=0.2%:  23   >=0.5%:  18   >=1.0%:   3   (mediana 0.22%, máx 1.09%)
+  B) amarillo palido, cualquiera         >=0.2%:  45   >=0.5%:  42   >=1.0%:  35   (mediana 1.28%, máx 8.62%)
+
+(No existe ~/plagascan/simulacion/: no se midieron fotos simuladas.)

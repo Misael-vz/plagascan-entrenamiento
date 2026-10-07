@@ -1,0 +1,37 @@
+# PlagaScan entrenamiento -- lista blanca:
+# todo queda fuera de git, salvo lo que se indica abajo.
+/*
+
+!/.gitignore
+!/README.md
+!/*.py
+!/*.sh
+!/*.md
+!/*.csv
+!/*.txt
+
+# Registros de evaluacion
+!/eval_app/
+
+# Trazabilidad de los datasets: solo los listados, no las imagenes
+!/dataset*/
+/dataset*/*
+!/dataset*/*.csv
+!/dataset*/*.md
+!/dataset*/*.txt
+
+# Modelo final
+!/model_v7/
+
+# Fotos propias del equipo (evidencia de campo; no se pueden volver a descargar)
+!/recoleccion_campo/
+!/evidencia_campo_frijol/
+!/evidencia_campo_v2/
+!/campo_oct/
+!/campo_nuevo/
+!/prueba_oct/
+
+# Nunca
+__pycache__/
+*.pyc
+*.zip

@@ -1,0 +1,716 @@
+archivo,clase,split,fuente,licencia,origen_local
+train/sano/sano_makerere_0000.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0828.jpg
+train/sano/sano_makerere_0001.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0726.jpg
+train/sano/sano_makerere_0002.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0730.jpg
+train/sano/sano_makerere_0003.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0843.jpg
+train/sano/sano_makerere_0004.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0811.jpg
+train/sano/sano_makerere_0005.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0724.jpg
+train/sano/sano_makerere_0006.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0829.jpg
+train/sano/sano_makerere_0007.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0808.jpg
+train/sano/sano_makerere_0008.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0831.jpg
+train/sano/sano_makerere_0009.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0848.jpg
+train/sano/sano_makerere_0010.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0789.jpg
+train/sano/sano_makerere_0011.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0778.jpg
+train/sano/sano_makerere_0012.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0819.jpg
+train/sano/sano_makerere_0013.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0783.jpg
+train/sano/sano_makerere_0014.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0835.jpg
+train/sano/sano_makerere_0015.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0859.jpg
+train/sano/sano_makerere_0016.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0718.jpg
+train/sano/sano_makerere_0017.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0798.jpg
+train/sano/sano_makerere_0018.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0711.jpg
+train/sano/sano_makerere_0019.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0818.jpg
+train/sano/sano_makerere_0020.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0892.jpg
+train/sano/sano_makerere_0021.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0801.jpg
+train/sano/sano_makerere_0022.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0867.jpg
+train/sano/sano_makerere_0023.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0882.jpg
+train/sano/sano_makerere_0024.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0869.jpg
+train/sano/sano_makerere_0025.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0857.jpg
+train/sano/sano_makerere_0026.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0805.jpg
+train/sano/sano_makerere_0027.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0845.jpg
+train/sano/sano_makerere_0028.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0738.jpg
+train/sano/sano_makerere_0029.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0847.jpg
+train/sano/sano_makerere_0030.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0773.jpg
+train/sano/sano_makerere_0031.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0820.jpg
+train/sano/sano_makerere_0032.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0888.jpg
+train/sano/sano_makerere_0033.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0757.jpg
+train/sano/sano_makerere_0034.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0833.jpg
+train/sano/sano_makerere_0035.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0699.jpg
+train/sano/sano_makerere_0036.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0875.jpg
+train/sano/sano_makerere_0037.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0706.jpg
+train/sano/sano_makerere_0038.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0816.jpg
+train/sano/sano_makerere_0039.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0754.jpg
+train/sano/sano_makerere_0040.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0793.jpg
+train/sano/sano_makerere_0041.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0880.jpg
+train/sano/sano_makerere_0042.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0735.jpg
+train/sano/sano_makerere_0043.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0863.jpg
+train/sano/sano_makerere_0044.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0794.jpg
+train/sano/sano_makerere_0045.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0705.jpg
+train/sano/sano_makerere_0046.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0763.jpg
+train/sano/sano_makerere_0047.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0792.jpg
+train/sano/sano_makerere_0048.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0760.jpg
+train/sano/sano_makerere_0049.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0873.jpg
+train/sano/sano_makerere_0050.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0860.jpg
+train/sano/sano_makerere_0051.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0814.jpg
+train/sano/sano_makerere_0052.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0774.jpg
+train/sano/sano_makerere_0053.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0871.jpg
+train/sano/sano_makerere_0054.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0837.jpg
+train/sano/sano_makerere_0055.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0841.jpg
+train/sano/sano_makerere_0056.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0884.jpg
+train/sano/sano_makerere_0057.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0739.jpg
+train/sano/sano_makerere_0058.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0736.jpg
+train/sano/sano_makerere_0059.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0722.jpg
+train/sano/sano_makerere_0060.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0890.jpg
+train/sano/sano_makerere_0061.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0883.jpg
+train/sano/sano_makerere_0062.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0766.jpg
+train/sano/sano_makerere_0063.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0834.jpg
+train/sano/sano_makerere_0064.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0823.jpg
+train/sano/sano_makerere_0065.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0817.jpg
+train/sano/sano_makerere_0066.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0790.jpg
+train/sano/sano_makerere_0067.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0874.jpg
+train/sano/sano_makerere_0068.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0822.jpg
+train/sano/sano_makerere_0069.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0782.jpg
+train/sano/sano_makerere_0070.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0844.jpg
+train/sano/sano_makerere_0071.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0832.jpg
+train/sano/sano_makerere_0072.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0703.jpg
+train/sano/sano_makerere_0073.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0786.jpg
+train/sano/sano_makerere_0074.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0769.jpg
+train/sano/sano_makerere_0075.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0806.jpg
+train/sano/sano_makerere_0076.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0741.jpg
+train/sano/sano_makerere_0077.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0870.jpg
+train/sano/sano_makerere_0078.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0800.jpg
+train/sano/sano_makerere_0079.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0710.jpg
+train/sano/sano_makerere_0080.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0716.jpg
+train/sano/sano_makerere_0081.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0745.jpg
+train/sano/sano_makerere_0082.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0729.jpg
+train/sano/sano_makerere_0083.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0697.jpg
+train/sano/sano_makerere_0084.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0852.jpg
+train/sano/sano_makerere_0085.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0781.jpg
+train/sano/sano_makerere_0086.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0797.jpg
+train/sano/sano_makerere_0087.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0762.jpg
+train/sano/sano_makerere_0088.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0701.jpg
+train/sano/sano_makerere_0089.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0887.jpg
+train/sano/sano_makerere_0090.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0747.jpg
+train/sano/sano_makerere_0091.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0698.jpg
+train/sano/sano_makerere_0092.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0702.jpg
+train/sano/sano_makerere_0093.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0810.jpg
+train/sano/sano_makerere_0094.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0720.jpg
+train/sano/sano_makerere_0095.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0693.jpg
+train/sano/sano_makerere_0096.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0725.jpg
+train/sano/sano_makerere_0097.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0743.jpg
+train/sano/sano_makerere_0098.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0855.jpg
+train/sano/sano_makerere_0099.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0825.jpg
+train/sano/sano_makerere_0100.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0836.jpg
+train/sano/sano_makerere_0101.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0886.jpg
+train/sano/sano_makerere_0102.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0752.jpg
+train/sano/sano_makerere_0103.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0764.jpg
+train/sano/sano_makerere_0104.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0804.jpg
+train/sano/sano_makerere_0105.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0765.jpg
+train/sano/sano_makerere_0106.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0803.jpg
+train/sano/sano_makerere_0107.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0746.jpg
+train/sano/sano_makerere_0108.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0826.jpg
+train/sano/sano_makerere_0109.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0709.jpg
+train/sano/sano_makerere_0110.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0751.jpg
+train/sano/sano_makerere_0111.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0700.jpg
+train/sano/sano_makerere_0112.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0846.jpg
+train/sano/sano_makerere_0113.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0750.jpg
+train/sano/sano_makerere_0114.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0891.jpg
+train/sano/sano_makerere_0115.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0704.jpg
+train/sano/sano_makerere_0116.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0755.jpg
+train/sano/sano_makerere_0117.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0767.jpg
+train/sano/sano_makerere_0118.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0784.jpg
+train/sano/sano_makerere_0119.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0719.jpg
+train/sano/sano_makerere_0120.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0780.jpg
+train/sano/sano_makerere_0121.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0707.jpg
+train/sano/sano_makerere_0122.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0879.jpg
+train/sano/sano_makerere_0123.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0854.jpg
+train/sano/sano_makerere_0124.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0877.jpg
+train/sano/sano_makerere_0125.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0734.jpg
+train/sano/sano_makerere_0126.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0714.jpg
+train/sano/sano_makerere_0127.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0731.jpg
+train/sano/sano_makerere_0128.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0744.jpg
+train/sano/sano_makerere_0129.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0851.jpg
+train/sano/sano_makerere_0130.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0721.jpg
+train/sano/sano_makerere_0131.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0712.jpg
+train/sano/sano_makerere_0132.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0853.jpg
+train/sano/sano_makerere_0133.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0861.jpg
+train/sano/sano_makerere_0134.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0827.jpg
+train/sano/sano_makerere_0135.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0713.jpg
+train/sano/sano_makerere_0136.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0866.jpg
+train/sano/sano_makerere_0137.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0748.jpg
+train/sano/sano_makerere_0138.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0830.jpg
+train/sano/sano_makerere_0139.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0813.jpg
+train/sano/sano_makerere_0140.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0799.jpg
+train/sano/sano_makerere_0141.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0788.jpg
+train/sano/sano_makerere_0142.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0809.jpg
+train/sano/sano_makerere_0143.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0732.jpg
+train/sano/sano_makerere_0144.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0868.jpg
+train/sano/sano_makerere_0145.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0727.jpg
+train/sano/sano_makerere_0146.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0840.jpg
+train/sano/sano_makerere_0147.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0749.jpg
+train/sano/sano_makerere_0148.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0787.jpg
+train/sano/sano_makerere_0149.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0885.jpg
+train/sano/sano_makerere_0150.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0850.jpg
+train/sano/sano_makerere_0151.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0772.jpg
+train/sano/sano_makerere_0152.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0821.jpg
+train/sano/sano_makerere_0153.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0878.jpg
+train/sano/sano_makerere_0154.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0733.jpg
+train/sano/sano_makerere_0155.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0771.jpg
+train/sano/sano_makerere_0156.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0812.jpg
+train/sano/sano_makerere_0157.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0723.jpg
+train/sano/sano_makerere_0158.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0708.jpg
+train/sano/sano_makerere_0159.jpg,sano,train,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0862.jpg
+val/sano/sano_makerere_0000.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0785.jpg
+val/sano/sano_makerere_0001.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0872.jpg
+val/sano/sano_makerere_0002.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0695.jpg
+val/sano/sano_makerere_0003.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0839.jpg
+val/sano/sano_makerere_0004.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0842.jpg
+val/sano/sano_makerere_0005.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0770.jpg
+val/sano/sano_makerere_0006.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0777.jpg
+val/sano/sano_makerere_0007.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0761.jpg
+val/sano/sano_makerere_0008.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0807.jpg
+val/sano/sano_makerere_0009.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0753.jpg
+val/sano/sano_makerere_0010.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0791.jpg
+val/sano/sano_makerere_0011.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0759.jpg
+val/sano/sano_makerere_0012.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0694.jpg
+val/sano/sano_makerere_0013.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0756.jpg
+val/sano/sano_makerere_0014.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0775.jpg
+val/sano/sano_makerere_0015.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0815.jpg
+val/sano/sano_makerere_0016.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0728.jpg
+val/sano/sano_makerere_0017.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0889.jpg
+val/sano/sano_makerere_0018.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0717.jpg
+val/sano/sano_makerere_0019.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0864.jpg
+val/sano/sano_makerere_0020.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0795.jpg
+val/sano/sano_makerere_0021.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0715.jpg
+val/sano/sano_makerere_0022.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0776.jpg
+val/sano/sano_makerere_0023.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0824.jpg
+val/sano/sano_makerere_0024.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0802.jpg
+val/sano/sano_makerere_0025.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0796.jpg
+val/sano/sano_makerere_0026.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0856.jpg
+val/sano/sano_makerere_0027.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0849.jpg
+val/sano/sano_makerere_0028.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0737.jpg
+val/sano/sano_makerere_0029.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0742.jpg
+val/sano/sano_makerere_0030.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0865.jpg
+val/sano/sano_makerere_0031.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0838.jpg
+val/sano/sano_makerere_0032.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0768.jpg
+val/sano/sano_makerere_0033.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0779.jpg
+val/sano/sano_makerere_0034.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0881.jpg
+val/sano/sano_makerere_0035.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0696.jpg
+val/sano/sano_makerere_0036.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0740.jpg
+val/sano/sano_makerere_0037.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0876.jpg
+val/sano/sano_makerere_0038.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0758.jpg
+val/sano/sano_makerere_0039.jpg,sano,val,makerere,MIT,/home/misael/plagascan/dataset/raw/makerere_ibean/healthy/healthy_0858.jpg
+train/plaga/plaga_lelephid_0000.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.194.jpg
+train/plaga/plaga_lelephid_0001.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.280.jpg
+train/plaga/plaga_lelephid_0002.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.259.jpg
+train/plaga/plaga_lelephid_0003.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.211.jpg
+train/plaga/plaga_lelephid_0004.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.239.jpg
+train/plaga/plaga_lelephid_0005.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.319.jpg
+train/plaga/plaga_inaturalist_0006.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_239956266.jpg
+train/plaga/plaga_lelephid_0007.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.236.jpg
+train/plaga/plaga_manual_source_2_0008.jpg,plaga,train,manual_source_2,ver-metadata.csv-por-imagen,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_668261018_ecf6e4345329.jpg
+train/plaga/plaga_lelephid_0009.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.283.jpg
+train/plaga/plaga_lelephid_0010.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.311.jpg
+train/plaga/plaga_lelephid_0011.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.255.jpg
+train/plaga/plaga_lelephid_0012.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.206.jpg
+train/plaga/plaga_lelephid_0013.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.224.jpg
+train/plaga/plaga_inaturalist_0014.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_155007338.jpg
+train/plaga/plaga_lelephid_0015.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.323.jpg
+train/plaga/plaga_lelephid_0016.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.207.jpg
+train/plaga/plaga_lelephid_0017.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.306.jpg
+train/plaga/plaga_lelephid_0018.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.270.jpg
+train/plaga/plaga_lelephid_0019.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.267.jpg
+train/plaga/plaga_inaturalist_0020.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_303109180.jpg
+train/plaga/plaga_lelephid_0021.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.290.jpg
+train/plaga/plaga_lelephid_0022.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.284.jpg
+train/plaga/plaga_lelephid_0023.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.285.jpg
+train/plaga/plaga_lelephid_0024.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.233.jpg
+train/plaga/plaga_lelephid_0025.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.247.jpg
+train/plaga/plaga_lelephid_0026.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.227.jpg
+train/plaga/plaga_lelephid_0027.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.215.jpg
+train/plaga/plaga_lelephid_0028.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.312.jpg
+train/plaga/plaga_lelephid_0029.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.245.jpg
+train/plaga/plaga_lelephid_0030.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.318.jpg
+train/plaga/plaga_inaturalist_expanded_0031.jpg,plaga,train,inaturalist_expanded,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist_expanded/Aphis_gossypii_358913119.jpg
+train/plaga/plaga_lelephid_0032.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.190.jpg
+train/plaga/plaga_lelephid_0033.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.263.jpg
+train/plaga/plaga_inaturalist_0034.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_239807802.jpg
+train/plaga/plaga_lelephid_0035.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.209.jpg
+train/plaga/plaga_lelephid_0036.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.232.jpg
+train/plaga/plaga_lelephid_0037.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.254.jpg
+train/plaga/plaga_lelephid_0038.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.300.jpg
+train/plaga/plaga_inaturalist_0039.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_235243011.jpg
+train/plaga/plaga_inaturalist_expanded_0040.jpg,plaga,train,inaturalist_expanded,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist_expanded/Aphis_gossypii_392487036.jpg
+train/plaga/plaga_lelephid_0041.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.332.jpg
+train/plaga/plaga_lelephid_0042.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.252.jpg
+train/plaga/plaga_inaturalist_0043.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_154575126.jpg
+train/plaga/plaga_lelephid_0044.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.202.jpg
+train/plaga/plaga_inaturalist_0045.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_166480255.jpg
+train/plaga/plaga_lelephid_0046.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.248.jpg
+train/plaga/plaga_lelephid_0047.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.223.jpg
+train/plaga/plaga_lelephid_0048.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.217.jpg
+train/plaga/plaga_inaturalist_0049.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_239707619.jpg
+train/plaga/plaga_lelephid_0050.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.214.jpg
+train/plaga/plaga_lelephid_0051.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.186.jpg
+train/plaga/plaga_lelephid_0052.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.256.jpg
+train/plaga/plaga_lelephid_0053.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.187.jpg
+train/plaga/plaga_inaturalist_expanded_0054.jpg,plaga,train,inaturalist_expanded,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist_expanded/Aphis_gossypii_378453101.jpg
+train/plaga/plaga_lelephid_0055.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.220.jpg
+train/plaga/plaga_lelephid_0056.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.261.jpg
+train/plaga/plaga_lelephid_0057.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.268.jpg
+train/plaga/plaga_manual_source_2_0058.jpg,plaga,train,manual_source_2,ver-metadata.csv-por-imagen,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_692162545_a947d882814d.jpg
+train/plaga/plaga_lelephid_0059.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.225.jpg
+train/plaga/plaga_lelephid_0060.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.243.jpg
+train/plaga/plaga_lelephid_0061.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.326.jpg
+train/plaga/plaga_inaturalist_expanded_0062.jpg,plaga,train,inaturalist_expanded,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist_expanded/Aphis_gossypii_360810994.jpg
+train/plaga/plaga_lelephid_0063.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.334.jpg
+train/plaga/plaga_lelephid_0064.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.328.jpg
+train/plaga/plaga_lelephid_0065.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.324.jpg
+train/plaga/plaga_lelephid_0066.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.330.jpg
+train/plaga/plaga_lelephid_0067.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.327.jpg
+train/plaga/plaga_lelephid_0068.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.184.jpg
+train/plaga/plaga_inaturalist_0069.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_291746559.jpg
+train/plaga/plaga_lelephid_0070.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.264.jpg
+train/plaga/plaga_lelephid_0071.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.317.jpg
+train/plaga/plaga_lelephid_0072.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.244.jpg
+train/plaga/plaga_inaturalist_0073.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_260772372.jpg
+train/plaga/plaga_lelephid_0074.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.314.jpg
+train/plaga/plaga_lelephid_0075.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.276.jpg
+train/plaga/plaga_lelephid_0076.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.198.jpg
+train/plaga/plaga_lelephid_0077.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.204.jpg
+train/plaga/plaga_lelephid_0078.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.302.jpg
+train/plaga/plaga_lelephid_0079.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.291.jpg
+train/plaga/plaga_lelephid_0080.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.241.jpg
+train/plaga/plaga_lelephid_0081.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.221.jpg
+train/plaga/plaga_lelephid_0082.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.304.jpg
+train/plaga/plaga_lelephid_0083.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.210.jpg
+train/plaga/plaga_lelephid_0084.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.203.jpg
+train/plaga/plaga_lelephid_0085.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.305.jpg
+train/plaga/plaga_lelephid_0086.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.292.jpg
+train/plaga/plaga_lelephid_0087.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.309.jpg
+train/plaga/plaga_lelephid_0088.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.315.jpg
+train/plaga/plaga_lelephid_0089.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.297.jpg
+train/plaga/plaga_lelephid_0090.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.196.jpg
+train/plaga/plaga_lelephid_0091.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.226.jpg
+train/plaga/plaga_lelephid_0092.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.260.jpg
+train/plaga/plaga_manual_source_2_0093.jpg,plaga,train,manual_source_2,ver-metadata.csv-por-imagen,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_663364033_72a2cb47ec57.jpg
+train/plaga/plaga_lelephid_0094.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.218.jpg
+train/plaga/plaga_lelephid_0095.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.333.jpg
+train/plaga/plaga_inaturalist_0096.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_239807801.jpg
+train/plaga/plaga_inaturalist_0097.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_146668039.jpg
+train/plaga/plaga_lelephid_0098.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.307.jpg
+train/plaga/plaga_lelephid_0099.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.262.jpg
+train/plaga/plaga_lelephid_0100.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.329.jpg
+train/plaga/plaga_lelephid_0101.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.205.jpg
+train/plaga/plaga_inaturalist_0102.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_239956261.jpg
+train/plaga/plaga_inaturalist_0103.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_373390105.jpg
+train/plaga/plaga_lelephid_0104.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.308.jpg
+train/plaga/plaga_lelephid_0105.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.294.jpg
+train/plaga/plaga_manual_source_2_0106.jpg,plaga,train,manual_source_2,ver-metadata.csv-por-imagen,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_719287776_bb7fdc0a2472.jpg
+train/plaga/plaga_lelephid_0107.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.274.jpg
+train/plaga/plaga_lelephid_0108.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.242.jpg
+train/plaga/plaga_lelephid_0109.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.231.jpg
+train/plaga/plaga_manual_source_2_0110.jpg,plaga,train,manual_source_2,ver-metadata.csv-por-imagen,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_663364026_02b6e2e9bd42.jpg
+train/plaga/plaga_inaturalist_0111.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_336837117.jpg
+train/plaga/plaga_lelephid_0112.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.271.jpg
+train/plaga/plaga_lelephid_0113.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.222.jpg
+train/plaga/plaga_inaturalist_0114.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_188030722.jpg
+train/plaga/plaga_lelephid_0115.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.288.jpg
+train/plaga/plaga_lelephid_0116.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.301.jpg
+train/plaga/plaga_lelephid_0117.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.295.jpg
+train/plaga/plaga_lelephid_0118.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.289.jpg
+train/plaga/plaga_lelephid_0119.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.251.jpg
+train/plaga/plaga_lelephid_0120.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.189.jpg
+train/plaga/plaga_lelephid_0121.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.275.jpg
+train/plaga/plaga_lelephid_0122.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.201.jpg
+train/plaga/plaga_inaturalist_0123.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_291746551.jpg
+train/plaga/plaga_inaturalist_0124.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_197094878.jpg
+train/plaga/plaga_lelephid_0125.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.293.jpg
+train/plaga/plaga_lelephid_0126.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.265.jpg
+train/plaga/plaga_inaturalist_0127.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_329865741.jpg
+train/plaga/plaga_lelephid_0128.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.234.jpg
+train/plaga/plaga_inaturalist_0129.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_187414970.jpg
+train/plaga/plaga_inaturalist_0130.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_188333369.jpg
+train/plaga/plaga_lelephid_0131.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.195.jpg
+train/plaga/plaga_lelephid_0132.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.303.jpg
+train/plaga/plaga_lelephid_0133.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.192.jpg
+train/plaga/plaga_lelephid_0134.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.278.jpg
+train/plaga/plaga_lelephid_0135.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.331.jpg
+train/plaga/plaga_lelephid_0136.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.257.jpg
+train/plaga/plaga_lelephid_0137.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.249.jpg
+train/plaga/plaga_lelephid_0138.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.282.jpg
+train/plaga/plaga_lelephid_0139.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.212.jpg
+train/plaga/plaga_lelephid_0140.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.279.jpg
+train/plaga/plaga_lelephid_0141.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.188.jpg
+train/plaga/plaga_lelephid_0142.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.316.jpg
+train/plaga/plaga_lelephid_0143.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.325.jpg
+train/plaga/plaga_inaturalist_0144.jpg,plaga,train,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_381935090.jpg
+train/plaga/plaga_lelephid_0145.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.266.jpg
+train/plaga/plaga_lelephid_0146.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.321.jpg
+train/plaga/plaga_lelephid_0147.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.286.jpg
+train/plaga/plaga_manual_source_2_0148.jpg,plaga,train,manual_source_2,ver-metadata.csv-por-imagen,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_719287848_41b6ade87c88.jpg
+train/plaga/plaga_lelephid_0149.jpg,plaga,train,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.310.jpg
+val/plaga/plaga_lelephid_0000.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.240.jpg
+val/plaga/plaga_lelephid_0001.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.219.jpg
+val/plaga/plaga_lelephid_0002.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.313.jpg
+val/plaga/plaga_lelephid_0003.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.250.jpg
+val/plaga/plaga_lelephid_0004.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.281.jpg
+val/plaga/plaga_lelephid_0005.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.269.jpg
+val/plaga/plaga_lelephid_0006.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.272.jpg
+val/plaga/plaga_lelephid_0007.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.235.jpg
+val/plaga/plaga_lelephid_0008.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.299.jpg
+val/plaga/plaga_lelephid_0009.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.199.jpg
+val/plaga/plaga_manual_source_2_0010.jpg,plaga,val,manual_source_2,ver-metadata.csv-por-imagen,/home/misael/plagascan/dataset/raw/manual_source_2/inaturalist_619570404_0b8cb07d4c7c.jpg
+val/plaga/plaga_inaturalist_expanded_0011.jpg,plaga,val,inaturalist_expanded,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist_expanded/Aphis_gossypii_365991676.jpg
+val/plaga/plaga_lelephid_0012.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.229.jpg
+val/plaga/plaga_lelephid_0013.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.191.jpg
+val/plaga/plaga_lelephid_0014.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.320.jpg
+val/plaga/plaga_lelephid_0015.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.216.jpg
+val/plaga/plaga_lelephid_0016.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.298.jpg
+val/plaga/plaga_inaturalist_expanded_0017.jpg,plaga,val,inaturalist_expanded,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist_expanded/Aphis_craccivora_375704691.jpg
+val/plaga/plaga_lelephid_0018.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.277.jpg
+val/plaga/plaga_lelephid_0019.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.273.jpg
+val/plaga/plaga_lelephid_0020.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.213.jpg
+val/plaga/plaga_lelephid_0021.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.197.jpg
+val/plaga/plaga_lelephid_0022.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.287.jpg
+val/plaga/plaga_lelephid_0023.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.238.jpg
+val/plaga/plaga_lelephid_0024.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.258.jpg
+val/plaga/plaga_lelephid_0025.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.296.jpg
+val/plaga/plaga_lelephid_0026.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.230.jpg
+val/plaga/plaga_lelephid_0027.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.228.jpg
+val/plaga/plaga_inaturalist_expanded_0028.jpg,plaga,val,inaturalist_expanded,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist_expanded/Aphis_gossypii_366529453.jpg
+val/plaga/plaga_lelephid_0029.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.253.jpg
+val/plaga/plaga_lelephid_0030.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.200.jpg
+val/plaga/plaga_lelephid_0031.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.237.jpg
+val/plaga/plaga_inaturalist_0032.jpg,plaga,val,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_344009227.jpg
+val/plaga/plaga_inaturalist_0033.jpg,plaga,val,inaturalist,ver-inat_metadata.json,/home/misael/plagascan/dataset/raw/inaturalist/inat_260151995.jpg
+val/plaga/plaga_lelephid_0034.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.246.jpg
+val/plaga/plaga_lelephid_0035.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.322.jpg
+val/plaga/plaga_lelephid_0036.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.208.jpg
+val/plaga/plaga_lelephid_0037.jpg,plaga,val,lelephid,CC-BY-4.0,/home/misael/plagascan/dataset/raw/lelephid/LeLePhid An Images Dataset for Aphids Detection an/Images/aphid.193.jpg
+train/no_frijol/no_frijol_plantdoc_0000.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1320.jpg
+train/no_frijol/no_frijol_plantdoc_0001.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_369.jpg
+train/no_frijol/no_frijol_plantdoc_0002.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1333.jpg
+train/no_frijol/no_frijol_plantdoc_0003.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_258.jpg
+train/no_frijol/no_frijol_plantdoc_0004.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1302.jpg
+train/no_frijol/no_frijol_plantdoc_0005.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1316.jpg
+train/no_frijol/no_frijol_plantdoc_0006.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_604.jpg
+train/no_frijol/no_frijol_plantdoc_0007.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1810.jpg
+train/no_frijol/no_frijol_plantdoc_0008.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1325.jpg
+train/no_frijol/no_frijol_plantdoc_0009.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1554.jpg
+train/no_frijol/no_frijol_plantdoc_0010.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2298.jpg
+train/no_frijol/no_frijol_plantdoc_0011.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1336.jpg
+train/no_frijol/no_frijol_plantdoc_0012.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_318.jpg
+train/no_frijol/no_frijol_plantdoc_0013.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1732.jpg
+train/no_frijol/no_frijol_plantdoc_0014.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1340.jpg
+train/no_frijol/no_frijol_plantdoc_0015.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_566.jpg
+train/no_frijol/no_frijol_plantdoc_0016.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_223.jpg
+train/no_frijol/no_frijol_plantdoc_0017.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1284.jpg
+train/no_frijol/no_frijol_plantdoc_0018.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1308.jpg
+train/no_frijol/no_frijol_plantdoc_0019.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2314.jpg
+train/no_frijol/no_frijol_plantdoc_0020.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_267.jpg
+train/no_frijol/no_frijol_plantdoc_0021.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2255.jpg
+train/no_frijol/no_frijol_plantdoc_0022.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2471.jpg
+train/no_frijol/no_frijol_plantdoc_0023.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1530.jpg
+train/no_frijol/no_frijol_plantdoc_0024.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_2499.jpg
+train/no_frijol/no_frijol_plantdoc_0025.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1309.jpg
+train/no_frijol/no_frijol_plantdoc_0026.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2076.jpg
+train/no_frijol/no_frijol_plantdoc_0027.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1298.jpg
+train/no_frijol/no_frijol_plantdoc_0028.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_350.jpg
+train/no_frijol/no_frijol_plantdoc_0029.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_447.jpg
+train/no_frijol/no_frijol_plantdoc_0030.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_157.jpg
+train/no_frijol/no_frijol_plantdoc_0031.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_799.jpg
+train/no_frijol/no_frijol_plantdoc_0032.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1295.jpg
+train/no_frijol/no_frijol_plantdoc_0033.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2041.jpg
+train/no_frijol/no_frijol_plantdoc_0034.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1996.jpg
+train/no_frijol/no_frijol_plantdoc_0035.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1380.jpg
+train/no_frijol/no_frijol_plantdoc_0036.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1566.jpg
+train/no_frijol/no_frijol_plantdoc_0037.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1457.jpg
+train/no_frijol/no_frijol_plantdoc_0038.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1499.jpg
+train/no_frijol/no_frijol_plantdoc_0039.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1286.jpg
+train/no_frijol/no_frijol_plantdoc_0040.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1198.jpg
+train/no_frijol/no_frijol_plantdoc_0041.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_two_spotted_spider_mites_leaf_2228.jpg
+train/no_frijol/no_frijol_plantdoc_0042.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1304.jpg
+train/no_frijol/no_frijol_plantdoc_0043.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2127.jpg
+train/no_frijol/no_frijol_plantdoc_0044.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2313.jpg
+train/no_frijol/no_frijol_plantdoc_0045.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_181.jpg
+train/no_frijol/no_frijol_plantdoc_0046.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1486.jpg
+train/no_frijol/no_frijol_plantdoc_0047.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1112.jpg
+train/no_frijol/no_frijol_plantdoc_0048.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1314.jpg
+train/no_frijol/no_frijol_plantdoc_0049.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_743.jpg
+train/no_frijol/no_frijol_plantdoc_0050.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_183.jpg
+train/no_frijol/no_frijol_plantdoc_0051.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_440.jpg
+train/no_frijol/no_frijol_plantdoc_0052.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1433.jpg
+train/no_frijol/no_frijol_plantdoc_0053.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_247.jpg
+train/no_frijol/no_frijol_plantdoc_0054.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_117.jpg
+train/no_frijol/no_frijol_plantdoc_0055.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1197.jpg
+train/no_frijol/no_frijol_plantdoc_0056.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_787.jpg
+train/no_frijol/no_frijol_plantdoc_0057.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_26.jpg
+train/no_frijol/no_frijol_plantdoc_0058.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_1044.jpg
+train/no_frijol/no_frijol_plantdoc_0059.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1291.jpg
+train/no_frijol/no_frijol_plantdoc_0060.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1775.jpg
+train/no_frijol/no_frijol_plantdoc_0061.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2469.jpg
+train/no_frijol/no_frijol_plantdoc_0062.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1263.jpg
+train/no_frijol/no_frijol_plantdoc_0063.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1525.jpg
+train/no_frijol/no_frijol_plantdoc_0064.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_two_spotted_spider_mites_leaf_2229.jpg
+train/no_frijol/no_frijol_plantdoc_0065.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_476.jpg
+train/no_frijol/no_frijol_plantdoc_0066.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_89.jpg
+train/no_frijol/no_frijol_plantdoc_0067.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1328.jpg
+train/no_frijol/no_frijol_plantdoc_0068.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1532.jpg
+train/no_frijol/no_frijol_plantdoc_0069.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_502.jpg
+train/no_frijol/no_frijol_plantdoc_0070.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2470.jpg
+train/no_frijol/no_frijol_plantdoc_0071.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1794.jpg
+train/no_frijol/no_frijol_plantdoc_0072.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_189.jpg
+train/no_frijol/no_frijol_plantdoc_0073.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_510.jpg
+train/no_frijol/no_frijol_plantdoc_0074.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1143.jpg
+train/no_frijol/no_frijol_plantdoc_0075.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_615.jpg
+train/no_frijol/no_frijol_plantdoc_0076.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2150.jpg
+train/no_frijol/no_frijol_plantdoc_0077.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1390.jpg
+train/no_frijol/no_frijol_plantdoc_0078.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2548.jpg
+train/no_frijol/no_frijol_plantdoc_0079.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2552.jpg
+train/no_frijol/no_frijol_plantdoc_0080.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_347.jpg
+train/no_frijol/no_frijol_plantdoc_0081.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_212.jpg
+train/no_frijol/no_frijol_plantdoc_0082.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1296.jpg
+train/no_frijol/no_frijol_plantdoc_0083.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2086.jpg
+train/no_frijol/no_frijol_plantdoc_0084.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1939.jpg
+train/no_frijol/no_frijol_plantdoc_0085.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1339.jpg
+train/no_frijol/no_frijol_plantdoc_0086.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_322.jpg
+train/no_frijol/no_frijol_plantdoc_0087.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1859.jpg
+train/no_frijol/no_frijol_plantdoc_0088.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_572.jpg
+train/no_frijol/no_frijol_plantdoc_0089.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_895.jpg
+train/no_frijol/no_frijol_plantdoc_0090.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_898.jpg
+train/no_frijol/no_frijol_plantdoc_0091.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2107.jpg
+train/no_frijol/no_frijol_plantdoc_0092.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1289.jpg
+train/no_frijol/no_frijol_plantdoc_0093.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1704.jpg
+train/no_frijol/no_frijol_plantdoc_0094.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2543.jpg
+train/no_frijol/no_frijol_plantdoc_0095.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_84.jpg
+train/no_frijol/no_frijol_plantdoc_0096.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1844.jpg
+train/no_frijol/no_frijol_plantdoc_0097.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2018.jpg
+train/no_frijol/no_frijol_plantdoc_0098.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_552.jpg
+train/no_frijol/no_frijol_plantdoc_0099.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1315.jpg
+train/no_frijol/no_frijol_plantdoc_0100.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_105.jpg
+train/no_frijol/no_frijol_plantdoc_0101.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1297.jpg
+train/no_frijol/no_frijol_plantdoc_0102.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1294.jpg
+train/no_frijol/no_frijol_plantdoc_0103.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_767.jpg
+train/no_frijol/no_frijol_plantdoc_0104.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_487.jpg
+train/no_frijol/no_frijol_plantdoc_0105.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2081.jpg
+train/no_frijol/no_frijol_plantdoc_0106.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1982.jpg
+train/no_frijol/no_frijol_plantdoc_0107.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_953.jpg
+train/no_frijol/no_frijol_plantdoc_0108.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_19.jpg
+train/no_frijol/no_frijol_plantdoc_0109.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_482.jpg
+train/no_frijol/no_frijol_plantdoc_0110.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_331.jpg
+train/no_frijol/no_frijol_plantdoc_0111.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1655.jpg
+train/no_frijol/no_frijol_plantdoc_0112.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_539.jpg
+train/no_frijol/no_frijol_plantdoc_0113.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_873.jpg
+train/no_frijol/no_frijol_plantdoc_0114.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_285.jpg
+train/no_frijol/no_frijol_plantdoc_0115.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_420.jpg
+train/no_frijol/no_frijol_plantdoc_0116.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2295.jpg
+train/no_frijol/no_frijol_plantdoc_0117.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_164.jpg
+train/no_frijol/no_frijol_plantdoc_0118.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_2446.jpg
+train/no_frijol/no_frijol_plantdoc_0119.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_392.jpg
+train/no_frijol/no_frijol_plantdoc_0120.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_839.jpg
+train/no_frijol/no_frijol_plantdoc_0121.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2468.jpg
+train/no_frijol/no_frijol_plantdoc_0122.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1293.jpg
+train/no_frijol/no_frijol_plantdoc_0123.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_1.jpg
+train/no_frijol/no_frijol_plantdoc_0124.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_844.jpg
+train/no_frijol/no_frijol_plantdoc_0125.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1338.jpg
+train/no_frijol/no_frijol_plantdoc_0126.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2157.jpg
+train/no_frijol/no_frijol_plantdoc_0127.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2561.jpg
+train/no_frijol/no_frijol_plantdoc_0128.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_140.jpg
+train/no_frijol/no_frijol_plantdoc_0129.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2472.jpg
+train/no_frijol/no_frijol_plantdoc_0130.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2046.jpg
+train/no_frijol/no_frijol_plantdoc_0131.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1175.jpg
+train/no_frijol/no_frijol_plantdoc_0132.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_425.jpg
+train/no_frijol/no_frijol_plantdoc_0133.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_187.jpg
+train/no_frijol/no_frijol_plantdoc_0134.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1301.jpg
+train/no_frijol/no_frijol_plantdoc_0135.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2170.jpg
+train/no_frijol/no_frijol_plantdoc_0136.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1109.jpg
+train/no_frijol/no_frijol_plantdoc_0137.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1337.jpg
+train/no_frijol/no_frijol_plantdoc_0138.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_524.jpg
+train/no_frijol/no_frijol_plantdoc_0139.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1251.jpg
+train/no_frijol/no_frijol_plantdoc_0140.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_983.jpg
+train/no_frijol/no_frijol_plantdoc_0141.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1330.jpg
+train/no_frijol/no_frijol_plantdoc_0142.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_33.jpg
+train/no_frijol/no_frijol_plantdoc_0143.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1789.jpg
+train/no_frijol/no_frijol_plantdoc_0144.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_967.jpg
+train/no_frijol/no_frijol_plantdoc_0145.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1313.jpg
+train/no_frijol/no_frijol_plantdoc_0146.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_917.jpg
+train/no_frijol/no_frijol_plantdoc_0147.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1984.jpg
+train/no_frijol/no_frijol_plantdoc_0148.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_2410.jpg
+train/no_frijol/no_frijol_plantdoc_0149.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1978.jpg
+train/no_frijol/no_frijol_plantdoc_0150.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1231.jpg
+train/no_frijol/no_frijol_plantdoc_0151.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_330.jpg
+train/no_frijol/no_frijol_plantdoc_0152.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1438.jpg
+train/no_frijol/no_frijol_plantdoc_0153.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_445.jpg
+train/no_frijol/no_frijol_plantdoc_0154.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_110.jpg
+train/no_frijol/no_frijol_plantdoc_0155.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2270.jpg
+train/no_frijol/no_frijol_plantdoc_0156.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1118.jpg
+train/no_frijol/no_frijol_plantdoc_0157.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1329.jpg
+train/no_frijol/no_frijol_plantdoc_0158.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1589.jpg
+train/no_frijol/no_frijol_plantdoc_0159.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_494.jpg
+train/no_frijol/no_frijol_plantdoc_0160.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1335.jpg
+train/no_frijol/no_frijol_plantdoc_0161.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1377.jpg
+train/no_frijol/no_frijol_plantdoc_0162.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1590.jpg
+train/no_frijol/no_frijol_plantdoc_0163.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2283.jpg
+train/no_frijol/no_frijol_plantdoc_0164.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1122.jpg
+train/no_frijol/no_frijol_plantdoc_0165.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1780.jpg
+train/no_frijol/no_frijol_plantdoc_0166.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_238.jpg
+train/no_frijol/no_frijol_plantdoc_0167.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1170.jpg
+train/no_frijol/no_frijol_plantdoc_0168.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1934.jpg
+train/no_frijol/no_frijol_plantdoc_0169.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1572.jpg
+train/no_frijol/no_frijol_plantdoc_0170.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2332.jpg
+train/no_frijol/no_frijol_plantdoc_0171.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_802.jpg
+train/no_frijol/no_frijol_plantdoc_0172.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_865.jpg
+train/no_frijol/no_frijol_plantdoc_0173.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_2010.jpg
+train/no_frijol/no_frijol_plantdoc_0174.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2174.jpg
+train/no_frijol/no_frijol_plantdoc_0175.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2296.jpg
+train/no_frijol/no_frijol_plantdoc_0176.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1318.jpg
+train/no_frijol/no_frijol_plantdoc_0177.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1693.jpg
+train/no_frijol/no_frijol_plantdoc_0178.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_14.jpg
+train/no_frijol/no_frijol_plantdoc_0179.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2204.jpg
+train/no_frijol/no_frijol_plantdoc_0180.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_796.jpg
+train/no_frijol/no_frijol_plantdoc_0181.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1218.jpg
+train/no_frijol/no_frijol_plantdoc_0182.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_556.jpg
+train/no_frijol/no_frijol_plantdoc_0183.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_854.jpg
+train/no_frijol/no_frijol_plantdoc_0184.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2474.jpg
+train/no_frijol/no_frijol_plantdoc_0185.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2475.jpg
+train/no_frijol/no_frijol_plantdoc_0186.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1662.jpg
+train/no_frijol/no_frijol_plantdoc_0187.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1303.jpg
+train/no_frijol/no_frijol_plantdoc_0188.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_50.jpg
+train/no_frijol/no_frijol_plantdoc_0189.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1606.jpg
+train/no_frijol/no_frijol_plantdoc_0190.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1902.jpg
+train/no_frijol/no_frijol_plantdoc_0191.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2113.jpg
+train/no_frijol/no_frijol_plantdoc_0192.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1918.jpg
+train/no_frijol/no_frijol_plantdoc_0193.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_282.jpg
+train/no_frijol/no_frijol_plantdoc_0194.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2188.jpg
+train/no_frijol/no_frijol_plantdoc_0195.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_306.jpg
+train/no_frijol/no_frijol_plantdoc_0196.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_259.jpg
+train/no_frijol/no_frijol_plantdoc_0197.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_138.jpg
+train/no_frijol/no_frijol_plantdoc_0198.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1568.jpg
+train/no_frijol/no_frijol_plantdoc_0199.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2118.jpg
+train/no_frijol/no_frijol_plantdoc_0200.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1319.jpg
+train/no_frijol/no_frijol_plantdoc_0201.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2311.jpg
+train/no_frijol/no_frijol_plantdoc_0202.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2562.jpg
+train/no_frijol/no_frijol_plantdoc_0203.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1124.jpg
+train/no_frijol/no_frijol_plantdoc_0204.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_292.jpg
+train/no_frijol/no_frijol_plantdoc_0205.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_437.jpg
+train/no_frijol/no_frijol_plantdoc_0206.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1436.jpg
+train/no_frijol/no_frijol_plantdoc_0207.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_2473.jpg
+train/no_frijol/no_frijol_plantdoc_0208.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2212.jpg
+train/no_frijol/no_frijol_plantdoc_0209.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1818.jpg
+train/no_frijol/no_frijol_plantdoc_0210.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_15.jpg
+train/no_frijol/no_frijol_plantdoc_0211.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_663.jpg
+train/no_frijol/no_frijol_plantdoc_0212.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2272.jpg
+train/no_frijol/no_frijol_plantdoc_0213.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1919.jpg
+train/no_frijol/no_frijol_plantdoc_0214.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2114.jpg
+train/no_frijol/no_frijol_plantdoc_0215.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1287.jpg
+train/no_frijol/no_frijol_plantdoc_0216.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1989.jpg
+train/no_frijol/no_frijol_plantdoc_0217.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_43.jpg
+train/no_frijol/no_frijol_plantdoc_0218.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2265.jpg
+train/no_frijol/no_frijol_plantdoc_0219.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_689.jpg
+train/no_frijol/no_frijol_plantdoc_0220.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1430.jpg
+train/no_frijol/no_frijol_plantdoc_0221.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1760.jpg
+train/no_frijol/no_frijol_plantdoc_0222.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_1032.jpg
+train/no_frijol/no_frijol_plantdoc_0223.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_878.jpg
+train/no_frijol/no_frijol_plantdoc_0224.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_196.jpg
+train/no_frijol/no_frijol_plantdoc_0225.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1290.jpg
+train/no_frijol/no_frijol_plantdoc_0226.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_218.jpg
+train/no_frijol/no_frijol_plantdoc_0227.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1980.jpg
+train/no_frijol/no_frijol_plantdoc_0228.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_2391.jpg
+train/no_frijol/no_frijol_plantdoc_0229.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2077.jpg
+train/no_frijol/no_frijol_plantdoc_0230.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_1046.jpg
+train/no_frijol/no_frijol_plantdoc_0231.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1961.jpg
+train/no_frijol/no_frijol_plantdoc_0232.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1959.jpg
+train/no_frijol/no_frijol_plantdoc_0233.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_326.jpg
+train/no_frijol/no_frijol_plantdoc_0234.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1306.jpg
+train/no_frijol/no_frijol_plantdoc_0235.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1317.jpg
+train/no_frijol/no_frijol_plantdoc_0236.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1310.jpg
+train/no_frijol/no_frijol_plantdoc_0237.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2137.jpg
+train/no_frijol/no_frijol_plantdoc_0238.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_290.jpg
+train/no_frijol/no_frijol_plantdoc_0239.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1660.jpg
+train/no_frijol/no_frijol_plantdoc_0240.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1944.jpg
+train/no_frijol/no_frijol_plantdoc_0241.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_3.jpg
+train/no_frijol/no_frijol_plantdoc_0242.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1633.jpg
+train/no_frijol/no_frijol_plantdoc_0243.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1285.jpg
+train/no_frijol/no_frijol_plantdoc_0244.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2177.jpg
+train/no_frijol/no_frijol_plantdoc_0245.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_525.jpg
+train/no_frijol/no_frijol_plantdoc_0246.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_894.jpg
+train/no_frijol/no_frijol_plantdoc_0247.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1613.jpg
+train/no_frijol/no_frijol_plantdoc_0248.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1985.jpg
+train/no_frijol/no_frijol_plantdoc_0249.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1472.jpg
+train/no_frijol/no_frijol_plantdoc_0250.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_2416.jpg
+train/no_frijol/no_frijol_plantdoc_0251.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_805.jpg
+train/no_frijol/no_frijol_plantdoc_0252.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2323.jpg
+train/no_frijol/no_frijol_plantdoc_0253.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_spot_301.jpg
+train/no_frijol/no_frijol_plantdoc_0254.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_2538.jpg
+train/no_frijol/no_frijol_plantdoc_0255.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1595.jpg
+train/no_frijol/no_frijol_plantdoc_0256.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_1035.jpg
+train/no_frijol/no_frijol_plantdoc_0257.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_315.jpg
+train/no_frijol/no_frijol_plantdoc_0258.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1321.jpg
+train/no_frijol/no_frijol_plantdoc_0259.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Blueberry_leaf_2390.jpg
+train/no_frijol/no_frijol_plantdoc_0260.jpg,no_frijol,train,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1341.jpg
+val/no_frijol/no_frijol_plantdoc_0000.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1327.jpg
+val/no_frijol/no_frijol_plantdoc_0001.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_316.jpg
+val/no_frijol/no_frijol_plantdoc_0002.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_mosaic_virus_1991.jpg
+val/no_frijol/no_frijol_plantdoc_0003.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1280.jpg
+val/no_frijol/no_frijol_plantdoc_0004.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1542.jpg
+val/no_frijol/no_frijol_plantdoc_0005.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1808.jpg
+val/no_frijol/no_frijol_plantdoc_0006.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_491.jpg
+val/no_frijol/no_frijol_plantdoc_0007.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2271.jpg
+val/no_frijol/no_frijol_plantdoc_0008.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_rust_leaf_217.jpg
+val/no_frijol/no_frijol_plantdoc_0009.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_1025.jpg
+val/no_frijol/no_frijol_plantdoc_0010.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1299.jpg
+val/no_frijol/no_frijol_plantdoc_0011.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1169.jpg
+val/no_frijol/no_frijol_plantdoc_0012.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_2418.jpg
+val/no_frijol/no_frijol_plantdoc_0013.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1155.jpg
+val/no_frijol/no_frijol_plantdoc_0014.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2558.jpg
+val/no_frijol/no_frijol_plantdoc_0015.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_483.jpg
+val/no_frijol/no_frijol_plantdoc_0016.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1262.jpg
+val/no_frijol/no_frijol_plantdoc_0017.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1334.jpg
+val/no_frijol/no_frijol_plantdoc_0018.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1311.jpg
+val/no_frijol/no_frijol_plantdoc_0019.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_bacterial_spot_1853.jpg
+val/no_frijol/no_frijol_plantdoc_0020.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2285.jpg
+val/no_frijol/no_frijol_plantdoc_0021.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1324.jpg
+val/no_frijol/no_frijol_plantdoc_0022.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2119.jpg
+val/no_frijol/no_frijol_plantdoc_0023.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1517.jpg
+val/no_frijol/no_frijol_plantdoc_0024.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_Scab_Leaf_35.jpg
+val/no_frijol/no_frijol_plantdoc_0025.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2053.jpg
+val/no_frijol/no_frijol_plantdoc_0026.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2286.jpg
+val/no_frijol/no_frijol_plantdoc_0027.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_2409.jpg
+val/no_frijol/no_frijol_plantdoc_0028.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_mold_leaf_2227.jpg
+val/no_frijol/no_frijol_plantdoc_0029.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Early_blight_leaf_1614.jpg
+val/no_frijol/no_frijol_plantdoc_0030.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Squash_Powdery_mildew_leaf_1343.jpg
+val/no_frijol/no_frijol_plantdoc_0031.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1323.jpg
+val/no_frijol/no_frijol_plantdoc_0032.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_2302.jpg
+val/no_frijol/no_frijol_plantdoc_0033.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_2116.jpg
+val/no_frijol/no_frijol_plantdoc_0034.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1888.jpg
+val/no_frijol/no_frijol_plantdoc_0035.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1292.jpg
+val/no_frijol/no_frijol_plantdoc_0036.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_rust_leaf_815.jpg
+val/no_frijol/no_frijol_plantdoc_0037.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_962.jpg
+val/no_frijol/no_frijol_plantdoc_0038.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1300.jpg
+val/no_frijol/no_frijol_plantdoc_0039.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_651.jpg
+val/no_frijol/no_frijol_plantdoc_0040.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_544.jpg
+val/no_frijol/no_frijol_plantdoc_0041.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_995.jpg
+val/no_frijol/no_frijol_plantdoc_0042.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1322.jpg
+val/no_frijol/no_frijol_plantdoc_0043.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1307.jpg
+val/no_frijol/no_frijol_plantdoc_0044.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_early_blight_1071.jpg
+val/no_frijol/no_frijol_plantdoc_0045.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Bell_pepper_leaf_343.jpg
+val/no_frijol/no_frijol_plantdoc_0046.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_662.jpg
+val/no_frijol/no_frijol_plantdoc_0047.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_late_blight_1962.jpg
+val/no_frijol/no_frijol_plantdoc_0048.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Cherry_leaf_509.jpg
+val/no_frijol/no_frijol_plantdoc_0049.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1305.jpg
+val/no_frijol/no_frijol_plantdoc_0050.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_leaf_yellow_virus_2045.jpg
+val/no_frijol/no_frijol_plantdoc_0051.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1332.jpg
+val/no_frijol/no_frijol_plantdoc_0052.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_leaf_blight_577.jpg
+val/no_frijol/no_frijol_plantdoc_0053.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Potato_leaf_late_blight_1087.jpg
+val/no_frijol/no_frijol_plantdoc_0054.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Raspberry_leaf_1206.jpg
+val/no_frijol/no_frijol_plantdoc_0055.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/grape_leaf_black_rot_2230.jpg
+val/no_frijol/no_frijol_plantdoc_0056.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1326.jpg
+val/no_frijol/no_frijol_plantdoc_0057.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Peach_leaf_889.jpg
+val/no_frijol/no_frijol_plantdoc_0058.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1288.jpg
+val/no_frijol/no_frijol_plantdoc_0059.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1312.jpg
+val/no_frijol/no_frijol_plantdoc_0060.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Tomato_Septoria_leaf_spot_1755.jpg
+val/no_frijol/no_frijol_plantdoc_0061.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Corn_Gray_leaf_spot_538.jpg
+val/no_frijol/no_frijol_plantdoc_0062.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1465.jpg
+val/no_frijol/no_frijol_plantdoc_0063.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Strawberry_leaf_1527.jpg
+val/no_frijol/no_frijol_plantdoc_0064.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Apple_leaf_141.jpg
+val/no_frijol/no_frijol_plantdoc_0065.jpg,no_frijol,val,plantdoc,CC-BY-4.0,/home/misael/plagascan/dataset_no_frijol/consolidado/Soyabean_leaf_1331.jpg

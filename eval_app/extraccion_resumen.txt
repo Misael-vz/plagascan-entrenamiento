@@ -1,0 +1,87 @@
+# com.example.proyecto
+## Log de recoleccion: 31 filas
+  2026-08-28: {'otros': 13}
+  2026-08-31: {'frijol/sano': 13, 'frijol/no_confirmada': 3, 'otros': 2}
+## Prediccion al capturar vs re-evaluacion con v4 (tflite actual)
+  [frijol/no_confirmada | YA EN ENTRENAMIENTO] n=3
+      al capturar: {'no_frijol': 3}
+      v4 app:      {'sano': 3}
+  [frijol/sano | YA EN ENTRENAMIENTO] n=13 | aciertos al capturar 1/13 | v4 entrenamiento 13/13 | v4 app 11/13
+      al capturar: {'no_frijol': 11, 'sano': 1, 'no_detectado': 1}
+      v4 app:      {'sano': 11, 'no_frijol': 1, 'rechazada_segmentador': 1}
+  [otros | nuevas] n=15 | aciertos al capturar 15/15 | v4 entrenamiento 14/15 | v4 app 14/15
+      al capturar: {'no_frijol': 15}
+      v4 app:      {'no_frijol': 14, 'plaga': 1}
+## Historial Room: 13 registros
+  2026-09-04: {'sano/VERDE': 1}
+  2026-09-22: {'sano/VERDE': 4, 'sano/AMARILLO': 3}
+  2026-09-23: {'sano/AMARILLO': 2, 'sano/VERDE': 3}
+  Con ubicacion: 8/13
+  Origen (notas): {'captura_camara_secuencia': 13}
+  Ultimos 25:
+    09-04 14:16 | sano 0.941 VERDE | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-22 17:18 | sano 0.834 VERDE | captura_camara_secuencia [secuencia 3 fotos: 3/3 validas]
+    09-22 17:18 | sano 0.568 AMARILLO | captura_camara_secuencia [secuencia 3 fotos: 2/3 validas]
+    09-22 17:19 | sano 0.925 VERDE | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-22 17:21 | sano 0.662 AMARILLO | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-22 17:22 | sano 0.903 VERDE | captura_camara_secuencia [secuencia 3 fotos: 2/3 validas]
+    09-22 17:26 | sano 0.666 AMARILLO | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-22 17:27 | sano 0.831 VERDE | captura_camara_secuencia [secuencia 3 fotos: 2/3 validas]
+    09-23 17:26 | sano 0.600 AMARILLO | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-23 17:43 | sano 0.519 AMARILLO | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-23 17:49 | sano 0.888 VERDE | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-23 17:52 | sano 0.997 VERDE | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-23 17:56 | sano 0.922 VERDE | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+
+# com.example.proyecto.recolector
+## Log de recoleccion: 51 filas
+  2026-09-01: {'otros': 14}
+  2026-09-04: {'frijol/sano': 4, 'otros': 1}
+  2026-09-08: {'frijol/sano': 9}
+  2026-09-17: {'otros': 1}
+  2026-09-22: {'frijol/sano': 12, 'frijol/dudoso': 6, 'otros': 3}
+  2026-09-23: {'frijol/dudoso': 1}
+## Prediccion al capturar vs re-evaluacion con v4 (tflite actual)
+  [frijol/dudoso | nuevas] n=7
+      al capturar: {'sano': 3, 'no_frijol': 4}
+      v4 app:      {'sano': 3, 'no_frijol': 4}
+  [frijol/sano | nuevas] n=25 | aciertos al capturar 18/25 | v4 entrenamiento 19/25 | v4 app 18/25
+      al capturar: {'sano': 18, 'no_frijol': 4, 'no_detectado': 3}
+      v4 app:      {'sano': 18, 'no_frijol': 5, 'rechazada_segmentador': 2}
+  [otros | nuevas] n=19 | aciertos al capturar 14/19 | v4 entrenamiento 16/19 | v4 app 13/19
+      al capturar: {'no_frijol': 14, 'plaga': 1, 'sano': 1, 'no_detectado': 3}
+      v4 app:      {'no_frijol': 13, 'plaga': 2, 'sano': 1, 'rechazada_segmentador': 3}
+## Historial Room: 24 registros
+  2026-09-04: {'sano/VERDE': 1}
+  2026-09-08: {'sano/VERDE': 6}
+  2026-09-17: {'sano/VERDE': 2, 'plaga/ROJO': 1, 'plaga/AMARILLO': 1}
+  2026-09-18: {'sano/VERDE': 4, 'plaga/ROJO': 4}
+  2026-09-22: {'sano/VERDE': 1}
+  2026-09-23: {'sano/AMARILLO': 2, 'sano/VERDE': 1, 'plaga/ROJO': 1}
+  Con ubicacion: 15/24
+  Origen (notas): {'recoleccion_examen': 10, 'test_sano.jpg': 7, 'test_plaga.jpg': 6, 'captura_camara_secuencia': 1}
+  Ultimos 25:
+    09-04 14:16 | sano 0.844 VERDE | recoleccion_examen [secuencia 3 fotos: 3/3 validas]
+    09-08 14:32 | sano 0.998 VERDE | recoleccion_examen [secuencia 3 fotos: 3/3 validas]
+    09-08 14:32 | sano 0.998 VERDE | recoleccion_examen [secuencia 3 fotos: 3/3 validas]
+    09-08 21:18 | sano 0.994 VERDE | recoleccion_examen [secuencia 3 fotos: 1/3 validas]
+    09-08 21:19 | sano 0.991 VERDE | recoleccion_examen [secuencia 3 fotos: 1/3 validas]
+    09-08 21:19 | sano 0.991 VERDE | recoleccion_examen [secuencia 3 fotos: 1/3 validas]
+    09-08 21:19 | sano 0.850 VERDE | recoleccion_examen [secuencia 3 fotos: 2/3 validas]
+    09-17 18:33 | sano 1.000 VERDE | test_sano.jpg
+    09-17 18:33 | plaga 0.999 ROJO | test_plaga.jpg
+    09-17 18:33 | sano 1.000 VERDE | test_sano.jpg
+    09-17 18:33 | plaga 0.462 AMARILLO | captura_camara_secuencia [secuencia 3 fotos: 1/3 validas]
+    09-18 12:24 | sano 1.000 VERDE | test_sano.jpg
+    09-18 12:24 | plaga 0.999 ROJO | test_plaga.jpg
+    09-18 13:08 | sano 1.000 VERDE | test_sano.jpg
+    09-18 13:08 | plaga 0.999 ROJO | test_plaga.jpg
+    09-18 17:46 | sano 1.000 VERDE | test_sano.jpg
+    09-18 17:46 | sano 1.000 VERDE | test_sano.jpg
+    09-18 17:46 | plaga 0.999 ROJO | test_plaga.jpg
+    09-18 17:47 | plaga 0.999 ROJO | test_plaga.jpg
+    09-22 17:31 | sano 0.942 VERDE | recoleccion_examen [secuencia 3 fotos: 3/3 validas]
+    09-23 15:12 | sano 0.755 AMARILLO | recoleccion_examen [secuencia 3 fotos: 1/3 validas]
+    09-23 15:12 | sano 0.755 AMARILLO | recoleccion_examen [secuencia 3 fotos: 1/3 validas]
+    09-23 17:46 | sano 1.000 VERDE | test_sano.jpg
+    09-23 17:46 | plaga 0.999 ROJO | test_plaga.jpg

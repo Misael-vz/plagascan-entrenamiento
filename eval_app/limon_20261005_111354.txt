@@ -1,0 +1,8 @@
+# ¿Pulgón o hoja de limón? -- 2026-10-05 11:13
+Modelo de la app: /home/misael/AndroidStudioProjects/proyecto/app/src/main/assets/plagascan_mobilenetv2.tflite (8691 KB)
+LeLePhid en disco: 330 hojas sanas, 335 con pulgón (150 usadas en el dataset, 185 sin usar)
+Hojas de limón sanas que ya están en el dataset: ninguna
+
+grupo                                       n |     plaga ROJO plaga AMARILLO     sano VERDE  sano AMARILLO      no_frijol       sin_hoja
+limón SANO (se espera no_frijol)          330 |            255             37              3              3             32              0
+limón CON pulgón, sin usar (plaga)        185 |            175              7              0              1              2              0

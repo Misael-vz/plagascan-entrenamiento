@@ -1,0 +1,17 @@
+# dataset_seg -- procesado con el flujo de la app
+
+## Archivos generados (train incluye 4 versiones por foto)
+  train/no_frijol: 1044
+  train/plaga: 600
+  train/sano: 832
+  val/no_frijol: 66
+  val/plaga: 38
+  val/sano: 40
+
+## Fotos en las que la app NO veria una hoja clara (usan la foto completa aqui)
+  train/no_frijol: 12 de 261 (5 %)
+  train/plaga: 2 de 150 (1 %)
+  train/sano: 5 de 208 (2 %)
+  val/no_frijol: 4 de 66 (6 %)
+  val/plaga: 0 de 38 (0 %)
+  val/sano: 0 de 40 (0 %)
