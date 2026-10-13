@@ -1,0 +1,9 @@
+grupo,archivo,hoja_encontrada,p_no_frijol,p_plaga,p_sano,prediccion
+plaga (base de datos),dataset_v7/val/plaga/plaga_lelephid_0368.jpg,True,0.1797,0.8203,0.0000,plaga
+plaga (base de datos),dataset_v7/val/plaga/plaga_lelephid_0354.jpg,True,0.0351,0.9649,0.0000,plaga
+plaga (base de datos),dataset_v7/val/plaga/plaga_lelephid_0373.jpg,True,0.0001,0.9999,0.0000,plaga
+plaga (base de datos),dataset_v7/val/plaga/plaga_inaturalist_expanded_0367.jpg,True,0.9929,0.0061,0.0010,no_frijol
+sano (base de datos),dataset_v7/val/sano/sano_makerere_0164.jpg,True,0.0002,0.0000,0.9998,sano
+sano (base de datos),dataset_v7/val/sano/sano_makerere_0194.jpg,True,0.0000,0.0000,1.0000,sano
+sano (base de datos),dataset_v7/val/sano/sano_makerere_0166.jpg,True,0.0000,0.0000,1.0000,sano
+sano (base de datos),dataset_v7/val/sano/sano_makerere_0183.jpg,True,0.0227,0.0063,0.9710,sano

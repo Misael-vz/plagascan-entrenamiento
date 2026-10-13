@@ -1,0 +1,18 @@
+grupo,archivo,hoja_encontrada,p_no_frijol,p_plaga,p_sano,prediccion
+plaga (base de datos),dataset_v7/val/plaga/plaga_lelephid_0368.jpg,True,0.1797,0.8203,0.0000,plaga
+plaga (base de datos),dataset_v7/val/plaga/plaga_lelephid_0354.jpg,True,0.0351,0.9649,0.0000,plaga
+sano (base de datos),dataset_v7/val/sano/sano_makerere_0185.jpg,True,0.0000,0.0000,1.0000,sano
+sano (base de datos),dataset_v7/val/sano/sano_makerere_0163.jpg,True,0.0000,0.0000,1.0000,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224047060.jpg,True,0.9046,0.0048,0.0906,no_frijol
+imitación (foto propia),senuelos_cerca/IMG_20261012_224057291.jpg,True,0.0001,0.0000,0.9999,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224100266.jpg,True,0.7191,0.2353,0.0456,no_frijol
+imitación (foto propia),senuelos_cerca/IMG_20261012_224103646.jpg,True,0.2143,0.2981,0.4877,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224105804.jpg,True,0.3294,0.0002,0.6704,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224106931.jpg,True,0.6360,0.0046,0.3594,no_frijol
+imitación (foto propia),senuelos_cerca/IMG_20261012_224108156.jpg,True,0.0447,0.0007,0.9547,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224109752.jpg,True,0.0521,0.8957,0.0522,plaga
+imitación (foto propia),senuelos_cerca/IMG_20261012_224114335.jpg,True,0.3009,0.0020,0.6971,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224115803.jpg,True,0.0484,0.0003,0.9513,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224117698.jpg,True,0.0348,0.0001,0.9651,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224119300.jpg,True,0.1427,0.0007,0.8566,sano
+imitación (foto propia),senuelos_cerca/IMG_20261012_224121465.jpg,True,0.3105,0.0001,0.6895,sano
